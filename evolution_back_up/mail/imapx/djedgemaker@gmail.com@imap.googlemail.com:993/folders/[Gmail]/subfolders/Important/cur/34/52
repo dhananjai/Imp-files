@@ -1,0 +1,1279 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.169.66 with SMTP id x2cs4027vcy;
+        Wed, 10 Aug 2011 20:01:51 -0700 (PDT)
+Return-Path: <jbmyid@gmail.com>
+Received-SPF: pass (google.com: domain of jbmyid@gmail.com designates 10.236.136.67 as permitted sender) client-ip=10.236.136.67;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of jbmyid@gmail.com designates 10.236.136.67 as permitted sender) smtp.mail=jbmyid@gmail.com; dkim=pass header.i=jbmyid@gmail.com
+Received: from mr.google.com ([10.236.136.67])
+        by 10.236.136.67 with SMTP id v43mr13331020yhi.180.1313031710724 (num_hops = 1);
+        Wed, 10 Aug 2011 20:01:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=BUl2BujDi8no+k6KLXdQDpP1lTYocDsyXOfzz9LY0Zo=;
+        b=s4Y6MEIZkFlV/V+AOgJrw9wEm9/EbwfzSJgDayR44T2RNSMbBdBDKrOM7FBgngnF/V
+         JsIHzRj11usSseMV88FwxpYy5sBriH0rTyOEZiqi6ioJXnIgC1a6h1SlVxXJguRmn2rK
+         ApXOkorloqZFwH+NAxDb1Lj2oOEpl2EPQX4s8=
+MIME-Version: 1.0
+Received: by 10.236.136.67 with SMTP id v43mr9768825yhi.180.1313031710545;
+ Wed, 10 Aug 2011 20:01:50 -0700 (PDT)
+Received: by 10.236.95.165 with HTTP; Wed, 10 Aug 2011 20:01:50 -0700 (PDT)
+In-Reply-To: <CAHdRi9=WBnLiviyYvE_psOJswVqWxCuOpq5sO1BdP6ydXC_Azg@mail.gmail.com>
+References: <1312941201.20921.YahooMailClassic@web95515.mail.in.yahoo.com>
+	<CAHdRi9=WBnLiviyYvE_psOJswVqWxCuOpq5sO1BdP6ydXC_Azg@mail.gmail.com>
+Date: Thu, 11 Aug 2011 08:31:50 +0530
+Message-ID: <CAAcq37zmoELmDc0fiy60+YE6MctUwvT3RaJ80z0oh809_x-0Lg@mail.gmail.com>
+Subject: =?UTF-8?B?RndkOiDgpIfgpKTgpKjgpL4g4KSr4KWJ4KSw4KS14KSw4KWN4KShIOCkleCksOCliyA=?=
+	=?UTF-8?B?4KSV4KWAIOCkj+CklSDgpIbgpKjgpY3gpKbgpYvgpLLgpKgg4KSs4KSoIOCknOCkvuCkr+Clhw==?=
+From: Jalendra Bhanarkar <jbmyid@gmail.com>
+To: nilesh bhurke <winner.nilesh@gmail.com>, 
+	Ashish Sawarkar <mr.ashish_sawarkar@rediffmail.com>, 
+	=?UTF-8?B?4pml4pWs4pmlIOCkheCktuCljeCkteCkv+CkqOClgCDimaXilazimaU=?= <ashwiniwarhade1990@gmail.com>, 
+	Ashish Bajirao <ashish.bajirao@gmail.com>, Abhyuday Patrikar <abhyu855@gmail.com>, 
+	ATUL TETE <atultete8887@gmail.com>, 
+	=?ISO-8859-1?Q?=A7agaR_=2E=2EwaTch=21tHE_bEst_Is_yeT2coMe?= <sgrryt@gmail.com>, 
+	=?UTF-8?B?4oCi4pmlwrTCqEN8LXwwYzB8X0BURSBCMFnigKLimaXCtMKoYOKZpeKAoi4uLuKAouKZpcK04pml4oCi?=
+	=?UTF-8?B?Lg==?= <ashuluv.ingle72@gmail.com>, 
+	Yashodhan Bhadsawale <yashweb1@gmail.com>, "girish the cooool....boy" <mygb24id@gmail.com>, 
+	nikhil bhoyar <nikhilbhr@gmail.com>, SNEHA BONDE <snehachank@gmail.com>, 
+	Sagar Bindalkar <sagarbindalkar@gmail.com>, anupshende@ymail.com, ashwinigour90@yahoo.com, 
+	campus <campus@servicenet.in>, Deepak Chopkar <chopkardeepak@ymail.com>, funde.nikhil@gmail.com, 
+	pramodtiwari@live.com, priyanka.kadhav_0409@yahoo.com, 
+	rishisaxena30@yahoo.com, sheela@kionasoftware.com, 
+	shonali Choudhary <shonalichdhr2@gmail.com>, subhash215@gmail.com, djedgemaker@gmail.com, 
+	"@m^t de crazy tiger" <amitspeedsup@gmail.com>, dhara Gohel <goheldhara@ymail.com>, 
+	=?UTF-8?B?TmVoQCBkw6HFhGfFkcWVZS4uLiDCuyDiiILRlM6x4oSTzrnOt2cgz4nOudGC0L0gz4XOt9GUz4fPgdGU?=
+	=?UTF-8?B?wqLRgtGU4oiCLi4u?= <neha.gcr@gmail.com>, 
+	"Rahana hai tere dil me........" <thakuranand52@gmail.com>, 
+	"SiNgH Iz Me:jus enjoy d life........" <sexyridhi.singh@gmail.com>, 
+	"Sunit, D-day is abt to arrive......" <sunit.shekhar@gmail.com>, devmyluck@gmail.com, 
+	Ekta Kanojia <Ekta.Kanojia@globallogic.com>, easily.workfromhome@gmail.com, 
+	ekta.kanoja@globallogic.com, prachi gujarathi <abhaygujarathi96@gmail.com>, 
+	priya gour <priyagour90@gmail.com>, Samir G <skgharpinde@gmail.com>, 
+	"smr!t! .....yeT,m!LeS 2 g0........." <smriti12121995@gmail.com>, Honey ilame <honeyilame50@gmail.com>, 
+	=?UTF-8?B?44OE4peP4LmL4oCi2qnFkW3hu4PaqWjil4/guYvigKLjg4QgxKFAw7HEoeKXj+KUvHIh?= <sommax23@yahoo.com>, 
+	indradev kumar <indradevkr2011@gmail.com>, sunil Ingle <sunilingle007@gmail.com>, 
+	abhishek jaipurkar <jaipurkar.abhishek@gmail.com>, pallavi jaiswal <palshri19@gmail.com>, 
+	kumar premankit <premankit@gmail.com>, kulbhushan shahu <kulbhushan.gm@gmail.com>, 
+	sachin singh <kumar.sachin.singh89@gmail.com>, sushma kokate <sona.sweet29@gmail.com>, 
+	Kirti naidu <Kirtinaidu8@gmail.com>, kkundan2003@yahoo.co.in, 
+	"nehashree ........lyf a mess" <ns0647@gmail.com>, 
+	apeksha looking for crazy friends <myid.apeksha01@gmail.com>
+Content-Type: multipart/related; boundary=20cf303bfe26af97fb04aa3204ea
+
+--20cf303bfe26af97fb04aa3204ea
+Content-Type: multipart/alternative; boundary=20cf303bfe26af97f804aa3204e9
+
+--20cf303bfe26af97f804aa3204e9
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+LS0tLS0tLS0tLSBGb3J3YXJkZWQgbWVzc2FnZSAtLS0tLS0tLS0tCkZyb206IGFsZXggc2hhcm1h
+IDxhbGV4a3NoYXJtYUBnbWFpbC5jb20+CkRhdGU6IDIwMTEvOC8xMApTdWJqZWN0OiBGd2Q6IOCk
+h+CkpOCkqOCkviDgpKvgpYngpLDgpLXgpLDgpY3gpKEg4KSV4KSw4KWLIOCkleClgCDgpI/gpJUg
+4KSG4KSo4KWN4KSm4KWL4KSy4KSoIOCkrOCkqCDgpJzgpL7gpK/gpYcKVG86CgoKCgoKCgoKCgoK
+CgoKICAqKioqCgpGb3IgeW91ciBlZHVjYXRpb24gaWYgeW91IGRvIG5vdCBrbm93IHRoaXMgLS0t
+LSBTZWUgaG93IExva3BhbCBCaWxsIGNhbiBjdXJiCnRoZSBwb2xpdGljaWFucywgQ2lyY3VsYXRl
+IGl0IHRvIGNyZWF0ZSBhd2FyZW5lc3MKCgogICoqKioKCipFeGlzdGluZyBTeXN0ZW0qICoqKioK
+CipTeXN0ZW0gUHJvcG9zZWQgYnkgY2l2aWwgc29jaWV0eSogKioqKgoKKk5vIHBvbGl0aWNpYW4g
+b3Igc2VuaW9yIG9mZmljZXIgZXZlciBnb2VzIHRvIGphaWwgZGVzcGl0ZSBodWdlCmV2aWRlbmNl
+KmJlY2F1c2UgQW50aSBDb3JydXB0aW9uIEJyYW5jaCAoQUNCKSBhbmQgQ0JJIGRpcmVjdGx5IGNv
+bWUKdW5kZXIgdGhlCmdvdmVybm1lbnQuIEJlZm9yZSBzdGFydGluZyBpbnZlc3RpZ2F0aW9uIG9y
+IGluaXRpYXRpbmcgcHJvc2VjdXRpb24gaW4gYW55CmNhc2UsIHRoZXkgaGF2ZSB0byB0YWtlIHBl
+cm1pc3Npb24gZnJvbSB0aGUgc2FtZSBib3NzZXMsIGFnYWluc3Qgd2hvbSB0aGUKY2FzZSBoYXMg
+dG8gYmUgaW52ZXN0aWdhdGVkLiAqKioqCgpMb2twYWwgYXQgY2VudHJlIGFuZCBMb2theXVrdGEg
+YXQgc3RhdGUgbGV2ZWwgd2lsbCBiZSBpbmRlcGVuZGVudCBib2RpZXMuCkFDQiBhbmQgQ0JJIHdp
+bGwgYmUgbWVyZ2VkIGludG8gdGhlc2UgYm9kaWVzLiBUaGV5IHdpbGwgaGF2ZSBwb3dlciB0bwpp
+bml0aWF0ZSBpbnZlc3RpZ2F0aW9ucyBhbmQgcHJvc2VjdXRpb24gYWdhaW5zdCBhbnkgb2ZmaWNl
+ciBvciBwb2xpdGljaWFuCndpdGhvdXQgbmVlZGluZyBhbnlvbmXis6BwZXJtaXNzaW9uLiBJbnZl
+c3RpZ2F0aW9uIHNob3VsZCBiZSBjb21wbGV0ZWQgd2l0aGluCjEgeWVhciBhbmQgdHJpYWwgdG8g
+Z2V0IG92ZXIgaW4gbmV4dCAxIHllYXIuICpXaXRoaW4gdHdvIHllYXJzLCB0aGUgY29ycnVwdApz
+aG91bGQgZ28gdG8gamFpbC4qICoqKioKCipObyBjb3JydXB0IG9mZmljZXIgaXMgZGlzbWlzc2Vk
+IGZyb20gdGhlIGpvYiAqYmVjYXVzZSBDZW50cmFsIFZpZ2lsYW5jZQpDb21taXNzaW9uLCB3aGlj
+aCBpcyBzdXBwb3NlZCB0byBkaXNtaXNzIGNvcnJ1cHQgb2ZmaWNlcnMsIGlzIG9ubHkgYW4KYWR2
+aXNvcnkgYm9keS4gV2hlbmV2ZXIgaXQgYWR2aXNlcyBnb3Zlcm5tZW50IHRvIGRpc21pc3MgYW55
+IHNlbmlvciBjb3JydXB0Cm9mZmljZXIsIGl0cyBhZHZpY2UgaXMgbmV2ZXIgaW1wbGVtZW50ZWQu
+ICoqKioKCkxva3BhbCBhbmQgTG9rYXl1a3RhIHdpbGwgaGF2ZSAqY29tcGxldGUgcG93ZXJzIHRv
+IG9yZGVyIGRpc21pc3NhbCBvZiBhCmNvcnJ1cHQgb2ZmaWNlci4qIENWQyBhbmQgYWxsIGRlcGFy
+dG1lbnRhbCB2aWdpbGFuY2Ugd2lsbCBiZSBtZXJnZWQgaW50bwpMb2twYWwgYW5kIHN0YXRlIHZp
+Z2lsYW5jZSB3aWxsIGJlIG1lcmdlZCBpbnRvIExva2F5dWt0YS4gKioqKgoKKk5vIGFjdGlvbiBp
+cyB0YWtlbiBhZ2FpbnN0IGNvcnJ1cHQganVkZ2VzKiBiZWNhdXNlIHBlcm1pc3Npb24gaXMgcmVx
+dWlyZWQKZnJvbSB0aGUgQ2hpZWYgSnVzdGljZSBvZiBJbmRpYSB0byBldmVuIHJlZ2lzdGVyIGFu
+IEZJUiBhZ2FpbnN0IGNvcnJ1cHQKanVkZ2VzLiAqKioqCgpMb2twYWwgJiBMb2theXVrdGEgc2hh
+bGwgaGF2ZSAqcG93ZXJzIHRvIGludmVzdGlnYXRlIGFuZCBwcm9zZWN1dGUgYW55IGp1ZGdlCiog
+d2l0aG91dCBuZWVkaW5nIGFueW9uZeKzoHBlcm1pc3Npb24uICoqKioKCipOb3doZXJlIHRvIGdv
+KiAtIFBlb3BsZSBleHBvc2UgY29ycnVwdGlvbiBidXQgbm8gYWN0aW9uIGlzIHRha2VuIG9uIHRo
+ZWlyCmNvbXBsYWludHMuICoqKioKCkxva3BhbCAmIExva2F5dWt0YSB3aWxsIGhhdmUgdG8gKmVu
+cXVpcmUgaW50byBhbmQgaGVhciBldmVyeSBjb21wbGFpbnQuKiAqKioKKgoKKlRoZXJlIGlzIHNv
+IG11Y2ggY29ycnVwdGlvbiB3aXRoaW4gQ0JJIGFuZCB2aWdpbGFuY2UgZGVwYXJ0bWVudHMqLiBU
+aGVpcgpmdW5jdGlvbmluZyBpcyBzbyBzZWNyZXQgdGhhdCBpdCBlbmNvdXJhZ2VzIGNvcnJ1cHRp
+b24gd2l0aGluIHRoZXNlCmFnZW5jaWVzLiAqKioqCgoqQWxsIGludmVzdGlnYXRpb25zIGluIExv
+a3BhbCAmIExva2F5dWt0YSBzaGFsbCBiZSB0cmFuc3BhcmVudC4qIEFmdGVyCmNvbXBsZXRpb24g
+b2YgaW52ZXN0aWdhdGlvbiwgYWxsIGNhc2UgcmVjb3JkcyBzaGFsbCBiZSBvcGVuIHRvIHB1Ymxp
+Yy4KQ29tcGxhaW50IGFnYWluc3QgYW55IHN0YWZmIG9mIExva3BhbCAmIExva2F5dWt0YSBzaGFs
+bCBiZSBlbnF1aXJlZCBhbmQKcHVuaXNobWVudCBhbm5vdW5jZWQgd2l0aGluIHR3byBtb250aHMu
+ICoqKioKCipXZWFrIGFuZCBjb3JydXB0IHBlb3BsZSBhcmUgYXBwb2ludGVkIGFzIGhlYWRzKiBv
+ZiBhbnRpLWNvcnJ1cHRpb24KYWdlbmNpZXMuICoqKioKCipQb2xpdGljaWFucyB3aWxsIGhhdmUg
+YWJzb2x1dGVseSBubyBzYXkgaW4gc2VsZWN0aW9ucyogb2YgQ2hhaXJwZXJzb24gYW5kCm1lbWJl
+cnMgb2YgTG9rcGFsICYgTG9rYXl1a3RhLiBTZWxlY3Rpb25zIHdpbGwgdGFrZSBwbGFjZSB0aHJv
+dWdoIGEKdHJhbnNwYXJlbnQgYW5kIHB1YmxpYyBwYXJ0aWNpcGF0b3J5IHByb2Nlc3MuICoqKioK
+CipDaXRpemVucyBmYWNlIGhhcmFzc21lbnQqIGluIGdvdmVybm1lbnQgb2ZmaWNlcy4gU29tZXRp
+bWVzIHRoZXkgYXJlIGZvcmNlZAp0byBwYXkgYnJpYmVzLiBPbmUgY2FuIG9ubHkgY29tcGxhaW50
+IHRvIHNlbmlvciBvZmZpY2Vycy4gTm8gYWN0aW9uIGlzIHRha2VuCm9uIGNvbXBsYWludHMgYmVj
+YXVzZSBzZW5pb3Igb2ZmaWNlcnMgYWxzbyBnZXQgdGhlaXIgY3V0LiAqKioqCgpMb2twYWwgJiBM
+b2theXVrdGEgd2lsbCBnZXQgKnB1YmxpYyBncmlldmFuY2VzIHJlc29sdmVkIGluIHRpbWUgYm91
+bmQgbWFubmVyCiosIGltcG9zZSBhIHBlbmFsdHkgb2YgUnMgMjUwIHBlciBkYXkgb2YgZGVsYXkg
+dG8gYmUgZGVkdWN0ZWQgZnJvbSB0aGUKc2FsYXJ5IG9mIGd1aWx0eSBvZmZpY2VyIGFuZCBhd2Fy
+ZCB0aGF0IGFtb3VudCBhcyBjb21wZW5zYXRpb24gdG8gdGhlCmFnZ3JpZXZlZCBjaXRpemVuLiAq
+KioqCgoqTm90aGluZyBpbiBsYXcgdG8gcmVjb3ZlciBpbGwgZ290dGVuIHdlYWx0aC4gKkEgY29y
+cnVwdCBwZXJzb24gY2FuIGNvbWUgb3V0Cm9mIGphaWwgYW5kIGVuam95IHRoYXQgbW9uZXkuICoq
+KioKCipMb3NzIGNhdXNlZCAqdG8gdGhlIGdvdmVybm1lbnQgZHVlIHRvIGNvcnJ1cHRpb24gKndp
+bGwgYmUgcmVjb3ZlcmVkICpmcm9tCmFsbCBhY2N1c2VkLiAqKioqCgoqU21hbGwgcHVuaXNobWVu
+dCBmb3IgY29ycnVwdGlvbi0qIFB1bmlzaG1lbnQgZm9yIGNvcnJ1cHRpb24gaXMgbWluaW11bSA2
+Cm1vbnRocyBhbmQgbWF4aW11bSA3IHllYXJzLiAqKioqCgoqRW5oYW5jZWQgcHVuaXNobWVudCAt
+KiBUaGUgcHVuaXNobWVudCB3b3VsZCBiZSBtaW5pbXVtIDUgeWVhcnMgYW5kIG1heGltdW0Kb2Yg
+bGlmZSBpbXByaXNvbm1lbnQuICoqKioKCioqKioKCioqKioKCioqKioKCioqKioKCuKAnOCkpuCk
+sOCljeCkpiDgpLngpYvgpKTgpL4g4KSw4KS54KS+IOCkm+Ckn+CkquCkn+CkvuCkpOClhyDgpLDg
+pLngpYcsIOCkhuCkiOCkqOClh+ClkuCkuOClhyDgpLjgpKbgpL4g4KSa4KWL4KSfIOCkluCkvuCk
+pOClhyDgpLDgpLngpYcsIOCkteCliyDgpLXgpKTgpKgg4KSs4KWH4KSa4KSV4KSwCuCkruClgeCk
+uOCljeCkleClgeCksOCkvuCkpOClhyDgpLDgpLngpYcK4KS54KSuIOCkteCkpOCkqCDgpJXgpYcg
+4KSy4KS/4KSP4KWS4KS44KS/4KSwIOCkleCkn+CkvuCkpOClhyDgpLDgpLngpYfigJ0gKioqKgoK
+KioqKgoKKioqKgoKCiAqKioqCgoKKjI4MCAqKuCksuCkvuCkliDgpJXgpLDgpYvgpKHgpLwg4KSV
+4KS+IOCkuOCkteCkvuCksiDgpLngpYgqKiAuLi4KKirgpK3gpL7gpLDgpKTgpYDgpK8g4KSX4KSw
+4KWA4KSsIOCkueCliCDgpLLgpYfgpJXgpL/gpKgg4KSt4KS+4KSw4KSkIOCkpuClh+CktiDgpJXg
+pK3gpYAg4KSX4KSw4KWA4KSsIOCkqOCkueClgOCkgiDgpLDgpLngpL4qKiIqICoq4KSv4KWHIOCk
+leCkueCkqOCkviDgpLngpYgg4KS44KWN4KS14KS/4KS4CuCkrOCliOCkguCklSDgpJXgpYcg4KSh
+4KS+4KSH4KSw4KWH4KSV4KWN4KSf4KSwIOCkleCkvioqLiAqKuCkuOCljeCkteCkv+CkuCDgpKzg
+pYjgpILgpJUg4KSV4KWHIOCkoeCkvuCkh+CksOClh+CkleCljeCkn+CksCDgpKjgpYcg4KSv4KS5
+IOCkreClgCDgpJXgpLngpL4g4KS54KWIIOCkleCkvyDgpK3gpL7gpLDgpKQg4KSV4KS+CuCksuCk
+l+CkreCklyoqIDI4MCAqKuCksuCkvuCkliDgpJXgpLDgpYvgpKHgpLwg4KSw4KWB4KSq4KSv4KWH
+IOCkieCkqOCkleClhyDgpLjgpY3gpLXgpL/gpLgg4KSs4KWI4KSC4KSVIOCkruClh+CkgiDgpJzg
+pK7gpL4g4KS54KWIKiouICoq4KSv4KWHIOCksOCkleCkriDgpIfgpKTgpKjgpYAg4KS54KWICuCk
+leCkvyDgpK3gpL7gpLDgpKQg4KSV4KS+IOCkhuCkqOClhyDgpLXgpL7gpLLgpYcqKiAzMCAqKuCk
+uOCkvuCksuCli+CkgiDgpJXgpL4g4KSs4KSc4KSfIOCkrOCkv+CkqOCkviDgpJ/gpYjgpJXgpY3g
+pLgg4KSV4KWHIOCkrOCkqOCkvuCkr+CkviDgpJzgpL4g4KS44KSV4KSk4KS+IOCkueCliCoqLioq
+KgoqKgoKKgoqKuCkr+CkviDgpK/gpYLgpIEg4KSV4KS54KWH4KSCIOCkleCkvyoqIDYwICoq4KSV
+4KSw4KWL4KSh4KS8IOCksOCli+CknOCkl+CkvuCksCDgpJXgpYcg4KSF4KS14KS44KSwIOCkpuCk
+v+CkjyDgpJzgpL4g4KS44KSV4KSk4KWHIOCkueCliCoqLiAqKuCkr+CkviDgpK/gpYLgpIEg4KSt
+4KWACuCkleCkuSDgpLjgpJXgpKTgpYcg4KS54KWIIOCkleCkvyDgpK3gpL7gpLDgpKQg4KSV4KWH
+IOCkleCkv+CkuOClgCDgpK3gpYAg4KSX4KS+4KSB4KS1IOCkuOClhyDgpKbgpL/gpLLgpY3gpLLg
+pYAg4KSk4KSVKiogNCAqKuCksuClh+CkqCDgpLDgpYvgpKEg4KSs4KSo4KS+4KSv4KS+IOCknOCk
+viDgpLjgpJXgpKTgpL4K4KS54KWIKiouICoqKioqCgoqKioqCgoq4KSQ4KS44KS+IOCkreClgCDg
+pJXgpLkg4KS44KSV4KSk4KWHIOCkueCliCDgpJXgpL8qKiA1MDAgKirgpLjgpYcg4KSc4KWN4KSv
+4KS+4KSm4KS+IOCkuOCkvuCkruCkvuCknOCkv+CklSDgpKrgpY3gpLDgpYvgpJzgpYfgpJXgpY3g
+pJ8g4KSq4KWC4KSw4KWN4KSjIOCkleCkv+Ckr+ClhyDgpJzgpL4g4KS44KSV4KSk4KWHCuCkueCl
+iCoqLiAqKuCkr+ClhyDgpLDgpJXgpK4g4KSH4KSk4KSo4KWAIOCknOCljeCkr+CkvuCkpuCkviDg
+pLngpYgg4KSV4KS/IOCkheCkl+CksCDgpLngpLAg4KSt4KS+4KSw4KSk4KWA4KSvIOCkleCliyoq
+IDIwMDAgKirgpLDgpYHgpKrgpK/gpYcg4KS54KSwIOCkruCkueClgOCkqOClhyDgpK3gpYAK4KSm
+4KS/4KSPIOCknOCkvuCkr+ClhyDgpKTgpYsqKiA2MCAqKuCkuOCkvuCksiDgpKTgpJUg4KSW4KS8
+4KSk4KWN4KSuIOCkqOCkviDgpLngpYsqKi4gKirgpK/gpL7gpKjgpYAg4KSt4KS+4KSw4KSkIOCk
+leCliyDgpJXgpL/gpLjgpYAg4KS14KSw4KWN4KSy4KWN4KShIOCkrOCliOCkguCklSDgpLjgpYcK
+4KSy4KWL4KSoIOCksuClh+CkqOClhyDgpJXgpL8g4KSV4KWL4KSIIOCknOCksOClgeCksOCkpCDg
+pKjgpLngpYDgpIIg4KS54KWIKiouICoq4KSc4KSw4KS+IOCkuOCli+CkmuCkv+Ckr+ClhyoqIC4u
+LiAqKuCkueCkruCkvuCksOClhyDgpK3gpY3gpLDgpLfgpY3gpJ8g4KSw4KS+4KSc4KSo4KWH4KSk
+4KS+4KST4KSCCuCklOCksCDgpKjgpYvgpJXgpLDgpLbgpL7gpLngpYvgpIIg4KSo4KWHIOCkleCl
+iOCkuOClhyDgpKbgpYfgpLYg4KSV4KWLKioKCioq4KSy4KWC4KSf4KS+IOCkueCliCDgpJTgpLAg
+4KSv4KWHIOCksuClguCknyDgpJXgpL4g4KS44KS/4KSy4KS44KS/4KSy4KS+IOCkheCkreClgCDg
+pKTgpJUqKiAyMDExICoq4KSk4KSVIOCknOCkvuCksOClgCDgpLngpYgqKi4gKioqKioKCioKKirg
+pIfgpLgg4KS44KS/4KSy4KS44KS/4KSy4KWHIOCkleCliyDgpIXgpKwg4KSw4KWL4KSV4KSo4KS+
+IOCkrOCkueClgeCkpCDgpJzgpY3gpK/gpL7gpKbgpL4g4KSc4KSw4KWC4KSw4KWAIOCkueCliyDg
+pJfgpK/gpL4g4KS54KWIKiouICoq4KSF4KSC4KSX4KWN4KSw4KWH4KSc4KWLIOCkqOClhyDgpLng
+pK7gpL7gpLDgpYcK4KSt4KS+4KSw4KSkIOCkquCksCDgpJXgpLDgpYDgpKwqKiAyMDAgKirgpLjg
+pL7gpLLgpYsg4KSk4KSVIOCksOCkvuCknCDgpJXgpLDgpJXgpYcg4KSV4KSw4KWA4KSsKiogMSAq
+KuCksuCkvuCkliDgpJXgpLDgpYvgpKHgpLwg4KSw4KWB4KSq4KSv4KWHIOCksuClguCkn+Ckvioq
+LiAqKioKKioKCioqKioKCirgpK7gpJfgpLAg4KSG4KSc4KS+4KSm4KWAIOCkleClhyDgpJXgpYfg
+pLXgpLIqKiA2NCAqKuCkuOCkvuCksuCli+CkgiDgpK7gpYfgpIIg4KS54KSu4KS+4KSw4KWHIOCk
+reCljeCksOCkuOCljeCkn+CkvuCkmuCkvuCksCDgpKjgpYcqKiAyODAgKirgpLLgpL7gpJYg4KSV
+4KSw4KWL4KSh4KS8CuCksuClguCkn+CkviDgpLngpYgqKi4gKirgpI/gpJUg4KSk4KSw4KSrKiog
+MjAwICoq4KS44KS+4KSyIOCkruClh+CkgioqIDEgKirgpLLgpL7gpJYg4KSV4KSw4KWL4KSh4KS8
+IOCkueCliCDgpJTgpLAg4KSm4KWC4KS44KSw4KWAIOCkpOCksOCkqyDgpJXgpYfgpLXgpLIqKjY0
+Cioq4KS44KS+4KSy4KWL4KSCIOCkruClh+CkgioqIDI4MCAqKuCksuCkvuCkliDgpJXgpLDgpYvg
+pKHgpLwg4KS54KWIKiouICoq4KSv4KS+4KSo4KS/IOCkueCksCDgpLjgpL7gpLIg4KSy4KSX4KSt
+4KSXKiogNC4zNyAqKuCksuCkvuCkliDgpJXgpLDgpYvgpKHgpLwqKiwKKirgpK/gpL4g4KS54KSw
+IOCkruCkueClgOCkqOClhyDgpJXgpLDgpYDgpKwqKiAzNiAqKuCkueCknOCkvuCksCDgpJXgpLDg
+pYvgpKHgpLwg4KSt4KS+4KSw4KSk4KWA4KSvIOCkruClgeCkpuCljeCksOCkviDgpLjgpY3gpLXg
+pL/gpLgg4KSs4KWI4KSC4KSVIOCkruClh+CkgiDgpIfgpKgg4KSt4KWN4KSw4KS34KWN4KSfCuCk
+suCli+Ckl+Cli+CkgiDgpKbgpY3gpLXgpL7gpLDgpL4g4KSc4KSu4KS+IOCkleCksOCkteCkvuCk
+iCDgpJfgpIgg4KS54KWIKiouICoqKioqCgoqKioqCgoq4KSt4KS+4KSw4KSkIOCkleCliyDgpJXg
+pL/gpLjgpYAg4KS14KSw4KWN4KSy4KWN4KShIOCkrOCliOCkguCklSDgpJXgpYcg4KSy4KWL4KSo
+IOCkleClgCDgpJXgpYvgpIgg4KSm4KSw4KSV4KS+4KSwIOCkqOCkueClgOCkgiDgpLngpYgqKi4g
+KirgpLjgpYvgpJrgpYsg4KSV4KWAIOCkleCkv+CkpOCkqOCkvgrgpKrgpYjgpLjgpL4g4KS54KSu
+4KS+4KSw4KWHIOCkreCljeCksOCkt+CljeCknyDgpLDgpL7gpJzgpKjgpYfgpKTgpL7gpJPgpIIg
+4KSU4KSwIOCkieCkmuCljeCkmiDgpIXgpKfgpL/gpJXgpL7gpLDgpYDgpK/gpYvgpIIg4KSo4KWH
+IOCkrOCljeCksuCkvuCklSDgpJXgpLDgpJXgpYcg4KSw4KSW4KS+IOCkueClgeCkhiDgpLngpYgq
+Ki4gKgoqKioqCgoqKioqCgoq4KS54KSu4KWHIOCkreCljeCksOCkuOCljeCknyDgpLDgpL7gpJzg
+pKjgpYfgpKTgpL7gpJPgpIIg4KSU4KSwIOCkreCljeCksOCkt+CljeCknyDgpIXgpKfgpL/gpJXg
+pL7gpLDgpYDgpK/gpYvgpIIg4KSV4KWHIOCkluCkv+CksuCkvuCkqyDgpJzgpL7gpKjgpYcg4KSV
+4KS+IOCkquClguCksOCljeCkoyDgpIXgpKfgpL/gpJXgpL7gpLAg4KS54KWIKgoqLioq4KS54KS+
+4KSyIOCkueClgCDgpK7gpYfgpIIg4KS54KWB4KS14KWHIOCkmOCli+Ckn+CkvuCksuCli+CkgiDg
+pJXgpL4g4KSG4KSqIOCkuOCkreClgCDgpJXgpYsg4KSq4KSk4KS+IOCkueClgCDgpLngpYgqKiAt
+IENXRyAqKuCkmOCli+Ckn+CkvuCksuCkvioqLCAqKuClqArgpJzgpYAg4KS44KWN4KSq4KWH4KSV
+4KWN4KSf4KWN4KSw4KWB4KSuIOCkmOCli+Ckn+CkvuCksuCkvioqICwgKirgpIbgpKbgpLDgpY3g
+pLYg4KS54KWL4KSJ4KS44KS/4KSC4KSXIOCkmOCli+Ckn+CkvuCksuCkvioqIC4uLiAqKuCklOCk
+sCDgpKjgpL4g4KSc4KS+4KSo4KWHIOCkleCljOCkqCDgpJXgpYzgpKgK4KS44KWHIOCkmOCli+Ck
+n+CkvuCksuClhyDgpIXgpK3gpYAg4KSJ4KSc4KS+4KSX4KSwIOCkueCli+CkqOClhyDgpLXgpL7g
+pLLgpYcg4KS54KWIKiogLi4uLi4uLi4qKioqKgoKKioqKgoKKuCkhuCkqiDgpLLgpYvgpJcg4KSc
+4KWL4KSV4KWN4KS4IOCkq+ClieCksOCkteCksOCljeCkoSDgpJXgpLDgpKTgpYcg4KS54KWAIOCk
+ueCliyoqLiAqKioqKgoKKuCkh+CkuOClhyDgpK3gpYAg4KSH4KSk4KSo4KS+IOCkq+ClieCksOCk
+teCksOCljeCkoSDgpJXgpLDgpYsg4KSV4KWAIOCkquClguCksOCkviDgpK3gpL7gpLDgpKQg4KSH
+4KS44KWHIOCkquCkouCkvOClhyoqIC4uLiAqKuCklOCksCDgpI/gpJUg4KSG4KSo4KWN4KSm4KWL
+4KSy4KSoIOCkrOCkqCDgpJzgpL7gpK/gpYcKKioqKioKCioqKioKCioqKioKCiAqU3ByZWFkIGl0
+IGxpa2UqZmlyZSo7ICoKKm91ciBOYXRpb24gbmVlZHMgdXMuLnBsZWFzZSBDb250cmlidXRlLi4q
+CipUaGlzIGlzIG5vdCBqdXN0KiogKiphIGZvcndhcmQsIGl0IGlzIHRoZSBmdXR1cmUgb2Ygb3Vy
+IE5hdGlvbiogLi4uCgoKCgoKCiAgKioqKgoKKioqKgoKKioqKgoKKioqKgoKKioqKgoKKioqKgoK
+ICoqKioKCgoKCgoqKioqCg==
+--20cf303bfe26af97f804aa3204e9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">alex sharma</b> <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:alexksharma@gmail.com">alexksharma@gmail.com</a>&gt;</s=
+pan><br>
+Date: 2011/8/10<br>Subject: Fwd: =E0=A4=87=E0=A4=A4=E0=A4=A8=E0=A4=BE =E0=
+=A4=AB=E0=A5=89=E0=A4=B0=E0=A4=B5=E0=A4=B0=E0=A5=8D=E0=A4=A1 =E0=A4=95=E0=
+=A4=B0=E0=A5=8B =E0=A4=95=E0=A5=80 =E0=A4=8F=E0=A4=95 =E0=A4=86=E0=A4=A8=E0=
+=A5=8D=E0=A4=A6=E0=A5=8B=E0=A4=B2=E0=A4=A8 =E0=A4=AC=E0=A4=A8 =E0=A4=9C=E0=
+=A4=BE=E0=A4=AF=E0=A5=87<br>To: <br><br><br><br><br><div class=3D"gmail_quo=
+te"><br><br><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody>=
+<tr><td valign=3D"top" style=3D"font:inherit">
+<br><br><br><blockquote style=3D"border-left:2px solid rgb(16, 16, 255);mar=
+gin-left:5px;padding-left:5px">
+<br><div><div><br><br><br>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div dir=3D"ltr">
+<div>
+<div lang=3D"EN-US">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<blockquote style=3D"margin-top:5pt;margin-bottom:5pt">
+<div>
+<div>
+<div>
+<div>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><font color=3D"navy" size=3D"3" face=3D"Times New Roman"><span style=3D"=
+color:navy;font-size:12pt"><br></span></font>=C2=A0 <u></u><u></u></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><font size=3D"5" face=3D"Times New Roman"><span style=3D"font-size:18pt"=
+>For your education if you do not know this ---- See how Lokpal Bill can cu=
+rb the politicians, Circulate it to create awareness</span></font> <br>
+
+=C2=A0<br><br>=C2=A0 <u></u><u></u></p>
+<table border=3D"1" cellspacing=3D"3" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<p style=3D"text-align:center" align=3D"center"><b><font color=3D"#a00000" =
+size=3D"4" face=3D"Times New Roman"><span style=3D"color:rgb(160, 0, 0);fon=
+t-size:13.5pt;font-weight:bold">Existing System</span></font></b> <u></u><u=
+></u></p>
+
+
+
+</td>
+<td style=3D"padding:0in" valign=3D"top">
+<p style=3D"text-align:center" align=3D"center"><b><font color=3D"#a00000" =
+size=3D"4" face=3D"Times New Roman"><span style=3D"color:rgb(160, 0, 0);fon=
+t-size:13.5pt;font-weight:bold">System Proposed by civil society</span></fo=
+nt></b> <u></u><u></u></p>
+
+
+
+</td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">No politician o=
+r senior officer ever goes to jail despite huge evidence</span></font></b> =
+because Anti Corruption Branch (ACB) and CBI directly come under the govern=
+ment. Before starting investigation or initiating prosecution in any case, =
+they have to take permission from the same bosses, against whom the case ha=
+s to be investigated. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span style=
+=3D"color:rgb(160, 0, 0);font-size:12pt">Lokpal at centre and Lokayukta at =
+state level will be independent bodies. ACB and CBI will be merged into the=
+se bodies. They will have power to initiate investigations and prosecution =
+against any officer or politician without needing anyone=E2=B3=A0permission=
+. Investigation should be completed within 1 year and trial to get over in =
+next 1 year. <b><span style=3D"font-weight:bold">Within two years, the corr=
+upt should go to jail.</span></b> </span></font><u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">No corrupt offi=
+cer is dismissed from the job </span></font></b>because Central Vigilance C=
+ommission, which is supposed to dismiss corrupt officers, is only an adviso=
+ry body. Whenever it advises government to dismiss any senior corrupt offic=
+er, its advice is never implemented. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span style=
+=3D"color:rgb(160, 0, 0);font-size:12pt">Lokpal and Lokayukta will have <b>=
+<span style=3D"font-weight:bold">complete powers to order dismissal of a co=
+rrupt officer.</span></b> CVC and all departmental vigilance will be merged=
+ into Lokpal and state vigilance will be merged into Lokayukta.</span></fon=
+t> <u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">No action is ta=
+ken against corrupt judges</span></font></b> because permission is required=
+ from the Chief Justice of India to even register an FIR against corrupt ju=
+dges. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span style=
+=3D"color:rgb(160, 0, 0);font-size:12pt">Lokpal &amp; Lokayukta shall have =
+<b><span style=3D"font-weight:bold">powers to investigate and prosecute any=
+ judge</span></b> without needing anyone=E2=B3=A0permission. </span></font>=
+<u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Nowhere to go</=
+span></font></b> - People expose corruption but no action is taken on their=
+ complaints. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span style=
+=3D"color:rgb(160, 0, 0);font-size:12pt">Lokpal &amp; Lokayukta will have t=
+o <b><span style=3D"font-weight:bold">enquire into and hear every complaint=
+.</span></b> </span></font><u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">There is so muc=
+h corruption within CBI and vigilance departments</span></font></b>. Their =
+functioning is so secret that it encourages corruption within these agencie=
+s. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">All investigati=
+ons in Lokpal &amp; Lokayukta shall be transparent.</span></font></b> <font=
+ color=3D"#a00000"><span style=3D"color:rgb(160, 0, 0)">After completion of=
+ investigation, all case records shall be open to public. Complaint against=
+ any staff of Lokpal &amp; Lokayukta shall be enquired and punishment annou=
+nced within two months.</span></font> <u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Weak and corrup=
+t people are appointed as heads</span></font></b> of anti-corruption agenci=
+es. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Politicians wil=
+l have absolutely no say in selections</span></font></b><font color=3D"#a00=
+000"><span style=3D"color:rgb(160, 0, 0)"> of Chairperson and members of Lo=
+kpal &amp; Lokayukta. Selections will take place through a transparent and =
+public participatory process.</span></font> <u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Citizens face h=
+arassment</span></font></b> in government offices. Sometimes they are force=
+d to pay bribes. One can only complaint to senior officers. No action is ta=
+ken on complaints because senior officers also get their cut. <u></u><u></u=
+></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span style=
+=3D"color:rgb(160, 0, 0);font-size:12pt">Lokpal &amp; Lokayukta will get <b=
+><span style=3D"font-weight:bold">public grievances resolved in time bound =
+manner</span></b>, impose a penalty of Rs 250 per day of delay to be deduct=
+ed from the salary of guilty officer and award that amount as compensation =
+to the aggrieved citizen.</span></font> <u></u><u></u></p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Nothing in law =
+to recover ill gotten wealth. </span></font></b>A corrupt person can come o=
+ut of jail and enjoy that money. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Loss caused </s=
+pan></font></b><font color=3D"#a00000"><span style=3D"color:rgb(160, 0, 0)"=
+>to the government due to corruption <b><span style=3D"font-weight:bold">wi=
+ll be recovered </span></b>from all accused.</span></font> <u></u><u></u></=
+p>
+
+
+
+</div></td></tr>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Small punishmen=
+t for corruption-</span></font></b> Punishment for corruption is minimum 6 =
+months and maximum 7 years. <u></u><u></u></p>
+
+
+
+</div></td>
+<td style=3D"padding:0in" valign=3D"top">
+<div>
+<p><b><font color=3D"#a00000" size=3D"3" face=3D"Times New Roman"><span sty=
+le=3D"color:rgb(160, 0, 0);font-size:12pt;font-weight:bold">Enhanced punish=
+ment -</span></font></b> <font color=3D"#a00000"><span style=3D"color:rgb(1=
+60, 0, 0)">The punishment would be minimum 5 years and maximum of life impr=
+isonment.</span></font> <u></u><u></u></p>
+
+
+
+</div></td></tr></tbody></table></div></div></div></div></div></div></div><=
+/div></div></div></div>
+<div>
+<div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div></div>
+<div>
+<div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div></div>
+<div>
+<table style=3D"width:100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"padding:1.5pt;width:100%" width=3D"100%">
+<div>
+<div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div></div>
+<div>
+<div>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in" valign=3D"top">
+<div style=3D"margin-left:3.75pt">
+<div>
+<div>
+<div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p style=3D"background:white;text-align:center" align=3D"center"><font colo=
+r=3D"#0000cc" size=3D"6" face=3D"Times New Roman"><span style=3D"color:rgb(=
+0, 0, 204);font-size:24pt">=E2=80=9C</span></font><font color=3D"#0000cc" s=
+ize=3D"6" face=3D"Mangal"><span style=3D"color:rgb(0, 0, 204);font-family:M=
+angal;font-size:24pt" lang=3D"HI">=E0=A4=A6=E0=A4=B0=E0=A5=8D=E0=A4=A6 =E0=
+=A4=B9=E0=A5=8B=E0=A4=A4=E0=A4=BE =E0=A4=B0=E0=A4=B9=E0=A4=BE =E0=A4=9B=E0=
+=A4=9F=E0=A4=AA=E0=A4=9F=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=B0=E0=A4=B9=E0=
+=A5=87</span></font><font color=3D"#0000cc" size=3D"6"><span style=3D"color=
+:rgb(0, 0, 204);font-size:24pt">, </span></font><font color=3D"#0000cc" siz=
+e=3D"6" face=3D"Mangal"><span style=3D"color:rgb(0, 0, 204);font-family:Man=
+gal;font-size:24pt" lang=3D"HI">=E0=A4=86=E0=A4=88=E0=A4=A8=E0=A5=87=E0=A5=
+=92=E0=A4=B8=E0=A5=87 =E0=A4=B8=E0=A4=A6=E0=A4=BE =E0=A4=9A=E0=A5=8B=E0=A4=
+=9F =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=B0=E0=A4=B9=E0=A5=87</span>=
+</font><font color=3D"#0000cc" size=3D"6"><span style=3D"color:rgb(0, 0, 20=
+4);font-size:24pt">, </span></font><font color=3D"#0000cc" size=3D"6" face=
+=3D"Mangal"><span style=3D"color:rgb(0, 0, 204);font-family:Mangal;font-siz=
+e:24pt" lang=3D"HI">=E0=A4=B5=E0=A5=8B =E0=A4=B5=E0=A4=A4=E0=A4=A8
+ =E0=A4=AC=E0=A5=87=E0=A4=9A=E0=A4=95=E0=A4=B0 =E0=A4=AE=E0=A5=81=E0=A4=B8=
+=E0=A5=8D=E0=A4=95=E0=A5=81=E0=A4=B0=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=B0=
+=E0=A4=B9=E0=A5=87 </span></font><font color=3D"black"><span style=3D"color=
+:black"><br>
+
+</span></font><font color=3D"#0000cc" size=3D"6" face=3D"Mangal"><span styl=
+e=3D"color:rgb(0, 0, 204);font-family:Mangal;font-size:24pt" lang=3D"HI">=
+=E0=A4=B9=E0=A4=AE =E0=A4=B5=E0=A4=A4=E0=A4=A8 =E0=A4=95=E0=A5=87 =E0=A4=B2=
+=E0=A4=BF=E0=A4=8F=E0=A5=92=E0=A4=B8=E0=A4=BF=E0=A4=B0 =E0=A4=95=E0=A4=9F=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=B0=E0=A4=B9=E0=A5=87</span></font><font =
+color=3D"#0000cc" size=3D"6"><span style=3D"color:rgb(0, 0, 204);font-size:=
+24pt">=E2=80=9D</span></font><font color=3D"black"><span style=3D"color:bla=
+ck"> </span></font><u></u><u></u></p>
+
+
+
+
+<p style=3D"background:white;text-align:center" align=3D"center"><font size=
+=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"><u></u><u></=
+u></span></font>=C2=A0</p>
+<p style=3D"background:white;text-align:center" align=3D"center"><font size=
+=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"><u></u><u></=
+u></span></font>=C2=A0</p>
+<div style=3D"margin-bottom:12pt">
+<p style=3D"background:white;text-align:center" align=3D"center"><font colo=
+r=3D"black" size=3D"3" face=3D"Times New Roman"><span style=3D"color:black;=
+font-size:12pt"><br>=C2=A0<img src=3D"cid:1.552749232@web95515.mail.in.yaho=
+o.com" width=3D"200" height=3D"156"></span></font><u></u><u></u></p>
+
+
+
+</div>
+<div>
+<div>
+<p style=3D"background:white"><font color=3D"black" size=3D"6" face=3D"Time=
+s New Roman"><span style=3D"color:black;font-size:24pt"><br><b><span style=
+=3D"font-weight:bold">280 </span></b></span></font><b><font color=3D"blue" =
+size=3D"6" face=3D"Mangal"><span style=3D"color:blue;font-family:Mangal;fon=
+t-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B2=E0=A4=BE=E0=A4=96 =E0=
+=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=95=E0=A4=BE =E0=A4=B8=E0=
+=A4=B5=E0=A4=BE=E0=A4=B2 =E0=A4=B9=E0=A5=88</span></font></b><b><font color=
+=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight=
+:bold"> ...<br>
+
+
+
+</span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span=
+ style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bold" l=
+ang=3D"HI">=E0=A4=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4=E0=A5=80=E0=A4=AF =E0=A4=97=
+=E0=A4=B0=E0=A5=80=E0=A4=AC =E0=A4=B9=E0=A5=88 =E0=A4=B2=E0=A5=87=E0=A4=95=
+=E0=A4=BF=E0=A4=A8 =E0=A4=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4 =E0=A4=A6=E0=A5=87=
+=E0=A4=B6 =E0=A4=95=E0=A4=AD=E0=A5=80 =E0=A4=97=E0=A4=B0=E0=A5=80=E0=A4=AC =
+=E0=A4=A8=E0=A4=B9=E0=A5=80=E0=A4=82 =E0=A4=B0=E0=A4=B9=E0=A4=BE</span></fo=
+nt></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-=
+size:24pt;font-weight:bold">&quot;* </span></font></b><b><font color=3D"bla=
+ck" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Manga=
+l;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=AF=E0=A5=87 =E0=A4=95=
+=E0=A4=B9=E0=A4=A8=E0=A4=BE =E0=A4=B9=E0=A5=88 =E0=A4=B8=E0=A5=8D=E0=A4=B5=
+=E0=A4=BF=E0=A4=B8 =E0=A4=AC=E0=A5=88=E0=A4=82=E0=A4=95 =E0=A4=95=E0=A5=87 =
+=E0=A4=A1=E0=A4=BE=E0=A4=87=E0=A4=B0=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=9F=E0=
+=A4=B0 =E0=A4=95=E0=A4=BE</span></font></b><b><font color=3D"black" size=3D=
+"6"><span style=3D"color:black;font-size:24pt;font-weight:bold">. </span></=
+font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D=
+"color:black;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI=
+">=E0=A4=B8=E0=A5=8D=E0=A4=B5=E0=A4=BF=E0=A4=B8 =E0=A4=AC=E0=A5=88=E0=A4=82=
+=E0=A4=95 =E0=A4=95=E0=A5=87 =E0=A4=A1=E0=A4=BE=E0=A4=87=E0=A4=B0=E0=A5=87=
+=E0=A4=95=E0=A5=8D=E0=A4=9F=E0=A4=B0
+ =E0=A4=A8=E0=A5=87 =E0=A4=AF=E0=A4=B9 =E0=A4=AD=E0=A5=80 =E0=A4=95=E0=A4=
+=B9=E0=A4=BE =E0=A4=B9=E0=A5=88 =E0=A4=95=E0=A4=BF =E0=A4=AD=E0=A4=BE=E0=A4=
+=B0=E0=A4=A4 =E0=A4=95=E0=A4=BE =E0=A4=B2=E0=A4=97=E0=A4=AD=E0=A4=97</span>=
+</font></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;f=
+ont-size:24pt;font-weight:bold"> 280 </span></font></b><b><font color=3D"bl=
+ack" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mang=
+al;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B2=E0=A4=BE=E0=A4=96=
+ =E0=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=B0=E0=A5=81=E0=A4=AA=
+=E0=A4=AF=E0=A5=87 =E0=A4=89=E0=A4=A8=E0=A4=95=E0=A5=87 =E0=A4=B8=E0=A5=8D=
+=E0=A4=B5=E0=A4=BF=E0=A4=B8 =E0=A4=AC=E0=A5=88=E0=A4=82=E0=A4=95 =E0=A4=AE=
+=E0=A5=87=E0=A4=82 =E0=A4=9C=E0=A4=AE=E0=A4=BE =E0=A4=B9=E0=A5=88</span></f=
+ont></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font=
+-size:24pt;font-weight:bold">. </span></font></b><b><font color=3D"black" s=
+ize=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;fon=
+t-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=AF=E0=A5=87 =E0=A4=B0=E0=
+=A4=95=E0=A4=AE =E0=A4=87=E0=A4=A4=E0=A4=A8=E0=A5=80 =E0=A4=B9=E0=A5=88 =E0=
+=A4=95=E0=A4=BF =E0=A4=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4 =E0=A4=95=E0=A4=BE =E0=
+=A4=86=E0=A4=A8=E0=A5=87 =E0=A4=B5=E0=A4=BE=E0=A4=B2=E0=A5=87</span></font>=
+</b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-siz=
+e:24pt;font-weight:bold"> 30 </span></font></b><b><font color=3D"black" siz=
+e=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-=
+size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B8=E0=A4=BE=E0=A4=B2=E0=A5=
+=8B=E0=A4=82 =E0=A4=95=E0=A4=BE =E0=A4=AC=E0=A4=9C=E0=A4=9F =E0=A4=AC=E0=A4=
+=BF=E0=A4=A8=E0=A4=BE =E0=A4=9F=E0=A5=88=E0=A4=95=E0=A5=8D=E0=A4=B8 =E0=A4=
+=95=E0=A5=87 =E0=A4=AC=E0=A4=A8=E0=A4=BE=E0=A4=AF=E0=A4=BE =E0=A4=9C=E0=A4=
+=BE =E0=A4=B8=E0=A4=95=E0=A4=A4=E0=A4=BE =E0=A4=B9=E0=A5=88</span></font></=
+b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-size:=
+24pt;font-weight:bold">.</span></font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"T=
+imes New Roman"><span style=3D"color:black;font-size:24pt;font-weight:bold"=
+><br></span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal">=
+<span style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bo=
+ld" lang=3D"HI">=E0=A4=AF=E0=A4=BE =E0=A4=AF=E0=A5=82=E0=A4=81 =E0=A4=95=E0=
+=A4=B9=E0=A5=87=E0=A4=82 =E0=A4=95=E0=A4=BF</span></font></b><b><font color=
+=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight=
+:bold"> 60 </span></font></b><b><font color=3D"black" size=3D"6" face=3D"Ma=
+ngal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-wei=
+ght:bold" lang=3D"HI">=E0=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=
+=B0=E0=A5=8B=E0=A4=9C=E0=A4=97=E0=A4=BE=E0=A4=B0 =E0=A4=95=E0=A5=87 =E0=A4=
+=85=E0=A4=B5=E0=A4=B8=E0=A4=B0 =E0=A4=A6=E0=A4=BF=E0=A4=8F =E0=A4=9C=E0=A4=
+=BE =E0=A4=B8=E0=A4=95=E0=A4=A4=E0=A5=87 =E0=A4=B9=E0=A5=88</span></font></=
+b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-size:=
+24pt;font-weight:bold">. </span></font></b><b><font color=3D"black" size=3D=
+"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-size=
+:24pt;font-weight:bold" lang=3D"HI">=E0=A4=AF=E0=A4=BE =E0=A4=AF=E0=A5=82=
+=E0=A4=81 =E0=A4=AD=E0=A5=80 =E0=A4=95=E0=A4=B9 =E0=A4=B8=E0=A4=95=E0=A4=A4=
+=E0=A5=87 =E0=A4=B9=E0=A5=88 =E0=A4=95=E0=A4=BF =E0=A4=AD=E0=A4=BE=E0=A4=B0=
+=E0=A4=A4 =E0=A4=95=E0=A5=87 =E0=A4=95=E0=A4=BF=E0=A4=B8=E0=A5=80 =E0=A4=AD=
+=E0=A5=80 =E0=A4=97=E0=A4=BE=E0=A4=81=E0=A4=B5 =E0=A4=B8=E0=A5=87 =E0=A4=A6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A5=80 =E0=A4=A4=E0=A4=95</span></fo=
+nt></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-=
+size:24pt;font-weight:bold"> 4 </span></font></b><b><font color=3D"black" s=
+ize=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;fon=
+t-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B2=E0=A5=87=E0=A4=A8 =E0=
+=A4=B0=E0=A5=8B=E0=A4=A1 =E0=A4=AC=E0=A4=A8=E0=A4=BE=E0=A4=AF=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE =E0=A4=B8=E0=A4=95=E0=A4=A4=E0=A4=BE =E0=A4=B9=E0=A5=88</sp=
+an></font></b><b><font color=3D"black" size=3D"6"><span style=3D"color:blac=
+k;font-size:24pt;font-weight:bold">. </span></font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><font size=3D"3" face=3D"Times New Roman"><sp=
+an style=3D"font-size:12pt"><u></u><u></u></span></font>=C2=A0</p></div></d=
+iv>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"M=
+angal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-we=
+ight:bold" lang=3D"HI">=E0=A4=90=E0=A4=B8=E0=A4=BE =E0=A4=AD=E0=A5=80 =E0=
+=A4=95=E0=A4=B9 =E0=A4=B8=E0=A4=95=E0=A4=A4=E0=A5=87 =E0=A4=B9=E0=A5=88 =E0=
+=A4=95=E0=A4=BF</span></font></b><b><font color=3D"black" size=3D"6"><span =
+style=3D"color:black;font-size:24pt;font-weight:bold"> 500 </span></font></=
+b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:=
+black;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=
+=A4=B8=E0=A5=87 =E0=A4=9C=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A6=E0=A4=BE =E0=
+=A4=B8=E0=A4=BE=E0=A4=AE=E0=A4=BE=E0=A4=9C=E0=A4=BF=E0=A4=95 =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=9F =E0=
+=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=A3 =E0=A4=95=E0=A4=BF=E0=A4=AF=E0=
+=A5=87 =E0=A4=9C=E0=A4=BE =E0=A4=B8=E0=A4=95=E0=A4=A4=E0=A5=87 =E0=A4=B9=E0=
+=A5=88</span></font></b><b><font color=3D"black" size=3D"6"><span style=3D"=
+color:black;font-size:24pt;font-weight:bold">. </span></font></b><b><font c=
+olor=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-f=
+amily:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=AF=E0=A5=
+=87 =E0=A4=B0=E0=A4=95=E0=A4=AE =E0=A4=87=E0=A4=A4=E0=A4=A8=E0=A5=80 =E0=A4=
+=9C=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A6=E0=A4=BE =E0=A4=B9=E0=A5=88 =E0=A4=
+=95=E0=A4=BF
+ =E0=A4=85=E0=A4=97=E0=A4=B0 =E0=A4=B9=E0=A4=B0 =E0=A4=AD=E0=A4=BE=E0=A4=B0=
+=E0=A4=A4=E0=A5=80=E0=A4=AF =E0=A4=95=E0=A5=8B</span></font></b><b><font co=
+lor=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-wei=
+ght:bold"> 2000 </span></font></b><b><font color=3D"black" size=3D"6" face=
+=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;fo=
+nt-weight:bold" lang=3D"HI">=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 =
+=E0=A4=B9=E0=A4=B0 =E0=A4=AE=E0=A4=B9=E0=A5=80=E0=A4=A8=E0=A5=87 =E0=A4=AD=
+=E0=A5=80 =E0=A4=A6=E0=A4=BF=E0=A4=8F =E0=A4=9C=E0=A4=BE=E0=A4=AF=E0=A5=87 =
+=E0=A4=A4=E0=A5=8B</span></font></b><b><font color=3D"black" size=3D"6"><sp=
+an style=3D"color:black;font-size:24pt;font-weight:bold"> 60 </span></font>=
+</b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"colo=
+r:black;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=
+=A4=B8=E0=A4=BE=E0=A4=B2 =E0=A4=A4=E0=A4=95 =E0=A4=96=E0=A4=BC=E0=A4=A4=E0=
+=A5=8D=E0=A4=AE =E0=A4=A8=E0=A4=BE =E0=A4=B9=E0=A5=8B</span></font></b><b><=
+font color=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;f=
+ont-weight:bold">. </span></font></b><b><font color=3D"black" size=3D"6" fa=
+ce=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;=
+font-weight:bold" lang=3D"HI">=E0=A4=AF=E0=A4=BE=E0=A4=A8=E0=A5=80 =E0=A4=
+=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4 =E0=A4=95=E0=A5=8B =E0=A4=95=E0=A4=BF=E0=A4=
+=B8=E0=A5=80 =E0=A4=B5=E0=A4=B0=E0=A5=8D=E0=A4=B2=E0=A5=8D=E0=A4=A1 =E0=A4=
+=AC=E0=A5=88=E0=A4=82=E0=A4=95 =E0=A4=B8=E0=A5=87 =E0=A4=B2=E0=A5=8B=E0=A4=
+=A8 =E0=A4=B2=E0=A5=87=E0=A4=A8=E0=A5=87 =E0=A4=95=E0=A4=BF =E0=A4=95=E0=A5=
+=8B=E0=A4=88 =E0=A4=9C=E0=A4=B0=E0=A5=81=E0=A4=B0=E0=A4=A4 =E0=A4=A8=E0=A4=
+=B9=E0=A5=80=E0=A4=82 =E0=A4=B9=E0=A5=88</span></font></b><b><font color=3D=
+"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight:bo=
+ld">. </span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"=
+><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:b=
+old" lang=3D"HI">=E0=A4=9C=E0=A4=B0=E0=A4=BE =E0=A4=B8=E0=A5=8B=E0=A4=9A=E0=
+=A4=BF=E0=A4=AF=E0=A5=87</span></font></b><b><font color=3D"black" size=3D"=
+6"><span style=3D"color:black;font-size:24pt;font-weight:bold"> ... </span>=
+</font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=
+=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D=
+"HI">=E0=A4=B9=E0=A4=AE=E0=A4=BE=E0=A4=B0=E0=A5=87 =E0=A4=AD=E0=A5=8D=E0=A4=
+=B0=E0=A4=B7=E0=A5=8D=E0=A4=9F =E0=A4=B0=E0=A4=BE=E0=A4=9C=E0=A4=A8=E0=A5=
+=87=E0=A4=A4=E0=A4=BE=E0=A4=93=E0=A4=82 =E0=A4=94=E0=A4=B0 =E0=A4=A8=E0=A5=
+=8B=E0=A4=95=E0=A4=B0=E0=A4=B6=E0=A4=BE=E0=A4=B9=E0=A5=8B=E0=A4=82 =E0=A4=
+=A8=E0=A5=87 =E0=A4=95=E0=A5=88=E0=A4=B8=E0=A5=87 =E0=A4=A6=E0=A5=87=E0=A4=
+=B6 =E0=A4=95=E0=A5=8B</span></font></b><b><font color=3D"black" size=3D"6"=
+><span style=3D"color:black;font-size:24pt;font-weight:bold"><br>
+
+
+
+<br></span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><=
+span style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bol=
+d" lang=3D"HI">=E0=A4=B2=E0=A5=82=E0=A4=9F=E0=A4=BE =E0=A4=B9=E0=A5=88 =E0=
+=A4=94=E0=A4=B0 =E0=A4=AF=E0=A5=87 =E0=A4=B2=E0=A5=82=E0=A4=9F =E0=A4=95=E0=
+=A4=BE =E0=A4=B8=E0=A4=BF=E0=A4=B2=E0=A4=B8=E0=A4=BF=E0=A4=B2=E0=A4=BE =E0=
+=A4=85=E0=A4=AD=E0=A5=80 =E0=A4=A4=E0=A4=95</span></font></b><b><font color=
+=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight=
+:bold"> 2011 </span></font></b><b><font color=3D"black" size=3D"6" face=3D"=
+Mangal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-w=
+eight:bold" lang=3D"HI">=E0=A4=A4=E0=A4=95 =E0=A4=9C=E0=A4=BE=E0=A4=B0=E0=
+=A5=80 =E0=A4=B9=E0=A5=88</span></font></b><b><font color=3D"black" size=3D=
+"6"><span style=3D"color:black;font-size:24pt;font-weight:bold">. </span></=
+font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"T=
+imes New Roman"><span style=3D"color:black;font-size:24pt;font-weight:bold"=
+><br></span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal">=
+<span style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bo=
+ld" lang=3D"HI">=E0=A4=87=E0=A4=B8 =E0=A4=B8=E0=A4=BF=E0=A4=B2=E0=A4=B8=E0=
+=A4=BF=E0=A4=B2=E0=A5=87 =E0=A4=95=E0=A5=8B =E0=A4=85=E0=A4=AC =E0=A4=B0=E0=
+=A5=8B=E0=A4=95=E0=A4=A8=E0=A4=BE =E0=A4=AC=E0=A4=B9=E0=A5=81=E0=A4=A4 =E0=
+=A4=9C=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A6=E0=A4=BE =E0=A4=9C=E0=A4=B0=E0=
+=A5=82=E0=A4=B0=E0=A5=80 =E0=A4=B9=E0=A5=8B =E0=A4=97=E0=A4=AF=E0=A4=BE =E0=
+=A4=B9=E0=A5=88</span></font></b><b><font color=3D"black" size=3D"6"><span =
+style=3D"color:black;font-size:24pt;font-weight:bold">. </span></font></b><=
+b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:bla=
+ck;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=
+=85=E0=A4=82=E0=A4=97=E0=A5=8D=E0=A4=B0=E0=A5=87=E0=A4=9C=E0=A5=8B =E0=A4=
+=A8=E0=A5=87 =E0=A4=B9=E0=A4=AE=E0=A4=BE=E0=A4=B0=E0=A5=87 =E0=A4=AD=E0=A4=
+=BE=E0=A4=B0=E0=A4=A4 =E0=A4=AA=E0=A4=B0 =E0=A4=95=E0=A4=B0=E0=A5=80=E0=A4=
+=AC</span></font></b><b><font color=3D"black" size=3D"6"><span style=3D"col=
+or:black;font-size:24pt;font-weight:bold"> 200 </span></font></b><b><font c=
+olor=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-f=
+amily:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B8=E0=A4=
+=BE=E0=A4=B2=E0=A5=8B =E0=A4=A4=E0=A4=95 =E0=A4=B0=E0=A4=BE=E0=A4=9C =E0=A4=
+=95=E0=A4=B0=E0=A4=95=E0=A5=87 =E0=A4=95=E0=A4=B0=E0=A5=80=E0=A4=AC</span><=
+/font></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;fo=
+nt-size:24pt;font-weight:bold"> 1 </span></font></b><b><font color=3D"black=
+" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;=
+font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B2=E0=A4=BE=E0=A4=96 =
+=E0=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=B0=E0=A5=81=E0=A4=AA=
+=E0=A4=AF=E0=A5=87 =E0=A4=B2=E0=A5=82=E0=A4=9F=E0=A4=BE</span></font></b><b=
+><font color=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt=
+;font-weight:bold">. </span></font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><font size=3D"3" face=3D"Times New Roman"><sp=
+an style=3D"font-size:12pt"><u></u><u></u></span></font>=C2=A0</p></div></d=
+iv>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"M=
+angal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-we=
+ight:bold" lang=3D"HI">=E0=A4=AE=E0=A4=97=E0=A4=B0 =E0=A4=86=E0=A4=9C=E0=A4=
+=BE=E0=A4=A6=E0=A5=80 =E0=A4=95=E0=A5=87 =E0=A4=95=E0=A5=87=E0=A4=B5=E0=A4=
+=B2</span></font></b><b><font color=3D"black" size=3D"6"><span style=3D"col=
+or:black;font-size:24pt;font-weight:bold"> 64 </span></font></b><b><font co=
+lor=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-fa=
+mily:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B8=E0=A4=BE=
+=E0=A4=B2=E0=A5=8B=E0=A4=82 =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B9=E0=A4=AE=
+=E0=A4=BE=E0=A4=B0=E0=A5=87 =E0=A4=AD=E0=A5=8D=E0=A4=B0=E0=A4=B8=E0=A5=8D=
+=E0=A4=9F=E0=A4=BE=E0=A4=9A=E0=A4=BE=E0=A4=B0 =E0=A4=A8=E0=A5=87</span></fo=
+nt></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-=
+size:24pt;font-weight:bold"> 280 </span></font></b><b><font color=3D"black"=
+ size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;f=
+ont-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B2=E0=A4=BE=E0=A4=96 =E0=
+=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=B2=E0=A5=82=E0=A4=9F=E0=
+=A4=BE =E0=A4=B9=E0=A5=88</span></font></b><b><font color=3D"black" size=3D=
+"6"><span style=3D"color:black;font-size:24pt;font-weight:bold">. </span></=
+font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D=
+"color:black;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI=
+">=E0=A4=8F=E0=A4=95 =E0=A4=A4=E0=A4=B0=E0=A4=AB</span></font></b><b><font =
+color=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-w=
+eight:bold"> 200 </span></font></b><b><font color=3D"black" size=3D"6" face=
+=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;fo=
+nt-weight:bold" lang=3D"HI">=E0=A4=B8=E0=A4=BE=E0=A4=B2 =E0=A4=AE=E0=A5=87=
+=E0=A4=82</span></font></b><b><font color=3D"black" size=3D"6"><span style=
+=3D"color:black;font-size:24pt;font-weight:bold"> 1 </span></font></b><b><f=
+ont color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:black;f=
+ont-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B2=E0=
+=A4=BE=E0=A4=96 =E0=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=B9=E0=
+=A5=88 =E0=A4=94=E0=A4=B0 =E0=A4=A6=E0=A5=82=E0=A4=B8=E0=A4=B0=E0=A5=80 =E0=
+=A4=A4=E0=A4=B0=E0=A4=AB =E0=A4=95=E0=A5=87=E0=A4=B5=E0=A4=B2</span></font>=
+</b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-siz=
+e:24pt;font-weight:bold"> 64
+ </span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><spa=
+n style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bold" =
+lang=3D"HI">=E0=A4=B8=E0=A4=BE=E0=A4=B2=E0=A5=8B=E0=A4=82 =E0=A4=AE=E0=A5=
+=87=E0=A4=82</span></font></b><b><font color=3D"black" size=3D"6"><span sty=
+le=3D"color:black;font-size:24pt;font-weight:bold"> 280 </span></font></b><=
+b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:bla=
+ck;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=
+=B2=E0=A4=BE=E0=A4=96 =E0=A4=95=E0=A4=B0=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=
+=B9=E0=A5=88</span></font></b><b><font color=3D"black" size=3D"6"><span sty=
+le=3D"color:black;font-size:24pt;font-weight:bold">. </span></font></b><b><=
+font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:black;=
+font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=AF=
+=E0=A4=BE=E0=A4=A8=E0=A4=BF =E0=A4=B9=E0=A4=B0 =E0=A4=B8=E0=A4=BE=E0=A4=B2 =
+=E0=A4=B2=E0=A4=97=E0=A4=AD=E0=A4=97</span></font></b><b><font color=3D"bla=
+ck" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight:bold">=
+ 4.37 </span></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"=
+><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:b=
+old" lang=3D"HI">=E0=A4=B2=E0=A4=BE=E0=A4=96 =E0=A4=95=E0=A4=B0=E0=A5=8B=E0=
+=A4=A1=E0=A4=BC</span></font></b><b><font color=3D"black" size=3D"6"><span =
+style=3D"color:black;font-size:24pt;font-weight:bold">, </span></font></b><=
+b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:bla=
+ck;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=
+=AF=E0=A4=BE =E0=A4=B9=E0=A4=B0 =E0=A4=AE=E0=A4=B9=E0=A5=80=E0=A4=A8=E0=A5=
+=87 =E0=A4=95=E0=A4=B0=E0=A5=80=E0=A4=AC</span></font></b><b><font color=3D=
+"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight:bo=
+ld"> 36 </span></font></b><b><font color=3D"black" size=3D"6" face=3D"Manga=
+l"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-weight=
+:bold" lang=3D"HI">=E0=A4=B9=E0=A4=9C=E0=A4=BE=E0=A4=B0 =E0=A4=95=E0=A4=B0=
+=E0=A5=8B=E0=A4=A1=E0=A4=BC =E0=A4=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4=E0=A5=80=
+=E0=A4=AF =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A5=8D=E0=A4=B0=E0=A4=BE =E0=A4=B8=
+=E0=A5=8D=E0=A4=B5=E0=A4=BF=E0=A4=B8 =E0=A4=AC=E0=A5=88=E0=A4=82=E0=A4=95 =
+=E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=87=E0=A4=A8 =E0=A4=AD=E0=A5=8D=E0=A4=B0=
+=E0=A4=B7=E0=A5=8D=E0=A4=9F =E0=A4=B2=E0=A5=8B=E0=A4=97=E0=A5=8B=E0=A4=82 =
+=E0=A4=A6=E0=A5=8D=E0=A4=B5=E0=A4=BE=E0=A4=B0=E0=A4=BE =E0=A4=9C=E0=A4=AE=
+=E0=A4=BE =E0=A4=95=E0=A4=B0=E0=A4=B5=E0=A4=BE=E0=A4=88 =E0=A4=97=E0=A4=88 =
+=E0=A4=B9=E0=A5=88</span></font></b><b><font color=3D"black" size=3D"6"><sp=
+an style=3D"color:black;font-size:24pt;font-weight:bold">. </span></font></=
+b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><font size=3D"3" face=3D"Times New Roman"><sp=
+an style=3D"font-size:12pt"><u></u><u></u></span></font>=C2=A0</p></div></d=
+iv>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"M=
+angal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-we=
+ight:bold" lang=3D"HI">=E0=A4=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4 =E0=A4=95=E0=A5=
+=8B =E0=A4=95=E0=A4=BF=E0=A4=B8=E0=A5=80 =E0=A4=B5=E0=A4=B0=E0=A5=8D=E0=A4=
+=B2=E0=A5=8D=E0=A4=A1 =E0=A4=AC=E0=A5=88=E0=A4=82=E0=A4=95 =E0=A4=95=E0=A5=
+=87 =E0=A4=B2=E0=A5=8B=E0=A4=A8 =E0=A4=95=E0=A5=80 =E0=A4=95=E0=A5=8B=E0=A4=
+=88 =E0=A4=A6=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=A8=E0=A4=B9=E0=A5=
+=80=E0=A4=82 =E0=A4=B9=E0=A5=88</span></font></b><b><font color=3D"black" s=
+ize=3D"6"><span style=3D"color:black;font-size:24pt;font-weight:bold">. </s=
+pan></font></b><b><font color=3D"black" size=3D"6" face=3D"Mangal"><span st=
+yle=3D"color:black;font-family:Mangal;font-size:24pt;font-weight:bold" lang=
+=3D"HI">=E0=A4=B8=E0=A5=8B=E0=A4=9A=E0=A5=8B =E0=A4=95=E0=A5=80 =E0=A4=95=
+=E0=A4=BF=E0=A4=A4=E0=A4=A8=E0=A4=BE =E0=A4=AA=E0=A5=88=E0=A4=B8=E0=A4=BE =
+=E0=A4=B9=E0=A4=AE=E0=A4=BE=E0=A4=B0=E0=A5=87 =E0=A4=AD=E0=A5=8D=E0=A4=B0=
+=E0=A4=B7=E0=A5=8D=E0=A4=9F =E0=A4=B0=E0=A4=BE=E0=A4=9C=E0=A4=A8=E0=A5=87=
+=E0=A4=A4=E0=A4=BE=E0=A4=93=E0=A4=82 =E0=A4=94=E0=A4=B0 =E0=A4=89=E0=A4=9A=
+=E0=A5=8D=E0=A4=9A =E0=A4=85=E0=A4=A7=E0=A4=BF=E0=A4=95=E0=A4=BE=E0=A4=B0=
+=E0=A5=80=E0=A4=AF=E0=A5=8B=E0=A4=82 =E0=A4=A8=E0=A5=87 =E0=A4=AC=E0=A5=8D=
+=E0=A4=B2=E0=A4=BE=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A4=95=E0=A5=87 =E0=A4=B0=
+=E0=A4=96=E0=A4=BE =E0=A4=B9=E0=A5=81=E0=A4=86 =E0=A4=B9=E0=A5=88</span></f=
+ont></b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font=
+-size:24pt;font-weight:bold">. </span></font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><font size=3D"3" face=3D"Times New Roman"><sp=
+an style=3D"font-size:12pt"><u></u><u></u></span></font>=C2=A0</p></div></d=
+iv>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"M=
+angal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-we=
+ight:bold" lang=3D"HI">=E0=A4=B9=E0=A4=AE=E0=A5=87 =E0=A4=AD=E0=A5=8D=E0=A4=
+=B0=E0=A4=B8=E0=A5=8D=E0=A4=9F =E0=A4=B0=E0=A4=BE=E0=A4=9C=E0=A4=A8=E0=A5=
+=87=E0=A4=A4=E0=A4=BE=E0=A4=93=E0=A4=82 =E0=A4=94=E0=A4=B0 =E0=A4=AD=E0=A5=
+=8D=E0=A4=B0=E0=A4=B7=E0=A5=8D=E0=A4=9F =E0=A4=85=E0=A4=A7=E0=A4=BF=E0=A4=
+=95=E0=A4=BE=E0=A4=B0=E0=A5=80=E0=A4=AF=E0=A5=8B=E0=A4=82 =E0=A4=95=E0=A5=
+=87 =E0=A4=96=E0=A4=BF=E0=A4=B2=E0=A4=BE=E0=A4=AB =E0=A4=9C=E0=A4=BE=E0=A4=
+=A8=E0=A5=87 =E0=A4=95=E0=A4=BE =E0=A4=AA=E0=A5=82=E0=A4=B0=E0=A5=8D=E0=A4=
+=A3 =E0=A4=85=E0=A4=A7=E0=A4=BF=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B9=E0=A5=
+=88</span></font></b><b><font color=3D"black" size=3D"6"><span style=3D"col=
+or:black;font-size:24pt;font-weight:bold">.</span></font></b><b><font color=
+=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:black;font-famil=
+y:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=B9=E0=A4=BE=E0=
+=A4=B2 =E0=A4=B9=E0=A5=80 =E0=A4=AE=E0=A5=87=E0=A4=82 =E0=A4=B9=E0=A5=81=E0=
+=A4=B5=E0=A5=87 =E0=A4=98=E0=A5=8B=E0=A4=9F=E0=A4=BE=E0=A4=B2=E0=A5=8B=E0=
+=A4=82 =E0=A4=95=E0=A4=BE =E0=A4=86=E0=A4=AA =E0=A4=B8=E0=A4=AD=E0=A5=80 =
+=E0=A4=95=E0=A5=8B =E0=A4=AA=E0=A4=A4=E0=A4=BE =E0=A4=B9=E0=A5=80 =E0=A4=B9=
+=E0=A5=88</span></font></b><b><font color=3D"black" size=3D"6"><span style=
+=3D"color:black;font-size:24pt;font-weight:bold"> - CWG </span></font></b><=
+b><font color=3D"black" size=3D"6" face=3D"Mangal"><span style=3D"color:bla=
+ck;font-family:Mangal;font-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=
+=98=E0=A5=8B=E0=A4=9F=E0=A4=BE=E0=A4=B2=E0=A4=BE</span></font></b><b><font =
+color=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;font-w=
+eight:bold">, </span></font></b><b><font color=3D"black" size=3D"6" face=3D=
+"Mangal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-=
+weight:bold" lang=3D"HI">=E0=A5=A8 =E0=A4=9C=E0=A5=80 =E0=A4=B8=E0=A5=8D=E0=
+=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=9F=E0=A5=8D=E0=A4=B0=E0=A5=81=E0=A4=
+=AE =E0=A4=98=E0=A5=8B=E0=A4=9F=E0=A4=BE=E0=A4=B2=E0=A4=BE</span></font></b=
+><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-size:2=
+4pt;font-weight:bold"> , </span></font></b><b><font color=3D"black" size=3D=
+"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-size=
+:24pt;font-weight:bold" lang=3D"HI">=E0=A4=86=E0=A4=A6=E0=A4=B0=E0=A5=8D=E0=
+=A4=B6 =E0=A4=B9=E0=A5=8B=E0=A4=89=E0=A4=B8=E0=A4=BF=E0=A4=82=E0=A4=97 =E0=
+=A4=98=E0=A5=8B=E0=A4=9F=E0=A4=BE=E0=A4=B2=E0=A4=BE</span></font></b><b><fo=
+nt color=3D"black" size=3D"6"><span style=3D"color:black;font-size:24pt;fon=
+t-weight:bold"> ... </span></font></b><b><font color=3D"black" size=3D"6" f=
+ace=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font-size:24pt=
+;font-weight:bold" lang=3D"HI">=E0=A4=94=E0=A4=B0 =E0=A4=A8=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=A8=E0=A5=87 =E0=A4=95=E0=A5=8C=E0=A4=A8 =E0=A4=95=E0=A5=
+=8C=E0=A4=A8 =E0=A4=B8=E0=A5=87 =E0=A4=98=E0=A5=8B=E0=A4=9F=E0=A4=BE=E0=A4=
+=B2=E0=A5=87 =E0=A4=85=E0=A4=AD=E0=A5=80 =E0=A4=89=E0=A4=9C=E0=A4=BE=E0=A4=
+=97=E0=A4=B0 =E0=A4=B9=E0=A5=8B=E0=A4=A8=E0=A5=87 =E0=A4=B5=E0=A4=BE=E0=A4=
+=B2=E0=A5=87 =E0=A4=B9=E0=A5=88</span></font></b><b><font color=3D"black" s=
+ize=3D"6"><span style=3D"color:black;font-size:24pt;font-weight:bold"> ....=
+....</span></font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><font size=3D"3" face=3D"Times New Roman"><sp=
+an style=3D"font-size:12pt"><u></u><u></u></span></font>=C2=A0</p></div></d=
+iv>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"M=
+angal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-we=
+ight:bold" lang=3D"HI">=E0=A4=86=E0=A4=AA =E0=A4=B2=E0=A5=8B=E0=A4=97 =E0=
+=A4=9C=E0=A5=8B=E0=A4=95=E0=A5=8D=E0=A4=B8 =E0=A4=AB=E0=A5=89=E0=A4=B0=E0=
+=A4=B5=E0=A4=B0=E0=A5=8D=E0=A4=A1 =E0=A4=95=E0=A4=B0=E0=A4=A4=E0=A5=87 =E0=
+=A4=B9=E0=A5=80 =E0=A4=B9=E0=A5=8B</span></font></b><b><font color=3D"black=
+" size=3D"6"><span style=3D"color:black;font-size:24pt;font-weight:bold">. =
+</span></font></b><u></u><u></u></p>
+
+
+
+</div></div>
+<div>
+<div>
+<p style=3D"background:white"><b><font color=3D"black" size=3D"6" face=3D"M=
+angal"><span style=3D"color:black;font-family:Mangal;font-size:24pt;font-we=
+ight:bold" lang=3D"HI">=E0=A4=87=E0=A4=B8=E0=A5=87 =E0=A4=AD=E0=A5=80 =E0=
+=A4=87=E0=A4=A4=E0=A4=A8=E0=A4=BE =E0=A4=AB=E0=A5=89=E0=A4=B0=E0=A4=B5=E0=
+=A4=B0=E0=A5=8D=E0=A4=A1 =E0=A4=95=E0=A4=B0=E0=A5=8B =E0=A4=95=E0=A5=80 =E0=
+=A4=AA=E0=A5=82=E0=A4=B0=E0=A4=BE =E0=A4=AD=E0=A4=BE=E0=A4=B0=E0=A4=A4 =E0=
+=A4=87=E0=A4=B8=E0=A5=87 =E0=A4=AA=E0=A4=A2=E0=A4=BC=E0=A5=87</span></font>=
+</b><b><font color=3D"black" size=3D"6"><span style=3D"color:black;font-siz=
+e:24pt;font-weight:bold"> ... </span></font></b><b><font color=3D"black" si=
+ze=3D"6" face=3D"Mangal"><span style=3D"color:black;font-family:Mangal;font=
+-size:24pt;font-weight:bold" lang=3D"HI">=E0=A4=94=E0=A4=B0 =E0=A4=8F=E0=A4=
+=95 =E0=A4=86=E0=A4=A8=E0=A5=8D=E0=A4=A6=E0=A5=8B=E0=A4=B2=E0=A4=A8 =E0=A4=
+=AC=E0=A4=A8 =E0=A4=9C=E0=A4=BE=E0=A4=AF=E0=A5=87 </span></font></b><u></u>=
+<u></u></p>
+
+
+
+</div>
+<div>
+<p style=3D"background:white"><font color=3D"navy" size=3D"3" face=3D"Times=
+ New Roman"><span style=3D"color:navy;font-size:12pt"></span></font><u></u>=
+<u></u>=C2=A0</p></div></div>
+<div>
+<div>
+<p><font color=3D"black" size=3D"3" face=3D"Times New Roman"><span style=3D=
+"color:black;font-size:12pt"></span></font><u></u><u></u>=C2=A0</p></div></=
+div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><font color=3D"black" size=3D"3" face=3D"Times New Roman"><span style=3D=
+"color:black;font-size:12pt">=C2=A0</span></font><b><font color=3D"red" siz=
+e=3D"5"><span style=3D"color:red;font-size:18pt;font-weight:bold">Spread it=
+ like</span></font></b><font color=3D"red" size=3D"6"><span style=3D"color:=
+red;font-size:24pt">fire</span></font><b><font color=3D"red" size=3D"5"><sp=
+an style=3D"color:red;font-size:18pt;font-weight:bold">; </span></font></b>=
+<font color=3D"black"><span style=3D"color:black"><br>
+
+
+
+</span></font><b><font color=3D"red" size=3D"5"><span style=3D"color:red;fo=
+nt-size:18pt;font-weight:bold">our Nation needs us..please Contribute..</sp=
+an></font></b><font color=3D"black"><span style=3D"color:black"> <br></span=
+></font><b><font color=3D"red" size=3D"5"><span style=3D"color:red;font-siz=
+e:18pt;font-weight:bold">This is not just</span></font></b><b><font color=
+=3D"#1f497d" size=3D"5"><span style=3D"color:rgb(31, 73, 125);font-size:18p=
+t;font-weight:bold"> </span></font></b><b><font color=3D"red" size=3D"5"><s=
+pan style=3D"color:red;font-size:18pt;font-weight:bold">a forward, it is th=
+e future of our Nation</span></font></b><font color=3D"#004080"><span style=
+=3D"color:rgb(0, 64, 128)">=C2=A0...</span></font></p>
+
+
+
+
+<p><font color=3D"#004080"><span style=3D"color:rgb(0, 64, 128)"></span></f=
+ont>=C2=A0</p>
+<p><font color=3D"#004080"><span style=3D"color:rgb(0, 64, 128)"></span></f=
+ont>=C2=A0</p>
+<p><font color=3D"#004080"><br></font></p></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div>
+</div>
+</div></div></div></td></tr></tbody></table></div>
+<div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div>
+<div>
+<div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div></div></div></td></tr></tbody>=
+</table></div></div></div></div></div></div></div></div></div>
+
+</div></div></div></div></div></div></div></div></div>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font></p></td></tr></tbody></table>
+<div>
+<p style=3D"background:white"><font color=3D"black" size=3D"2" face=3D"Aria=
+l"><span style=3D"color:black;font-family:Arial;font-size:10pt"></span></fo=
+nt><font color=3D"black" face=3D"Arial"><span style=3D"color:black;font-fam=
+ily:Arial"><u></u><u></u></span></font>=C2=A0</p>
+
+
+
+</div></div></div>
+<p style=3D"background:white"><font color=3D"black" size=3D"3" face=3D"Aria=
+l"><span style=3D"color:black;font-family:Arial;font-size:12pt"><u></u><u><=
+/u></span></font>=C2=A0</p></div>
+<p style=3D"background:white"><font color=3D"black" size=3D"2" face=3D"Aria=
+l"><span style=3D"color:black;font-family:Arial;font-size:10pt"><u></u><u><=
+/u></span></font>=C2=A0</p></div></blockquote></div></div></div>
+
+</div></div>
+<p style=3D"background:white"><font color=3D"black" size=3D"2" face=3D"Aria=
+l"><span style=3D"color:black;font-family:Arial;font-size:10pt"><u></u><u><=
+/u></span></font>=C2=A0</p></div></div></div></div></div></div>
+
+</div></div></div></div>
+<p style=3D"background:white"><font color=3D"black" size=3D"3" face=3D"Time=
+s New Roman"><span style=3D"color:black;font-size:12pt"><br><br clear=3D"al=
+l"><br><br></span></font></p></div></div></div></div></div>
+
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"font-size:12pt"=
+><u></u><u></u></span></font>=C2=A0</p></div></div></div></div><br></div></=
+div><br><font color=3D"#888888"><br></font></div><br></div><br>
+</div>
+<br></div><br>
+</div><br><br clear=3D"all"><br><br>
+</div></blockquote></td></tr></tbody></table></div><br>
+</div><br>
+
+--20cf303bfe26af97f804aa3204e9--
+--20cf303bfe26af97fb04aa3204ea
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <1.552749232@web95515.mail.in.yahoo.com>
+X-Attachment-Id: cbeb95aead7174b7_0.1.1
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCACcAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDzY0ds
+Uhpe1UZiGjvS0lAg704GmmlFAx3WkJA4pu7mml+aAHHnmkBzXcfD/wAFnVJk1jU4v9Ajb91Ew/17
+f/Ej9a9HuPAHhW/BaTR4o2P8UDGM/ocU7DseBDFLXsN78HdGlBNjqF3bN2EmJF/oa5u/+EGvW+Ws
+7m1vF9Axjb9f8aBWZwNFaOq+HdY0R8alp09uOzsuVP8AwIcVmk0CCkpRikIpALQTSAYooAQHmg0c
+ZowM0AKpo70DFBxQAZpDRxRQIM0UcUUAOxTsU0g9sU7HFBQhpKWigQUUUUANNaPh3SG1zX7PTgDt
+mkAcjso5Y/lms9q9E+Dul+dqt7qbrxbxiJCezN1/QfrTKR6rHaw29ukUaCOGJQiIowFA6CiGbb9K
+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
+Y66eEnUjzJn/2Q==
+--20cf303bfe26af97fb04aa3204ea--

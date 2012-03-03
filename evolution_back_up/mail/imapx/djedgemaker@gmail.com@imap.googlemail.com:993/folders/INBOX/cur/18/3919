@@ -1,0 +1,66 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.1.76 with SMTP id 12cs6418vce;
+        Sat, 8 Oct 2011 03:41:49 -0700 (PDT)
+Received: by 10.68.22.36 with SMTP id a4mr20678027pbf.80.1318070508961;
+        Sat, 08 Oct 2011 03:41:48 -0700 (PDT)
+Return-Path: <notification+kjdmk357uh5i@facebookmail.com>
+Received: from mx-out.facebook.com (outmail006.snc4.facebook.com. [66.220.144.140])
+        by mx.google.com with ESMTP id jj9si13541705pbc.193.2011.10.08.03.41.48;
+        Sat, 08 Oct 2011 03:41:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+kjdmk357uh5i@facebookmail.com designates 66.220.144.140 as permitted sender) client-ip=66.220.144.140;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of notification+kjdmk357uh5i@facebookmail.com designates 66.220.144.140 as permitted sender) smtp.mail=notification+kjdmk357uh5i@facebookmail.com; dkim=pass header.i=@facebookmail.com
+Return-Path: <notification+kjdmk357uh5i@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=facebookmail.com; s=s1024-2011-q2; c=relaxed/simple;
+	q=dns/txt; i=@facebookmail.com; t=1318070508;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=a/mns8coO4ybuDfft0zWLk2jemoaGqBKc+MhBAeLeBo=;
+	b=ci94QSxJq3D7OmJwfC7/V+zwVRz2vYoSeI70XaHXC6NOsu+UGvklbi3cH1Noy1wQ
+	5CHyeB9BIPM3QSkGYIfANnnPvhlylgtHG67cq8nmTqOM8DgBZc/QCYKkA0UHFzcj
+	9aPTWYq+d1s6/mhrhDloYGoFprf6wqGThuOi8AaGFrY=;
+Received: from [10.33.27.114] ([10.33.27.114:42223])
+	by smout021.snc4.facebook.com (envelope-from <notification+kjdmk357uh5i@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 1E/3D-02931-CE8209E4; Sat, 08 Oct 2011 03:41:48 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Sat, 8 Oct 2011 03:41:48 -0700
+To: Dhananjai Verma <djedgemaker@gmail.com>
+From: "Facebook" <notification+kjdmk357uh5i@facebookmail.com>
+Reply-to: Facebook <notification+kjdmk357uh5i@facebookmail.com>
+Subject: Facebook login from "sandeeep"
+Message-ID: <60600a0bd7c2593d0151669955b63972@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+X-Facebook-Notify: login_notification; mailid=4fa261aG5af345c71ebfGac4b39G62
+List-Unsubscribe: <mailto:unsub+login_notification@unsubscribe.facebook.com>
+Errors-To: notification+kjdmk357uh5i@facebookmail.com
+X-FACEBOOK-PRIORITY: 0
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Dhananjai Verma,
+
+A new device named "sandeeep" logged into your Facebook account (Saturday, =
+October 8, 2011 at 3:41am) from Bangalore, KA, IN (IP=3D59.99.238.128). =
+(Note: This location is based on information from your ISP or wireless =
+provider.)
+
+This device has been added to your account.
+
+Was this you? If so, you can disregard the rest of this email.=20
+
+If this wasn't you, please follow the link below to protect your Facebook =
+account information:
+https://www.facebook.com/checkpoint/checkpointme?u=3D100000894230207&n=3DC=
+MlIrtbu
+
+To learn how login notifications like this one can help you to protect =
+your account information, visit the Help Center: =
+http://www.facebook.com/help/?topic=3Dloginnotifications.=20
+Please note: Facebook will never request your login information through =
+email.
+
+Thanks,
+The Facebook Team
+

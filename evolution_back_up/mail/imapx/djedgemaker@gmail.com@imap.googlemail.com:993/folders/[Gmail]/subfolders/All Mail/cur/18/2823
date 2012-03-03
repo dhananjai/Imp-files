@@ -1,0 +1,77 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.193.138 with SMTP id du10cs72641vcb;
+        Tue, 1 Mar 2011 04:44:38 -0800 (PST)
+Received: by 10.42.140.2 with SMTP id i2mr4078403icu.212.1298983450771;
+        Tue, 01 Mar 2011 04:44:10 -0800 (PST)
+Return-Path: <s-u6cSO0mZvoVl_r94WwR3Z5rab8CoiOQHNpcAObzWHFnXbqf_efU6Au@bounce.linkedin.com>
+Received: from maild-ba.linkedin.com (maild-ba.linkedin.com [216.52.242.158])
+        by mx.google.com with ESMTP id m10si12521113icc.112.2011.03.01.04.44.10;
+        Tue, 01 Mar 2011 04:44:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of s-u6cSO0mZvoVl_r94WwR3Z5rab8CoiOQHNpcAObzWHFnXbqf_efU6Au@bounce.linkedin.com designates 216.52.242.158 as permitted sender) client-ip=216.52.242.158;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of s-u6cSO0mZvoVl_r94WwR3Z5rab8CoiOQHNpcAObzWHFnXbqf_efU6Au@bounce.linkedin.com designates 216.52.242.158 as permitted sender) smtp.mail=s-u6cSO0mZvoVl_r94WwR3Z5rab8CoiOQHNpcAObzWHFnXbqf_efU6Au@bounce.linkedin.com; dkim=pass header.i=@linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=J8p4y+EoPyER3UPBoLGbIYkxO/wR7nwfSmjVwSfqnnt7p6/1zaFcTKfItu46o3Ki
+	GftOjSkQOrg1ib+nidJmjAyfY/YK6QpTkd5pDg860SRw/+XkpfzBFEQK4HdmWbDK
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1298983450;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=Q4AqoSo310edCUP4Cx12cIhE5Oo=;
+	b=YnvDlYTHzHh2G7srFk1j0cvFuEOXhOnV+3ri+aPB/IcdtAEQ7r5ffK9tPHbAjBWE
+	C3g2SdasyABwyJIxI4Quqk6Am6bY6hTMR0Mv7iDB5cWtXZqORKFC1eAnGR/iuNsX;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Tue, 1 Mar 2011 12:44:10 +0000 (UTC)
+From: "sahil chawda (LinkedIn Invitations)" <invitations@linkedin.com>
+To: Dhananjai Verma <djedgemaker@gmail.com>
+Message-ID: <824472955.9262209.1298983450037.JavaMail.app@ela4-bed49.prod>
+Subject: Reminder about your invitation from sahil chawda
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_9262208_984721016.1298983450036"
+X-LinkedIn-Template: inv_exp_member_01
+X-LinkedIn-Class: INVITE-MBR
+X-LinkedIn-fbl: s-u6cSO0mZvoVl_r94WwR3Z5rab8CoiOQHNpcAObzWHFnXbqf_efU6Au
+
+------=_Part_9262208_984721016.1298983450036
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+LinkedIn
+------------
+This invitation is awaiting your response:
+ From sahil chawda 
+
+ 
+-- 
+(c) 2011, LinkedIn Corporation
+------=_Part_9262208_984721016.1298983450036
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+  <body>
+
+  
+
+<table border="0" width="550" cellpadding="0" cellspacing="0" style="max-width:550px; border-top:4px solid #39C; font: 12px arial, sans-serif; margin: 0 auto;"><tr><td>  
+  <h1 style="color: #000; font: bold 23px arial; margin:5px 0;" >LinkedIn</h1>
+
+   <h2 style="margin:0; padding:0; font:17px arial; color:#069;">REMINDER</h2>
+   <p style="margin: 5px 0;font-size:12px"><strong>This pending invitation is awaiting your response:</strong></p>
+     
+           <span style="color:#999999;">&#8226;</span>&nbsp;
+           <a href="http://www.linkedin.com/e/-e35eni-gkqt7gs2-1/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/blk/I111116797_10/30NnPsVdPoNcj4NckALqnpPbOYWrSlI/EML-bt1-rem-inv_svi/" style="color:#0066CC;"> From <strong>sahil chawda</strong> </a>
+     <br>
+
+   <br>
+
+   <p style="color:#999999;font-size:10px;margin: 10px 0;">Don't want to receive email notifications? <a href="https://www.linkedin.com/e/-e35eni-gkqt7gs2-1/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/prv/" style="color:#0066CC;">Adjust your message settings.</a></p>
+
+
+  <p style="width: 550px; margin: 3px auto; font: 10px arial, sans-serif; color: #999;">&#169; 2011, LinkedIn Corporation</p>
+  
+</body>
+</html>
+------=_Part_9262208_984721016.1298983450036--

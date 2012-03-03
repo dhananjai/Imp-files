@@ -1,0 +1,19 @@
+﻿Psudo Code Writing Guidelines
+
+1.Psudo code document should be written by developer for any small and big development task. 
+2.Written psudo code should be confirmed by Team Lead. 
+3.The document must contain following:
+a)Name of the project
+b)Requirement number
+c)Class diagram reference number
+d)Name of the Process
+e)Inputs
+f)Process flow
+g)Output
+h)Probable Errors for handling
+i)Dependencies if any.
+j)Created by
+k)Creation date
+l)Reviewed by
+m)Review date
+

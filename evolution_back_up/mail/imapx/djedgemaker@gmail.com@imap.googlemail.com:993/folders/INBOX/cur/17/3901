@@ -1,0 +1,252 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.1.76 with SMTP id 12cs9948vce;
+        Fri, 30 Sep 2011 05:28:04 -0700 (PDT)
+Received: by 10.150.203.11 with SMTP id a11mr10899617ybg.202.1317385684314;
+        Fri, 30 Sep 2011 05:28:04 -0700 (PDT)
+Return-Path: <noreply@way2sms.biz>
+Received: from smtp223.way2sms.biz (smtp223.way2sms.biz. [49.156.128.123])
+        by mx.google.com with ESMTP id z8si2382608ybj.14.2011.09.30.05.28.03;
+        Fri, 30 Sep 2011 05:28:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@way2sms.biz designates 49.156.128.123 as permitted sender) client-ip=49.156.128.123;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of noreply@way2sms.biz designates 49.156.128.123 as permitted sender) smtp.mail=noreply@way2sms.biz; dkim=pass header.i=@way2sms.biz
+Received: from smtp110.way2sms.biz (smtp223.way2sms.biz [49.156.128.123])
+	by smtp223.way2sms.biz (Postfix) with ESMTP id 54B4C88244C0
+	for <djedgemaker@gmail.com>; Fri, 30 Sep 2011 17:57:41 +0530 (IST)
+X-DKIM: Sendmail DKIM Filter v2.8.2 smtp223.way2sms.biz 54B4C88244C0
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=way2sms.biz;
+	s=default; t=1317385661; bh=0J9jbFRwHNf2AwOD8sY5tWlIJgU=;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	b=EYwqNXLSjK3mPkt6Ix5WGbqhLow5G0OCWdxGxJtZ+E3Dwbqa2BDvEYKPKh7dSf+vB
+	 AIuQ6exVrsu5JEQnL5tUy//0wGMCCVOoLmy41XegHi4u2dfv4OQW4TCXkV5PChp7M5
+	 cZjXP9IJakHiM+vank4v8urc5ufH82OI9bW5pusQ=
+X-DomainKeys: Sendmail DomainKeys Filter v1.0.2 smtp223.way2sms.biz 54B4C88244C0
+DomainKey-Signature: a=rsa-sha1; s=dk1024; d=way2sms.biz; c=nofws; q=dns;
+	h=date:from:reply-to:to:message-id:subject:mime-version:
+	content-type:content-transfer-encoding:x-mailer:x-complaints-to:list-unsubscribe;
+	b=AdEN7llz5a58oQEEsS8UlQvbifJ2jAWVkgGQYRwNFqGbJ2RF+M+8l5hEfgrqH6Lp2
+	HP5N6SHBGO0Sz0PhZHwDXDhQWuGDJ7YhVdQ1xjivRMrwcakxdUEMbfkr1fpQ34Af1WR
+	KBSFMvYVoFnqij8K9W9PVezDrMUT8XN7on5xOko=
+Date: Fri, 30 Sep 2011 17:57:41 +0530 (IST)
+From: Way2Sms Team <noreply@way2sms.biz>
+Reply-To: noreply@way2sms.biz
+To: djedgemaker <djedgemaker@gmail.com>
+Message-ID: <15982064.27367.1317385661343.JavaMail.root@smtp110.way2sms.biz>
+Subject: TRAI new SMS guidelines & Impact on way2sms users
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: Way2SMSMailer
+X-Complaints-To:: abuse@way2sms.in
+List-Unsubscribe: <mailto:noreply@way2sms.biz>
+
+<table><tr><td><div class="Section1">
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">Dear User,</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:black;background:white"><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">As many of you may
+be aware, the Telecom Regulatory Authority of India (TRAI) recently issued new
+regulations on the SMS industry in India. These regulations are designed to
+significantly curb the sending of unsolicited commercial <span class="SpellE">SMSes</span>
+to consumers.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">Consumers across the
+country have seen<span class="apple-converted-space"><span style="font-family:
+&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Arial">&nbsp;</span></span><strong>great
+relief from <span class="GramE">telemarketers <span style="font-weight:normal">.</span></span></strong>
+However, these regulations have significant impact on legitimate personal
+messaging services such as way2sms.</span><span style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><strong><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">TRAI new SMS
+guidelines &amp; Impact on way2sms users</span></strong><span style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">1. Way2SMS users are
+not allowed to send SMS between 9PM to 9AM</span><span style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">2. Way2SMS cannot
+deliver your messages to your friends who are on <span class="GramE">DND(</span>do
+not disturb) registry.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">3. TRAI new
+regulations <span class="SpellE">wont</span> allow us to send messages with your
+mobile number as sender.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white"><br>
+&nbsp;TRAI has categorized messages as Transactional and Promotional.
+Unfortunately, they haven't addressed "<strong>Personal Messaging</strong>"
+category. This made us to fall under<span class="apple-converted-space"><span style="font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Arial">&nbsp;</span></span><strong>Promotional
+messaging</strong><span class="apple-converted-space"><span style="font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;
+mso-bidi-font-family:Arial">&nbsp;</span></span>even though way2sms is used to
+exchange personal messages <span class="SpellE">with<strong>friends</strong></span><strong>,
+relatives and known people.</strong></span><span style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">We have received
+close to 12000 Feedbacks so far and we know<span class="GramE">, &nbsp;20</span>
+million other way2sms users are also in trouble due to the new SMS regulations.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">Due to the TRAI new
+SMS regulations,&nbsp;if you are not comfortable considering your "way2sms
+messages" as "promotional messages<span class="GramE">" ,</span>
+&nbsp;you can always write your feedback to TRAI at &nbsp; &nbsp;<strong><a href="mailto:helpline@nccptrai.gov.in" target="_blank"><span style="color:#0000CC">helpline@nccptrai.gov.in</span></a></strong></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class="MsoNormal" style="line-height:16.5pt"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">We seek your
+understanding as we continue to employ our best efforts to ensure smooth functioning
+of the way2sms platform.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+</div>
+
+<p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+line-height:16.5pt;vertical-align:baseline;outline-width: 0px;outline-style: initial;
+outline-color: initial;border:initial initial"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Arial;color:#000099;
+background:white">We regret any inconvenience caused to you.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;
+background:white"><o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;
+mso-bidi-font-family:Arial;color:#000099;background:white">Best Wishes</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;
+background:white"><o:p></o:p></span></p>
+
+<p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+line-height:16.5pt;vertical-align:baseline;outline-width: 0px;outline-style: initial;
+outline-color: initial;border:initial initial"><span style="font-size:10.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Arial;color:#000099;
+background:white">Way2SMS Team</span><span style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;background:white"><o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+color:black;background:white"><br>
+&nbsp;<o:p></o:p></span></p>
+
+</div>&nbsp;</td></tr><tr><td><div style='margin:5px;height:auto;padding:5px; font-weight:bold; font-family:Verdana, Arial, Helvetica, sans-serifl; font-size:11px;   color:#000000; '><img height='1px' width='1px' src="http://app.way2sms.biz/email1/MailStatus?id=299&nid=17&subid=4014208&action=readstatus" /> </div></td></tr></table>

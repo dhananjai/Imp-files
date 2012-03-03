@@ -1,0 +1,156 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.76.205 with SMTP id d13cs40986vck;
+        Fri, 13 May 2011 10:59:37 -0700 (PDT)
+Return-Path: <monalchandak29@gmail.com>
+Received-SPF: pass (google.com: domain of monalchandak29@gmail.com designates 10.216.78.212 as permitted sender) client-ip=10.216.78.212;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of monalchandak29@gmail.com designates 10.216.78.212 as permitted sender) smtp.mail=monalchandak29@gmail.com; dkim=pass header.i=monalchandak29@gmail.com
+Received: from mr.google.com ([10.216.78.212])
+        by 10.216.78.212 with SMTP id g62mr1725369wee.22.1305309577274 (num_hops = 1);
+        Fri, 13 May 2011 10:59:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=706CbyydmA62XkKEd3AtOmgX9NGSOcZrS/2bVf8mRhI=;
+        b=hQV/eznRO0t/1PVMnMBv49BY5EEJRRHp+Hcr/W0KnLuDc190EPKrz4rPlRAMcSv49g
+         CFYWLLnqP9J4wAMcDxa6A4abe/X18enSecxQB5gZuMQgTx7V5k7S+r1EumT5IIizVA71
+         Mp6DSKfmrIvfUA+0gsUoYI4U0VHk8WpD8o4Cg=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=K1r++2u+t3Yg5MYsDRay+Eek3HWisC3HzxKi0Hk/NvZFX5C+hX3MgNAPEEC1B6TfUn
+         5hdYKuJ0KOU1yN6cR2V7dXYZssj4Fj0htgM7C67926EEhyKwROEyV75/Y5Na+1yVklKp
+         YCs79ky9esEBurvYdpLCwENnENb6StXiSKMs4=
+MIME-Version: 1.0
+Received: by 10.216.78.212 with SMTP id g62mr1725369wee.22.1305309577266; Fri,
+ 13 May 2011 10:59:37 -0700 (PDT)
+Date: Fri, 13 May 2011 20:59:37 +0300
+Message-ID: <BANLkTi=d50zOdVLkoOfYNdd_17MRkr4HmA@mail.gmail.com>
+Subject: MONAL CHANDAK has invited you to open a Google mail account
+From: MONAL CHANDAK <monalchandak29@gmail.com>
+To: djedgemaker@gmail.com
+Content-Type: multipart/alternative; boundary=000e0ce04940acc58904a32c1103
+
+--000e0ce04940acc58904a32c1103
+Content-Type: text/plain; charset=ISO-8859-1
+
+I've been using Gmail and thought you might like to try it out. Here's an
+invitation to create an account.
+
+
+  You're Invited to Gmail!
+
+MONAL CHANDAK has invited you to open a Gmail account.
+
+Gmail is Google's free email service, built on the idea that email can be
+intuitive, efficient, and fun. Gmail has:
+
+ *Less spam*
+Keep unwanted messages out of your inbox with Google's innovative
+technology.
+
+*Lots of space*
+Enough storage so that you'll never have to delete another message.
+
+*Built-in chat*
+Text or video chat with MONAL CHANDAK and other friends in real time.
+
+*Mobile access*
+Get your email anywhere with Gmail on your mobile phone.
+
+You can even import your contacts and email from Yahoo!, Hotmail, AOL, or
+any other web mail or POP accounts.
+
+Once you create your account, MONAL CHANDAK will be notified of your new
+Gmail address so you can stay in touch. Learn
+more<http://mail.google.com/mail/help/intl/en/about.html>or get
+started<http://mail.google.com/mail/a-df0db5a774-b5c204d86a-GWOQHzxur7ByF9Tr1Uh9JsCnADk>
+!
+        Sign up<http://mail.google.com/mail/a-df0db5a774-b5c204d86a-GWOQHzxur7ByF9Tr1Uh9JsCnADk>
+
+Google Inc. | 1600 Ampitheatre Parkway | Mountain View, California 94043
+
+--000e0ce04940acc58904a32c1103
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr">I&#39;ve been using Gmail and thought you might like to try it out. Here&#39;s an invitation to create an account.
+
+<div>
+<br>
+<br>
+<table width="650px" cellpadding="0" cellspacing="0" style="margin-left:auto; margin-right:auto; font-family:arial,sans-serif;">
+<tr><td style="border:1px solid #cccccc; padding:10px;">
+	<table width="100%" cellpadding="0" cellspacing="0">
+		<tr><td width="1%"><img src="http://www.gstatic.com/mail/messages/mvelope2.gif" width="95" height="77" style="padding-right:10px;"></td>
+		<td width="99%" colspan="2"><h1 style="font-size:28px; font-weight:normal; color:#2461AA; padding-bottom:0em;">You&#39;re Invited to Gmail!</h1></td></tr>
+	</table>
+	<table width="100%"><tr><td>
+	<table width="450px" border="0" cellpadding="0" cellspacing="0" style="padding:12px; padding-top:0;">
+	  <tr><td colspan="2">
+	        <p>
+	        MONAL CHANDAK has invited you to open a Gmail account.
+	        </p>
+	        <p>Gmail is Google&#39;s free email service, built on the idea that email can be intuitive, efficient, and fun. Gmail has:</p><br></td></tr>
+		<tr>
+		<td valign="top" style="padding-bottom:5px;"><img src="http://www.gstatic.com/mail/messages/spam_new.gif" style="padding-right:5px;"></td>
+		<td valign="top" style="padding-bottom:5px;"><p style="margin-top:0px; padding-top:0px;"><strong>Less spam</strong><br>
+		Keep unwanted messages out of your inbox with Google&#39;s innovative technology.</p></td>
+		</tr>
+		<tr>
+		<td valign="top" style="padding-bottom:5px;"><img src="http://www.gstatic.com/mail/messages/storage.gif" style="padding-right:5px;"></td>
+		<td valign="top" style="padding-bottom:5px;"><p style="margin-top:0px; padding-top:0px;"><strong>Lots of space</strong><br>
+		Enough storage so that you&#39;ll never have to delete another message.</p></td>
+		</tr>
+		<tr>
+		<td valign="top" style="padding-bottom:5px;"><img src="http://www.gstatic.com/mail/messages/chat.gif" style="padding-right:5px;"></td>
+		<td valign="top" style="padding-bottom:5px;"><p style="margin-top:0px; padding-top:0px;"><strong>Built-in chat</strong><br>
+		Text or video chat with MONAL CHANDAK and other friends in real time.</p></td>
+		</tr>
+		<tr>
+		<td valign="top"><img src="http://www.gstatic.com/mail/messages/cell.gif" style="padding-right:5px;"></td>
+		<td valign="top"><p style="margin-top:0px; padding-top:0px;"><strong>Mobile access</strong><br>
+		Get your email anywhere with Gmail on your mobile phone.</p></td>
+		</tr>
+		<tr><td colspan="2" style="padding-top:15px;">
+                <p>You can even import your contacts and email from Yahoo!, Hotmail, AOL, or any other web mail or POP accounts.</p>
+		<p>Once you create your account, MONAL CHANDAK will be notified of your new Gmail address so you can stay in touch.
+		<a href="http://mail.google.com/mail/help/intl/en/about.html">Learn more</a> or <a href="http://mail.google.com/mail/a-df0db5a774-b5c204d86a-GWOQHzxur7ByF9Tr1Uh9JsCnADk">get started</a>!</p></td></tr>
+	</table>
+	</td>
+	<td valign="top">
+	<table cellpadding="0" cellspacing="0">
+          <col style="width: 1px;">
+          <col>
+          <col style="width: 1px;">
+          <tr>
+            <td></td>
+            <td height="1px" style="background-color: #ddd"></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td style="background-color: #ddd"></td>
+            <td background="http://www.gstatic.com/mail/messages/welcome-button-background.png" style="background-color: #ddd; background-repeat: repeat-x;
+                    padding: 10px; font-size: 130%" align="center">
+                  <a href="http://mail.google.com/mail/a-df0db5a774-b5c204d86a-GWOQHzxur7ByF9Tr1Uh9JsCnADk" style="font-weight: bold; color: #000; text-decoration: none;
+                    display: block;">Sign up</a>
+            </td>
+            <td style="background-color: #ddd"></td>
+          </tr>
+         <tr>
+            <td></td>
+            <td height="1px" style="background-color: #ddd"></td>
+            <td></td>
+          </tr>
+        </table>
+	</td></tr></table>
+</td></tr>
+
+<tr><td>
+<div style="width:100%; margin-top:10px; color:#666666; font-size:10px;"><center><br>
+Google Inc. | 1600 Ampitheatre Parkway | Mountain View, California 94043</center></div>
+</td></tr>
+</table>
+</div>
+</div>
+
+--000e0ce04940acc58904a32c1103--

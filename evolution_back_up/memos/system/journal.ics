@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+PRODID:-//Ximian//NONSGML Evolution Calendar//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:/freeassociation.sourceforge.net/Tzfile/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+DTSTART:19701014T230000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VJOURNAL
+UID:1320330544.2199.15.camel@localhost.localdomain
+DTSTAMP:20111104T044609Z
+DTSTART;VALUE=DATE:20111104
+SUMMARY:work report
+DESCRIPTION:Created from a mail by Dhananjai Verma 
+ <dhananjai.verma@cipher-tech.com>\nHi snehal\,\nPFA for todays work 
+ report.\n-- \nThanks and regards\,\n\nDhananjai Verma\nTrainee Software 
+ Engineer\nwww.cipher-tech.com\n\nDisclaimer: The information contained in 
+ this electronic message and any\nattachments to this message are intended 
+ for the exclusive use of the\naddressee(s) and may contain proprietary\, 
+ confidential or privileged\ninformation. If you are not the intended 
+ recipient\, you should not\ndisseminate\, distribute or copy this e-mail. 
+ Please notify the sender\nimmediately and destroy all copies of this 
+ message and any attachments.\n\n\n\n
+ATTACH:file:
+ ///home/Dhananjai/.local/share/evolution/memos/system/1320330544.2199.15.c
+ amel@localhost.localdomain/Dhananjai%20verma%203.11.11.xls
+X-EVOLUTION-MOVE-CALENDAR:1
+CREATED:20111104T045328Z
+LAST-MODIFIED:20111104T045328Z
+END:VJOURNAL
+END:VCALENDAR

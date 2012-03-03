@@ -1,0 +1,42 @@
+﻿Task Submission Process
+(Submission of tasks after development)
+
+Purpose: 
+This document defines process to be carried out at Cipher for submission of developed tasks by development team members.   
+
+Abbreviations used:
+1.PM: Project Manager
+2.TL: Tech Lead / Team Lead
+3.Dev: Developers
+4.QA: Quality Assurance Lead
+
+Inputs:
+1.Task assigned to developer in task manager.
+
+Process: 
+1.Once the task development is done by developer along with unit testing, developer will need to submit the task updates in following terms
+a)Code updates related to task need to be submitted in code repository.
+b)The task in task manager need to be updated with specific comments, spent time and status. 
+c)Unit test case report for developed task.
+2.TL will receive these task submission intimations from developers. 
+3.TL will ensure that the tasks submitted are complete with all respects as mentioned in requirements. 
+4.In case if TL finds any task incomplete, developer will be asked to complete it and re-submit as mentioned in step 1 of the process.  
+5.Steps 1 to 4 above will be repeated until the submission is complete as per requirement. 
+6. Developers will need to ensure following things at the time of submission 
+a) Code is written as per Cipher's coding standards
+b) Code passes unit test cases
+
+
+
+Assumptions:
+1.Any new requirement (major or minor) will be estimated separately and will go under same process as explained above. 
+2.In absence of TL, tasks assigned for TL will be performed by Sr. level developer at Cipher.
+3.Each developer who will be working on project will already have user account on code repository and task management tool of Cipher. If they do not have any of the two, they will need to ask for the same to PM or TL.  
+
+NOTE: This process will need to be followed by everyone who is working on  project development. 
+
+
+Created by: 
+	Snehal Manthanwar
+Created Date: 
+	Mar 16, 2010.

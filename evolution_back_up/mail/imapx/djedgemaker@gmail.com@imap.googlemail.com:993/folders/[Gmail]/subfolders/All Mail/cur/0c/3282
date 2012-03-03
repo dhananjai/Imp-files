@@ -1,0 +1,50 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.76.205 with SMTP id d13cs41111vck;
+        Fri, 13 May 2011 11:04:31 -0700 (PDT)
+Return-Path: <monalchandak29@gmail.com>
+Received-SPF: pass (google.com: domain of monalchandak29@gmail.com designates 10.227.60.143 as permitted sender) client-ip=10.227.60.143;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of monalchandak29@gmail.com designates 10.227.60.143 as permitted sender) smtp.mail=monalchandak29@gmail.com; dkim=pass header.i=monalchandak29@gmail.com
+Received: from mr.google.com ([10.227.60.143])
+        by 10.227.60.143 with SMTP id p15mr1797590wbh.37.1305309870523 (num_hops = 1);
+        Fri, 13 May 2011 11:04:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=+jpacPffQjP+Q9eX5EPGD03NAQJW5LXH/cYybpy8+nQ=;
+        b=WNjMa5cQQj2dcvA3rcM59zJDctBcbXUxQB1AvSeiVfpiq1vJkpgGhoLPleilQDT/DS
+         6eBzOi5au+O8pj4JeTcyeHXiZJgsn3bZhgz9IorD8fFeXlkZW7sdL6eVxlcwmoFj+tKZ
+         IrdZftTkgQGC9PsL5rmZR7f+wxX5/snl2DIVg=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=pyLHdpqDbYU5/TyL7CsjXqphW8zp99YkHDKVz8ToVSzCrqveg1g6LXUguDvZgJxS4m
+         KwQQbrpeyofB9UBAkKQghS4bvzNQWJ4FLBFajPimCcwYjh/jN4VZ2C1IfplDkOkLOjVl
+         KAw+jXZL7jOYH9ECDsw+w5q7q5oAVEdV1DBio=
+MIME-Version: 1.0
+Received: by 10.227.60.143 with SMTP id p15mr1797590wbh.37.1305309870517; Fri,
+ 13 May 2011 11:04:30 -0700 (PDT)
+Received: by 10.216.184.13 with HTTP; Fri, 13 May 2011 11:04:30 -0700 (PDT)
+In-Reply-To: <BANLkTi=d50zOdVLkoOfYNdd_17MRkr4HmA@mail.gmail.com>
+References: <BANLkTi=d50zOdVLkoOfYNdd_17MRkr4HmA@mail.gmail.com>
+Date: Fri, 13 May 2011 21:04:30 +0300
+Message-ID: <BANLkTi=hpsqFbuXv2j7Or+fJ3Qs-iDsfKA@mail.gmail.com>
+Subject: Re: MONAL CHANDAK has invited you to open a Google mail account
+From: MONAL CHANDAK <monalchandak29@gmail.com>
+To: djedgemaker@gmail.com
+Content-Type: multipart/alternative; boundary=001517478928276e0b04a32c23ed
+
+--001517478928276e0b04a32c23ed
+Content-Type: text/plain; charset=ISO-8859-1
+
+kaha h tu???
+
+--001517478928276e0b04a32c23ed
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div><br>kaha h tu???</div>
+<div>=A0</div>
+
+--001517478928276e0b04a32c23ed--

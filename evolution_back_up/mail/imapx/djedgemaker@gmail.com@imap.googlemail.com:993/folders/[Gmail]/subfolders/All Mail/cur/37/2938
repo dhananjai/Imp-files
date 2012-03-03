@@ -1,0 +1,52 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.5.196 with SMTP id 4cs46809vcw;
+        Sat, 26 Mar 2011 06:05:13 -0700 (PDT)
+Return-Path: <kamlesh0805@gmail.com>
+Received-SPF: pass (google.com: domain of kamlesh0805@gmail.com designates 10.216.17.3 as permitted sender) client-ip=10.216.17.3;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of kamlesh0805@gmail.com designates 10.216.17.3 as permitted sender) smtp.mail=kamlesh0805@gmail.com; dkim=pass header.i=kamlesh0805@gmail.com
+Received: from mr.google.com ([10.216.17.3])
+        by 10.216.17.3 with SMTP id i3mr1087331wei.80.1301144711376 (num_hops = 1);
+        Sat, 26 Mar 2011 06:05:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=lYtfWadoN2g4ABlwAdnsnmO1cMNqUCvkwymfhrIYKGM=;
+        b=UnJJsdFcSSn6qdlkhtFQ2CJyWz1zodxummWKw9n5FKNapjnIpwPl1jBm39A2KowZtD
+         /F5DHXWtZOac8QwI8TyS2OiqpgPa98jukykuMpEOMjicD+zUVMsTiv+zHeseGDN4RLJ5
+         1ieiISZfkXGApMwUsySpdtvxWtl0iflGKYH6k=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=oC8BFfK2BY02qP5AZi3n2ICd6kn6737SHJxgpH46ZOFElhOPzCEAk+20dhL4iHb3zs
+         Hc2briFn/hxk/bOy3AyUYDtG/5/hOEnZA1U1sYb00Ch5SBmcWEzig0+4ZkDAnC6jfKNT
+         Ffo7Ko8IVU3SRETu0By4f/8eCKaPHJAwv5eak=
+MIME-Version: 1.0
+Received: by 10.216.17.3 with SMTP id i3mr779942wei.80.1301144711333; Sat, 26
+ Mar 2011 06:05:11 -0700 (PDT)
+Received: by 10.216.50.141 with HTTP; Sat, 26 Mar 2011 06:05:11 -0700 (PDT)
+Date: Sat, 26 Mar 2011 06:05:11 -0700
+Message-ID: <AANLkTikV9JpjEZV+SE5j89hx2Kmfhp+X-Pq4SbEdk+jB@mail.gmail.com>
+Subject: AI
+From: =?UTF-8?B?4oCi4pas4peP4LmL4oCiQOCkleCkruKEk9GU0ZXRlUDigKIgwrsg?= <kamlesh0805@gmail.com>
+To: amit_aj_07@yahoo.co.in, jiddu aditya <jiddu.aditya@gmail.com>, 
+	abhijeet_luka@rediffmail.com, mayank_khare1989@yahoo.co.in, 
+	djedgemaker@gmail.com, sanjusinha20@gmail.com
+Content-Type: multipart/alternative; boundary=0016364c7c23520a20049f625cfd
+
+--0016364c7c23520a20049f625cfd
+Content-Type: text/plain; charset=ISO-8859-1
+
+-- 
+K.K.Sahu
+undergraduate student,4th year
+Computer Science Branch,
+DIMAT,RAIPUR
+(C.G.)
+
+--0016364c7c23520a20049f625cfd
+Content-Type: text/html; charset=ISO-8859-1
+
+<br clear="all"><br>-- <br>K.K.Sahu<br>undergraduate student,4th year<br>Computer Science Branch,<br>DIMAT,RAIPUR<br>(C.G.)<br>
+
+--0016364c7c23520a20049f625cfd--

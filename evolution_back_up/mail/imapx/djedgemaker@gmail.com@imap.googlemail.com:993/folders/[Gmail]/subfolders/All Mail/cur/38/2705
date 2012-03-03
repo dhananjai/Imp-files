@@ -1,0 +1,117 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.85.193 with SMTP id p1cs82067vcl;
+        Sat, 5 Feb 2011 10:23:11 -0800 (PST)
+Received: by 10.231.16.132 with SMTP id o4mr14868801iba.154.1296930190460;
+        Sat, 05 Feb 2011 10:23:10 -0800 (PST)
+Return-Path: <s-vkf2MRgTnE5W2ujVHnxnvBl7Qy57Lre2vIfnz1RUneWYmqKKzEOfpR@bounce.linkedin.com>
+Received: from maild-bd.linkedin.com (maild-bd.linkedin.com [216.52.242.161])
+        by mx.google.com with ESMTP id fc6si3296848vbb.10.2011.02.05.10.23.08;
+        Sat, 05 Feb 2011 10:23:09 -0800 (PST)
+Received-SPF: pass (google.com: domain of s-vkf2MRgTnE5W2ujVHnxnvBl7Qy57Lre2vIfnz1RUneWYmqKKzEOfpR@bounce.linkedin.com designates 216.52.242.161 as permitted sender) client-ip=216.52.242.161;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of s-vkf2MRgTnE5W2ujVHnxnvBl7Qy57Lre2vIfnz1RUneWYmqKKzEOfpR@bounce.linkedin.com designates 216.52.242.161 as permitted sender) smtp.mail=s-vkf2MRgTnE5W2ujVHnxnvBl7Qy57Lre2vIfnz1RUneWYmqKKzEOfpR@bounce.linkedin.com; dkim=pass header.i=@linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=g5OKrZgoDYBp4MA4N/Z7oux7x7BgUME+5EizBVo+OHqrR9R26B/oqRmmqCieoyeB
+	FWAcAOrsCTSD/9SiZBy/rlQ10Du1cceI4aRpEdXNOJBRQDnQTOfo1/ykKxwE/8Ra
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1296930188;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=qQZdOz3R7IFs7p5AeGvyL7cjJAU=;
+	b=a6KEMWfAIBeVuU/mexNtffuKyKfZX9jNkiHBGjf6YlL1JSBTE0E7X4aCXzSYuDCx
+	rtdsPo6ZUsfibofesu/3gEmHfelorDvR9+9lIHZcbJ0xABOV+ORYLtCG3uC9TOaR;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Sat, 5 Feb 2011 18:23:08 +0000 (UTC)
+From: Suraj Gupta via LinkedIn <member@linkedin.com>
+Reply-To: Suraj Gupta <sundmt22@gmail.com>
+To: Dhananjai Verma <djedgemaker@gmail.com>
+Message-ID: <1821164034.506294.1296930188049.JavaMail.app@ela4-bed34.prod>
+Subject: Suraj Gupta wants to stay in touch on LinkedIn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_506293_854655310.1296930188048"
+X-LinkedIn-Template: invite_member_17
+X-LinkedIn-Class: INVITE-MBR
+X-LinkedIn-fbl: s-vkf2MRgTnE5W2ujVHnxnvBl7Qy57Lre2vIfnz1RUneWYmqKKzEOfpR
+
+------=_Part_506293_854655310.1296930188048
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+LinkedIn
+------------Suraj Gupta requested to add you as a connection on LinkedIn:
+------------------------------------------
+
+Dhananjai,
+
+I'd like to add you to my professional network on LinkedIn.
+
+- Suraj Gupta
+
+Accept invitation from Suraj Gupta
+http://www.linkedin.com/e/-e35eni-gjsuqxoo-3b/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/blk/I104621159_10/1BpC5vrmRLoRZcjkkZt5YCpnlOt3RApnhMpmdzgmhxrSNBszYMclYVdj4NczoQc359bR9PjjtQqBhabPATdz0OdPkTcz8LrCBxbOYWrSlI/EML_comm_afe/
+
+View invitation from Suraj Gupta
+http://www.linkedin.com/e/-e35eni-gjsuqxoo-3b/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/blk/I104621159_10/30NnPARcj4OdzgMckALqnpPbOYWrSlI/svi/
+
+------------------------------------------
+
+Why might connecting with Suraj Gupta be a good idea?
+
+Suraj Gupta's connections could be useful to you:
+After accepting Suraj Gupta's invitation, check Suraj Gupta's connections to see who else you may know and who you might want an introduction to. Building these connections can create opportunities in the future.
+
+ 
+-- 
+(c) 2011, LinkedIn Corporation
+------=_Part_506293_854655310.1296930188048
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+  <body>
+
+  
+
+<table border="0" width="550" cellpadding="0" cellspacing="0" style="max-width:550px; border-top:4px solid #39C; font: 12px arial, sans-serif; margin: 0 auto;"><tr><td>  
+  <h1 style="color: #000; font: bold 23px arial; margin:5px 0;" >LinkedIn</h1>
+<div style="font:13px arial, sans-serif; width:540px">
+      <p>Suraj Gupta requested to add you as a connection on LinkedIn:</p>
+  <p>
+    Dhananjai,<br/>
+<br/>
+I'd like to add you to my professional network on LinkedIn.<br/>
+<br/>
+- Suraj Gupta
+  </p>
+  
+  <div style="margin-top: 15px; margin-bottom:10px; border-bottom: 1px solid #ddd; line-height:1px">&nbsp;</div>
+
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="width:15%; padding-right:20px;">
+					<table border="0" cellpadding="6" cellspacing="1" align=""><tr><td align="center" valign="middle" bgcolor="#FFE86C" background="http://www.linkedin.com/scds/common/u/img/bg/yellow_button_back.png" style="background:url(http://www.linkedin.com/scds/common/u/img/bg/yellow_button_back.png) repeat-x scroll 100% 0 #FFE86C;background-color:#FFE86C;border:1px solid #E8B463;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;"><div style="padding-right:10px;padding-left:10px;"><a href="http://www.linkedin.com/e/-e35eni-gjsuqxoo-3b/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/blk/I104621159_10/1BpC5vrmRLoRZcjkkZt5YCpnlOt3RApnhMpmdzgmhxrSNBszYMclYVdj4NczoQc359bR9PjjtQqBhabPATdz0OdPkTcz8LrCBxbOYWrSlI/EML_comm_afe/" style="text-decoration:none;"><span style="font-size:12px;font-family:Arial;font-weight:bold;color:#333333;white-space:nowrap;">Accept</span></a></div></td></tr></table>
+        </td>
+        <td style="font: 13px arial, sans-serif;"> 
+              <a href="http://www.linkedin.com/e/-e35eni-gjsuqxoo-3b/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/blk/I104621159_10/30NnPARcj4OdzgMckALqnpPbOYWrSlI/S2_svi/">View invitation from Suraj Gupta</a>
+        </td>
+    </tr>
+  </table>
+  
+  <br>
+  <div style="margin-top: 5px; border-bottom: 2px solid #ddd; line-height:2px">&nbsp;</div>
+  <br>
+  <p><strong>WHY MIGHT CONNECTING WITH SURAJ GUPTA BE A GOOD IDEA?</strong></p>
+  <p><strong>Suraj Gupta's connections could be useful to you</strong><br> After accepting Suraj Gupta's invitation, check Suraj Gupta's connections to see who else you may know and who you might want an introduction to. Building these connections can create opportunities in the future.</p>
+  <div style="margin-top: 6px; border-bottom: 2px solid #ddd; line-height:3px">&nbsp;</div>
+</div>
+
+
+
+
+  <p style="width: 550px; margin: 3px auto; font: 10px arial, sans-serif; color: #999;">&#169; 2011, LinkedIn Corporation</p>
+  
+</body>
+</html>
+------=_Part_506293_854655310.1296930188048--
