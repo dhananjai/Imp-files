@@ -1,0 +1,46 @@
+﻿Task Distribution Process
+(Distribution of tasks after final development estimates commitment)
+
+Purpose: 
+This document defines process to be carried out at Cipher for distribution of tasks amongst development team members before start of the development. This process depends upon successful output of Development Estimations process.  
+
+Abbreviations used:
+1.PM: Project Manager
+2.TL: Tech Lead / Team Lead
+3.Dev: Developers
+4.QA: Quality Assurance Lead
+
+Inputs:
+1.Systems Requirements Specifications – SRS
+2.Wireframes OR Screenshots
+3.Development Estimations document
+4.Estimation Commitments document
+
+Process: 
+1.As per the tasks mentioned in final development estimates, tasks will be created and assigned in the Task Management tool used at Cipher Technologies. 
+2.Created task must have 
+a.Task Title – Combination of Requirement Number and brief description of requirement.
+b.Task description – Full description of the task as mentioned in SRS.
+c.Screenshot or wireframe reference
+d.Start Date
+e.End Date
+f.Estimated time (in hours) – this will come from final estimations sheet.
+g.Assigned to – Developer name to which the task is assigned to 
+3.As soon as any task is assigned to any developer, an auto-generated email is sent to the assigned developer by task management system. 
+4.Also the assigner (PM or TL) will need to send an email to all team members about task assignment in Task manager. 
+5.Developers will need to refer tasks assigned to them in task manager by logging into their account on task manager. 
+
+Assumptions:
+1.Any new requirement (major or minor) will be estimated separately and will go under same process as explained above. 
+2.In absence of TL, tasks assigned for TL will be performed by Sr. level developer at Cipher.
+3.Each developer who will be working on project will already have user account on task management tool of Cipher. If they do not have one, they will need to ask for the same to PM.  
+
+
+NOTE: This process will need to be followed by everyone who is working on  project development. 
+
+
+
+Created by: 
+Snehal Manthanwar
+Created Date: 
+	Mar 16, 2010.
