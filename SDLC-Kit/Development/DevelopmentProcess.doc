@@ -1,0 +1,65 @@
+﻿Development Process
+(Submission of tasks after development)
+
+Purpose: 
+This document defines process to be carried out at Cipher for development by development team members.    
+
+Abbreviations used:
+1.PM: Project Manager
+2.TL: Tech Lead / Team Lead
+3.Dev: Developers
+4.Web: Web Designers
+
+Inputs:
+1.SRS document
+2.Use Case Diagram
+3.Data flow diagram
+4.Class diagram
+5.pseudo code approved by TL. 
+6.Task assigned to developer in task manager.
+7.Coding Standards at Cipher 
+
+Process: 
+1.This process starts immediately after task distribution process and is specifically for developers and TL or any other person who will be working on development of the tasks. 
+2.Developer will need to refer tasks assigned to him/her in task manager tool. 
+3.Based on task details, developer will need to create unit and functional level test cases for their task(s). Once created they will need to be submitted to TL. 
+4.TL will need to review test cases written by developers and get them updated as per requirement if incorrect or incomplete.
+5.Developers will need to write and submit psuedo code for the assigned task. Psuedo code need to be written in the document of word format and must include following information
+i.Name of the project
+ii.Requirement number
+iii.Task reference url (url of task from task manager tool)
+iv.Class diagram reference (reference class name and method name)
+v.pseudo code for the task
+vi.Created by
+vii.Creation date
+viii.Reviewed by
+ix.Review date
+6.TL will review and approve the pseudo code submitted by developer and get it corrected in case if it is incorrect. Developers will not start actual coding unless the pseudo code is confirmed as correct by the TL. 
+7.Once TL approves the pseudo code, developer will need to checkout/update latest code from repository to his local development environment. This update must be done everytime before starting development work on any base code. 
+8.Developers must write RSPEC (only for ROR applications).  Rspec should be written by developer for their own proposed code and must ensure that maximum (up to 100%) code gets covered. 
+9.Developer will start writing code. They will strictly need to follow all coding standards. Also they need to ensure that rspec shows 100% passing of specs written. A status report must be submitted by developers to TL for coverage and passing of specs in the form of Rcov's own html form. TL must ensure that this is done properly. 
+10.Developers should also create task planner for themselves to maintain track of their own task progress. 
+11.Once code writing is complete, developers will need to run approved test cases for developed code. They will need to record result sets for executed test cases and will need to fix any issues found in unit testing. 
+12.Developers will need to review their own code before submission.  
+
+
+Assumptions:
+1.Any new requirement (major or minor) will be estimated separately and will go under same process as explained above. 
+2.In absence of TL, tasks assigned for TL will be performed by Sr. level developer at Cipher.
+3.Each developer who will be working on project will already have user account on code repository and task management tool of Cipher. If they do not have any of the two, they will need to ask for the same to PM or TL.  
+NOTE: 
+
+This process will need to be followed by everyone who is working on  project development. 
+
+
+Created by: 
+	Snehal Manthanwar
+Created Date: 
+	Mar 16, 2010.
+
+Modified by:
+	Snehal Manthanwar
+Modified Date:
+	Jun 10, 2010. 
+Modification:
+	Added point #8 for rspec. 
