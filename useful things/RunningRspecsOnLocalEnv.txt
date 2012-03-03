@@ -1,0 +1,30 @@
+Steps to run Rspec on local enviornment:
+
+1. Edit your database.yml file to have new db name on your localhost for
+development and test environment.
+development:
+adapter: mysql
+encoding: utf8
+database: dashgo_development
+username: root
+password:
+
+test:
+adapter: mysql
+encoding: utf8
+database: dashgo_test
+username: root
+password:
+
+2. Go to RAILS_ROOT of application and run
+rake ap:db:all (this should create 2 databases on your mysql server)
+for Rails-3 application if any error occur while runnig above command run
+bundle exec rake ap:db:all(this should create 2 databases on mysql server)
+or run commands 
+bundle exec rake db:create RAILS_ENV= test(this should test databases on mysql server)
+bundle exec rake db:create (this should create development databases on mysql server)
+
+3. now run
+rake spec (this should run all rspecs in code and will give you success
+or failure results and this command is applicable in Rails -3 also) 
+

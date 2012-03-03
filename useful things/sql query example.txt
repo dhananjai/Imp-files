@@ -1,0 +1,50 @@
+select ar_s_s_log.id,ar_s_s_log.metric_value, ar_soc_site.social_site 
+from artist_social_sites as ar_soc_site join artist_social_site_logs as ar_s_s_log
+where ar_s_s_log.metric='friends' 
+and ar_soc_site.id = ar_s_s_log.artist_social_site_id 
+and ar_soc_site.artist_id = 3 group by ar_soc_site.social_site order by ar_s_s_log.created_at desc
+
+
+
+artist_social_site = ArtistSocialSite.find_by_sql("select sum(tmp_table1.metric_value) as metric_value, tmp_table1.social_site from (select * from (select ar_s_s_log.id, ar_s_s_log.metric_value, ar_soc_site.social_site,ar_soc_site.artist_id
+from artist_social_sites as ar_soc_site join artist_social_site_logs as ar_s_s_log
+where ar_s_s_log.metric='friends' 
+and ar_soc_site.id = ar_s_s_log.artist_social_site_id 
+and ar_soc_site.artist_id in (2,3) 
+order by ar_s_s_log.created_at desc) as tmp_table
+group by tmp_table.social_site,tmp_table.artist_id) tmp_table1
+group by tmp_table1.social_site")
+
+
+  metric_val_visitors_desc = metric_val_visitors.sort {|a,b| b.metric_value.to_i <=> a.metric_value.to_i} 
+    
+    metric_val_comments = ArtistSocialSite.find_by_sql("select sum(tmp_table1.metric_value) as metric_value, tmp_table1.social_site from (select * from (select ar_s_s_log.id, ar_s_s_log.metric_value, ar_soc_site.social_site,ar_soc_site.artist_id
+                                                       from artist_social_sites as ar_soc_site join artist_social_site_logs as ar_s_s_log
+                                                       where ar_s_s_log.metric='comments' 
+                                                       and ar_soc_site.id = ar_s_s_log.artist_social_site_id 
+                                                       and ar_soc_site.artist_id in (#{artist_users.join(',')})
+                                                       order by ar_s_s_log.created_at desc) as tmp_table
+                                                       group by tmp_table.social_site,tmp_table.artist_id) tmp_table1
+                                                       group by tmp_table1.social_site") if !artist_users.blank?
+    metric_val_comments_desc = metric_val_comments.sort {|a,b| b.metric_value.to_i <=> a.metric_value.to_i} if !metric_val_comments.blank?
+    
+    metric_val_streams = ArtistSocialSite.find_by_sql("select sum(tmp_table1.metric_value) as metric_value, tmp_table1.social_site from (select * from (select ar_s_s_log.id, ar_s_s_log.metric_value, ar_soc_site.social_site,ar_soc_site.artist_id
+                                                       from artist_social_sites as ar_soc_site join artist_social_site_logs as ar_s_s_log
+                                                       where ar_s_s_log.metric='streams' 
+                                                       and ar_soc_site.id = ar_s_s_log.artist_social_site_id 
+                                                       and ar_soc_site.artist_id in (#{artist_users.join(',')})
+                                                       order by ar_s_s_log.created_at desc) as tmp_table
+                                                       group by tmp_table.social_site,tmp_table.artist_id) tmp_table1
+                                                       group by tmp_table1.social_site") if !artist_users.blank?
+    metric_val_streams_desc = metric_val_streams.sort {|a,b| b.metric_value.to_i <=> a.metric_value.to_i} if !metric_val_streams.blank?
+    debugger
+     metric_val_friends = ArtistSocialSite.find_by_sql("select sum(tmp_table1.metric_value) as metric_value, tmp_table1.social_site from (select * from (select ar_s_s_log.id, ar_s_s_log.metric_value, ar_soc_site.social_site,ar_soc_site.artist_id
+                                                       from artist_social_sites as ar_soc_site join artist_social_site_logs as ar_s_s_log
+                                                       where ar_s_s_log.metric='friends' 
+                                                       and ar_soc_site.id = ar_s_s_log.artist_social_site_id 
+                                                       and ar_soc_site.artist_id in (#{artist_users.join(',')})
+                                                       order by ar_s_s_log.created_at desc) as tmp_table
+                                                       group by tmp_table.social_site,tmp_table.artist_id) tmp_table1
+                                                       group by tmp_table1.social_site") if !artist_users.blank?
+    metric_val_friends_desc = metric_val_friends.sort {|a,b| b.metric_value.to_i <=> a.metric_value.to_i} if !metric_val_friends.blank?
+

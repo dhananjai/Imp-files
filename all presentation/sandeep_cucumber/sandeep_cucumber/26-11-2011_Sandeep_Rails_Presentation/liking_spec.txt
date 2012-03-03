@@ -1,0 +1,22 @@
+describe Liking do
+
+  before(:each) do
+    @liking = Liking.new(id = 1, trigger_response_id = 1 , liked_by = 1)
+  end
+
+  it "should be invalid without a trigger response" do
+    @liking.trigger_response_id = nil
+    @liking.should_not be_valid
+    @liking.trigger_response_id = 1
+    @liking.should be_valid
+  end
+
+  it "should be invalid with the same trigger response and same user" do
+    @liking = Liking.create(id = 1, trigger_response_id = 1 , liked_by = 1)
+    @liking.should be_valid
+
+    @liking1 = Liking.create(id = 1, trigger_response_id = 1 , liked_by = 1)
+    @liking1.should_not be_valid 
+    
+  end
+end

@@ -1,0 +1,31 @@
+ => [#<Label id: 451, name: "cipher", created_at: "2011-11-26 07:12:07", updated_at: "2011-11-26 07:12:07", current_royalty_rate: 15.0, payee_name: "", tax_id: "", w9_received: false, paypal_id: "", bank_name: "", account_name: "", bank_account: "", routing: "">, #<Label id: 414, name: "Brooklyn Productions Inc.", created_at: "2011-04-04 01:42:58", updated_at: "2011-04-04 01:42:58", current_royalty_rate: 15.0, payee_name: "", tax_id: "", w9_received: false, paypal_id: "", bank_name: "", account_name: "", bank_account: "", routing: "">, #<Label id: 413, name: "OMG Records", created_at: "2011-04-06 21:28:12", updated_at: "2011-04-01 21:28:12", current_royalty_rate: 10.0, payee_name: "", tax_id: "", w9_received: false, paypal_id: "", bank_name: "", account_name: "", bank_account: "", routing: "">] 
+ruby-1.9.2-p290 :017 > @user.label_users
+ => [#<LabelUser id: 341, label_id: 413, user_id: 498, created_at: "2011-12-01 19:14:25", updated_at: "2011-12-01 19:14:25">, #<LabelUser id: 345, label_id: 451, user_id: 498, created_at: "2011-12-11 08:22:44", updated_at: "2011-12-11 08:22:44">, #<LabelUser id: 355, label_id: 414, user_id: 498, created_at: "2011-12-17 16:28:57", updated_at: "2011-12-17 16:28:57">] 
+ruby-1.9.2-p290 :018 > @user.label_users.map(&:label_id)
+ => [413, 451, 414] 
+ruby-1.9.2-p290 :019 > l=@user.label_users.map(&:label_id)
+ => [413, 451, 414] 
+ruby-1.9.2-p290 :020 > a=[100,200,413,414,470]
+ => [100, 200, 413, 414, 470] 
+ruby-1.9.2-p290 :021 > l-a
+ => [451] 
+ruby-1.9.2-p290 :022 > l+a
+ => [413, 451, 414, 100, 200, 413, 414, 470] 
+ruby-1.9.2-p290 :023 > l & a
+ => [413, 414] 
+ruby-1.9.2-p290 :024 > l && a
+ => [100, 200, 413, 414, 470] 
+ruby-1.9.2-p290 :025 > l
+ => [413, 451, 414] 
+ruby-1.9.2-p290 :026 > a
+ => [100, 200, 413, 414, 470] 
+ruby-1.9.2-p290 :027 > @labels
+ => [#<Label id: 413, name: "OMG Records", created_at: "2011-04-06 21:28:12", updated_at: "2011-04-01 21:28:12", current_royalty_rate: 10.0, payee_name: "", tax_id: "", w9_received: false, paypal_id: "", bank_name: "", account_name: "", bank_account: "", routing: "">, #<Label id: 414, name: "Brooklyn Productions Inc.", created_at: "2011-04-04 01:42:58", updated_at: "2011-04-04 01:42:58", current_royalty_rate: 15.0, payee_name: "", tax_id: "", w9_received: false, paypal_id: "", bank_name: "", account_name: "", bank_account: "", routing: "">, #<Label id: 451, name: "cipher", created_at: "2011-11-26 07:12:07", updated_at: "2011-11-26 07:12:07", current_royalty_rate: 15.0, payee_name: "", tax_id: "", w9_received: false, paypal_id: "", bank_name: "", account_name: "", bank_account: "", routing: "">] 
+ruby-1.9.2-p290 :028 > @labels.map(&:id)
+ => [413, 414, 451] 
+ruby-1.9.2-p290 :029 > a
+ => [100, 200, 413, 414, 470] 
+ruby-1.9.2-p290 :030 > @labels.map(&:id) & a
+ => [413, 414] 
+ruby-1.9.2-p290 :031 > 
+

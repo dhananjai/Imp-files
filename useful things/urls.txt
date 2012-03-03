@@ -1,0 +1,25 @@
+Important URL :-
+
+Related to Ajax :-
+1.http://stackoverflow.com/questions/4398445/link-to-remote-true-not-updating-with-ajax
+2.http://www.simonecarletti.com/blog/2010/06/unobtrusive-javascript-in-rails-3/
+3.http://railscasts.com/episodes/205-unobtrusive-javascript
+4.http://codefundas.blogspot.com/2010/12/create-ajax-based-curd-using-rails-3.html
+5.http://www.prototypejs.org/api/ajax/options
+
+Related to PaypalX:-
+1) http://www.slideshare.net/paypalx/adaptive-payments-changing-how-we-pay-with-pin-preapproved-and-split-payments
+2) https://github.com/paypalx/paypal_adaptive_gateway
+
+etc :-
+1. http://www.io-news.com/in/?c=
+
+/usr/share/webmin/changepass.pl /etc/webmin username password
+
+Related to Paypal :-
+http://techcrunch.com/2007/11/18/paypal-to-offer-virtual-credit-card-payment-product/
+http://b.lesseverything.com/2007/6/6/paypal-on-rails-activemerchant-tips
+
+Phusion Passenger
+http://blog.phusion.nl/2008/12/16/passing-environment-variables-to-ruby-from-phusion-passenger/
+http://nubyonrails.com/articles/memcached-basics-for-rails

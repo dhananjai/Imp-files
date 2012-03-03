@@ -1,0 +1,116 @@
+  Feature: Create Timesheet
+   
+   @javascript
+   Scenario: To check Login Functionality with Valid Username and valid Password.
+    Given I have login username "dhananjai" and password "dhananjai"
+    Given I am on the login page 
+    And I fill in "dhananjai" for "username_text"
+    And I fill in "dhananjai" for "password_text"
+    And I press "login_button"
+    Then I should see "Time sheet page"
+
+   @javascript
+   Scenario: To check Login Functionality with InValid Username and Invalid Password.
+   Given I am on the home page 
+   And I have user named "dhananjai" and password "dhananjai"
+   When I fill in the following:
+      | username | abc |
+      | password | abc |
+   And I press "login_button"
+   Then I should see "Invalid username or password!"
+
+   @javascript
+   Scenario: To check Create Time Sheet Button is present in Time Sheet Page.
+    Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  "Time sheet page"
+    And I should see "create_timesheet_button"
+
+   @javascript
+   Scenario: To check if timesheet list present or not
+    Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  "Time sheet page"
+    And I should see "Timesheet list"
+    
+   @javascript
+   Scenario: To check if create Time Sheet Panel opens or not when user clicks on Create Time Sheet button
+    Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  "Time sheet page" 
+    And I press "create_timesheet_button"
+    Then I should see "Time Sheet Panel"
+    And I should see "Date"
+    And I should see "Task_name"
+    And I should see "Task_details"
+    And I should see "Duration"
+    And I should see "Create"
+    And I should see "Cancel"
+
+   @javascript
+   Scenario: To check timesheet creation
+   Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  "Time sheet page" 
+    And I press "create_timesheet_button"
+    Then I should see "Time Sheet Panel"
+    When I fill in the following:
+      | date | 03/12/2011  |
+      | task_name | abc |
+      | task_details  | xyz  |
+      | time_spent |  2.30 |
+    And I press "create"
+    Then I should not see "Time Sheet Panel"
+    Then I should see "Timesheet created successfully"
+    Then I should see "Timesheet list"
+
+   @javascript
+   Scenario: To check timesheet without date
+   Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  timesheet page 
+    And I press "create_timesheet_button"
+    Then I should see "Time Sheet Panel"
+    When I fill in the following:
+      | date |   |
+      | task_name | abc |
+      | task_details  | xyz  |
+      | time_spent |  2.30 |
+    And I press "create"
+    Then I should see "date can't be blank"
+    Then I should see "Time Sheet Panel"
+   
+   @javascript
+   Scenario: To check timesheet without  timespent
+   Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  timesheet page 
+    And I press "create_timesheet_button"
+    Then I should see "create timesheet panel"
+    When I fill in the following:
+      | date | 02/12/2011  |
+      | task_name | abc |
+      | task_details  | xyz  |
+      | time_spent |   |
+    And I press "create"
+    Then I should see "Timespent  can't be blank"
+   Then I should see "create timesheet panel"
+   
+   @javascript
+   Scenario: To check create button
+    Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  timesheet page 
+    And I press "create_timesheet_button"
+    Then I should see "create timesheet panel"
+    And I should see "create" button
+
+   @javascript
+   Scenario: To check cancel button
+    Given I have login username "dhananjai" and password "dhananjai"
+    Then I logged in as username "dhananjai" and password "dhananjai"
+    Then I should see  timesheet page 
+    And I press "create_timesheet_button"
+    Then I should see "create timesheet panel"
+    And I should see "cancel" button
+

@@ -1,0 +1,35 @@
+<%= link_to_unless_current "Most Recently Added", {:id => "true",  :view_all => "all", :tab_sel => "1" }, :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '1') ? 'gray_text' : 'orange_text') : 'gray_text') }" %> |
+
+ <%= link_to_unless_current "Most Recently Modified", {:id => "false",  :view_all => "all", :tab_sel => "2"}, :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '2') ? 'gray_text' : 'orange_text') : 'gray_text') }" %> |  
+
+<%= link_to "View all Labels", {:view_all => "all", :tab_sel => "3"}, :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '3') ? 'gray_text' : 'orange_text') : 'gray_text') }" %>| 
+
+<%= link_to_unless_current "Upcoming Releases", {:id => "temp", :tab_sel => "4" }, :class => "#{(params[:tab_sel] && params[:tab_sel] == '4' ? 'gray_text' : 'orange_text') }" %>
+
+
+
+<%= link_to_unless_current "Most Recently Modified",{:id => false, :page => "#{@page}"},{:class=>"orange_text"} , :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '1') ? 'gray_text' : 'orange_text') : 'gray_text') }" %> 
+<%= link_to_unless_current "Most Recently Added", {:id =>"true", :page => "#{@page}"},{:class=>"orange_text"} , :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '2') ? 'gray_text' : 'orange_text') : 'gray_text') }" %>  
+<%= link_to_unless_current "View all Artists", {:controller => 'artists', :action => 'artist_activities',:view_all => "all"}, :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '3') ? 'gray_text' : 'orange_text') : 'gray_text') }"  %>
+<%= link_to_unless_current "Pending Releases", {:controller => 'artists', :action => 'artist_activities',:pending_releases => "all"}, :class => "#{(params[:tab_sel] && params[:tab_sel] == '4' ? 'gray_text' : 'orange_text') }" %>
+
+
+
+<%= link_to_unless_current "Most Recently Added", {:id => "true", :page => "#{@page}", :tab_sel => "1" }, :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '1') ? 'gray_text' : 'orange_text') : 'gray_text') }" %> | 
+
+<%= link_to_unless_current "Most Recently Modified", {:id => "false", :page => "#{@page}", :tab_sel => "2" }, :class => "#{(params[:tab_sel] && params[:tab_sel] == '2' ? 'gray_text' : 'orange_text') }" %> | 
+
+<%= link_to "View all Labels", {:view_all => "all", :tab_sel => "3"}, :class => "#{(params[:tab_sel] && params[:tab_sel] == '3' ? 'gray_text' : 'orange_text') }" %>| 
+
+<%= link_to_unless_current "Upcoming Releases", {:id => "temp", :page => "#{@page}", :tab_sel => "4" }, :class => "#{(params[:tab_sel] && params[:tab_sel] == '4' ? 'gray_text' : 'orange_text') }" %>
+
+
+
+<%= link_to_unless_current "Most Recently Added",{:id => "true", :page => "#{@page}" , :tab_sel => "1"} , :class => "#{(params[:tab_sel] ? ((params[:tab_sel] == '1') ? 'gray_text' : 'orange_text') : 'gray_text') }" %> |
+
+<%= link_to_unless_current "Most Recently Modified", {:id =>"false", :page => "#{@page}", :tab_sel => "2"}, :class => "#{(params[:tab_sel] && params[:tab_sel] == '2' ? 'gray_text' : 'orange_text') }" %> | 
+
+<%= link_to "View all Artists", {:controller => 'artists', :action => 'artist_activities',:view_all => "all", :tab_sel => "3"}, :class => "#{(params[:tab_sel] && params[:tab_sel] == '3' ? 'gray_text' : 'orange_text') }" %> | 
+
+ <%= link_to_unless_current "Pending Releases", {:controller => 'artists', :action => 'artist_activities',:pending_releases => "all", :tab_sel => "4"}, :class => "#{(params[:tab_sel] && params[:tab_sel] == '4' ? 'gray_text' : 'orange_text') }" %>
+

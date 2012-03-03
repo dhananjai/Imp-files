@@ -1,0 +1,34 @@
+http://www.w3schools.com/html/html_examples.asp------html,ajax,javascript
+1. http://quizzsystem.comyr.com/web-page/
+2. http://www.tutorialspoint.com/ruby-on-rails/rails-framework.htm
+3. http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+4. http://guides.rubyonrails.org/getting_started.html
+5. http://georgebrock.github.com/talks/rubyconfua2010/
+6. http://newwiki.rubyonrails.org/getting-started/ruby-gem
+7. http://en.wikipedia.org/wiki/RubyGems
+8. http://guides.rubyonrails.org/command_line.html
+9. http://guides.rubyonrails.org/plugins.html
+10. http://nubyonrails.com/articles/the-complete-guide-to-rails-plugins-part-i
+
+Refer this for rails 2.3.8 api.
+11. http://api.rubyonrails.org/v2.3.8/
+
+for downloading DBdesigner4
+12. http://www.fabforce.net/downloadfile.php
+
+
+13.For space commands
+http://www.labtestproject.com/linuxcmd/du_command.html
+
+
+14.for evolution set up
+http://products.secureserver.net/email/email_evolution.htm
+
+http://gofedora.com/how-to-new-email-notification/
+
+
+
+
+
+15 for whole forms tag and submit form
+http://jonathanhui.com/ruby-rails-3-view-form-helper-file-upload-download

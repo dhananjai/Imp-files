@@ -1,0 +1,1 @@
+http://id3lib-ruby.rubyforge.org/doc/files/INSTALL.html

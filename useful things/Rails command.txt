@@ -1,0 +1,472 @@
+[Trupti@Comp7 ~]$ cd /home/Trupti/ROR
+[Trupti@Comp7 ROR]$ rails -v
+Rails 2.3.5
+[Trupti@Comp7 ROR]$ rails company --database = mysql
+Usage: /usr/bin/rails /path/to/your/app [options]
+
+Options:
+    -r, --ruby=path                  Path to the Ruby binary of your choice (otherwise scripts use env, dispatchers current path).
+                                     Default: /usr/bin/ruby
+    -d, --database=name              Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite2/sqlite3/frontbase/ibm_db).
+                                     Default: sqlite3
+    -D, --with-dispatchers           Add CGI/FastCGI/mod_ruby dispatches code to generated application skeleton
+                                     Default: false
+    -f, --freeze                     Freeze Rails in vendor/rails from the gems generating the skeleton
+                                     Default: false
+    -m, --template=path              Use an application template that lives at path (can be a filesystem path or URL).
+                                     Default: (none)
+
+Rails Info:
+    -v, --version                    Show the Rails version number and quit.
+    -h, --help                       Show this help message and quit.
+
+General Options:
+    -p, --pretend                    Run but do not make any changes.
+        --force                      Overwrite files that already exist.
+    -s, --skip                       Skip files that already exist.
+    -q, --quiet                      Suppress normal output.
+    -t, --backtrace                  Debugging: show backtrace on errors.
+    -c, --svn                        Modify files with subversion. (Note: svn must be in path)
+    -g, --git                        Modify files with git. (Note: git must be in path)
+
+Databases supported for preconfiguration are: mysql, oracle, postgresql, sqlite2, sqlite3, frontbase, ibm_db
+[Trupti@Comp7 ROR]$ rake db:create
+rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake.rb:2377:in `raw_load_rakefile'
+(See full trace by running task with --trace)
+[Trupti@Comp7 ROR]$ rake db: create
+rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake.rb:2377:in `raw_load_rakefile'
+(See full trace by running task with --trace)
+[Trupti@Comp7 ROR]$ --trace
+bash: --trace: command not found
+[Trupti@Comp7 ROR]$ rails company
+      create  
+      create  app/controllers
+      create  app/helpers
+      create  app/models
+      create  app/views/layouts
+      create  config/environments
+      create  config/initializers
+      create  config/locales
+      create  db
+      create  doc
+      create  lib
+      create  lib/tasks
+      create  log
+      create  public/images
+      create  public/javascripts
+      create  public/stylesheets
+      create  script/performance
+      create  test/fixtures
+      create  test/functional
+      create  test/integration
+      create  test/performance
+      create  test/unit
+      create  vendor
+      create  vendor/plugins
+      create  tmp/sessions
+      create  tmp/sockets
+      create  tmp/cache
+      create  tmp/pids
+      create  Rakefile
+      create  README
+      create  app/controllers/application_controller.rb
+      create  app/helpers/application_helper.rb
+      create  config/database.yml
+      create  config/routes.rb
+      create  config/locales/en.yml
+      create  db/seeds.rb
+      create  config/initializers/backtrace_silencers.rb
+      create  config/initializers/inflections.rb
+      create  config/initializers/mime_types.rb
+      create  config/initializers/new_rails_defaults.rb
+      create  config/initializers/session_store.rb
+      create  config/environment.rb
+      create  config/boot.rb
+      create  config/environments/production.rb
+      create  config/environments/development.rb
+      create  config/environments/test.rb
+      create  script/about
+      create  script/console
+      create  script/dbconsole
+      create  script/destroy
+      create  script/generate
+      create  script/runner
+      create  script/server
+      create  script/plugin
+      create  script/performance/benchmarker
+      create  script/performance/profiler
+      create  test/test_helper.rb
+      create  test/performance/browsing_test.rb
+      create  public/404.html
+      create  public/422.html
+      create  public/500.html
+      create  public/index.html
+      create  public/favicon.ico
+      create  public/robots.txt
+      create  public/images/rails.png
+      create  public/javascripts/prototype.js
+      create  public/javascripts/effects.js
+      create  public/javascripts/dragdrop.js
+      create  public/javascripts/controls.js
+      create  public/javascripts/application.js
+      create  doc/README_FOR_APP
+      create  log/server.log
+      create  log/production.log
+      create  log/development.log
+      create  log/test.log
+[Trupti@Comp7 ROR]$ cd company
+[Trupti@Comp7 company]$ rake db:create
+(in /home/Trupti/ROR/company)
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+rake aborted!
+Unknown database 'company'
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+rake aborted!
+Unknown database 'companies'
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rake db:create
+(in /home/Trupti/ROR/company)
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+rake aborted!
+Unknown database 'companies'
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rails company --database = mysql
+/usr/lib/ruby/site_ruby/1.8/rubygems.rb:521:in `expand_path': No such file or directory - getcwd (Errno::ENOENT)
+	from /usr/lib/ruby/site_ruby/1.8/rubygems.rb:521:in `find_files'
+	from /usr/lib/ruby/site_ruby/1.8/rubygems.rb:520:in `map'
+	from /usr/lib/ruby/site_ruby/1.8/rubygems.rb:520:in `find_files'
+	from /usr/lib/ruby/site_ruby/1.8/rubygems.rb:1132
+	from /usr/bin/rails:9:in `require'
+	from /usr/bin/rails:9
+[Trupti@Comp7 company]$ cd ..
+[Trupti@Comp7 ROR]$ rails company --database = mysql
+Usage: /usr/bin/rails /path/to/your/app [options]
+
+Options:
+    -r, --ruby=path                  Path to the Ruby binary of your choice (otherwise scripts use env, dispatchers current path).
+                                     Default: /usr/bin/ruby
+    -d, --database=name              Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite2/sqlite3/frontbase/ibm_db).
+                                     Default: sqlite3
+    -D, --with-dispatchers           Add CGI/FastCGI/mod_ruby dispatches code to generated application skeleton
+                                     Default: false
+    -f, --freeze                     Freeze Rails in vendor/rails from the gems generating the skeleton
+                                     Default: false
+    -m, --template=path              Use an application template that lives at path (can be a filesystem path or URL).
+                                     Default: (none)
+
+Rails Info:
+    -v, --version                    Show the Rails version number and quit.
+    -h, --help                       Show this help message and quit.
+
+General Options:
+    -p, --pretend                    Run but do not make any changes.
+        --force                      Overwrite files that already exist.
+    -s, --skip                       Skip files that already exist.
+    -q, --quiet                      Suppress normal output.
+    -t, --backtrace                  Debugging: show backtrace on errors.
+    -c, --svn                        Modify files with subversion. (Note: svn must be in path)
+    -g, --git                        Modify files with git. (Note: git must be in path)
+
+Databases supported for preconfiguration are: mysql, oracle, postgresql, sqlite2, sqlite3, frontbase, ibm_db
+[Trupti@Comp7 ROR]$ rails.company --database = mysql
+bash: rails.company: command not found
+[Trupti@Comp7 ROR]$ rails company --database = mysql
+Usage: /usr/bin/rails /path/to/your/app [options]
+
+Options:
+    -r, --ruby=path                  Path to the Ruby binary of your choice (otherwise scripts use env, dispatchers current path).
+                                     Default: /usr/bin/ruby
+    -d, --database=name              Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite2/sqlite3/frontbase/ibm_db).
+                                     Default: sqlite3
+    -D, --with-dispatchers           Add CGI/FastCGI/mod_ruby dispatches code to generated application skeleton
+                                     Default: false
+    -f, --freeze                     Freeze Rails in vendor/rails from the gems generating the skeleton
+                                     Default: false
+    -m, --template=path              Use an application template that lives at path (can be a filesystem path or URL).
+                                     Default: (none)
+
+Rails Info:
+    -v, --version                    Show the Rails version number and quit.
+    -h, --help                       Show this help message and quit.
+
+General Options:
+    -p, --pretend                    Run but do not make any changes.
+        --force                      Overwrite files that already exist.
+    -s, --skip                       Skip files that already exist.
+    -q, --quiet                      Suppress normal output.
+    -t, --backtrace                  Debugging: show backtrace on errors.
+    -c, --svn                        Modify files with subversion. (Note: svn must be in path)
+    -g, --git                        Modify files with git. (Note: git must be in path)
+
+Databases supported for preconfiguration are: mysql, oracle, postgresql, sqlite2, sqlite3, frontbase, ibm_db
+[Trupti@Comp7 ROR]$ rails company -d=mysql
+Usage: /usr/bin/rails /path/to/your/app [options]
+
+Options:
+    -r, --ruby=path                  Path to the Ruby binary of your choice (otherwise scripts use env, dispatchers current path).
+                                     Default: /usr/bin/ruby
+    -d, --database=name              Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite2/sqlite3/frontbase/ibm_db).
+                                     Default: sqlite3
+    -D, --with-dispatchers           Add CGI/FastCGI/mod_ruby dispatches code to generated application skeleton
+                                     Default: false
+    -f, --freeze                     Freeze Rails in vendor/rails from the gems generating the skeleton
+                                     Default: false
+    -m, --template=path              Use an application template that lives at path (can be a filesystem path or URL).
+                                     Default: (none)
+
+Rails Info:
+    -v, --version                    Show the Rails version number and quit.
+    -h, --help                       Show this help message and quit.
+
+General Options:
+    -p, --pretend                    Run but do not make any changes.
+        --force                      Overwrite files that already exist.
+    -s, --skip                       Skip files that already exist.
+    -q, --quiet                      Suppress normal output.
+    -t, --backtrace                  Debugging: show backtrace on errors.
+    -c, --svn                        Modify files with subversion. (Note: svn must be in path)
+    -g, --git                        Modify files with git. (Note: git must be in path)
+
+Databases supported for preconfiguration are: mysql, oracle, postgresql, sqlite2, sqlite3, frontbase, ibm_db
+[Trupti@Comp7 ROR]$ rails company -d mysql
+      create  
+      create  app/controllers
+      create  app/helpers
+      create  app/models
+      create  app/views/layouts
+      create  config/environments
+      create  config/initializers
+      create  config/locales
+      create  db
+      create  doc
+      create  lib
+      create  lib/tasks
+      create  log
+      create  public/images
+      create  public/javascripts
+      create  public/stylesheets
+      create  script/performance
+      create  test/fixtures
+      create  test/functional
+      create  test/integration
+      create  test/performance
+      create  test/unit
+      create  vendor
+      create  vendor/plugins
+      create  tmp/sessions
+      create  tmp/sockets
+      create  tmp/cache
+      create  tmp/pids
+      create  Rakefile
+      create  README
+      create  app/controllers/application_controller.rb
+      create  app/helpers/application_helper.rb
+      create  config/database.yml
+      create  config/routes.rb
+      create  config/locales/en.yml
+      create  db/seeds.rb
+      create  config/initializers/backtrace_silencers.rb
+      create  config/initializers/inflections.rb
+      create  config/initializers/mime_types.rb
+      create  config/initializers/new_rails_defaults.rb
+      create  config/initializers/session_store.rb
+      create  config/environment.rb
+      create  config/boot.rb
+      create  config/environments/production.rb
+      create  config/environments/development.rb
+      create  config/environments/test.rb
+      create  script/about
+      create  script/console
+      create  script/dbconsole
+      create  script/destroy
+      create  script/generate
+      create  script/runner
+      create  script/server
+      create  script/plugin
+      create  script/performance/benchmarker
+      create  script/performance/profiler
+      create  test/test_helper.rb
+      create  test/performance/browsing_test.rb
+      create  public/404.html
+      create  public/422.html
+      create  public/500.html
+      create  public/index.html
+      create  public/favicon.ico
+      create  public/robots.txt
+      create  public/images/rails.png
+      create  public/javascripts/prototype.js
+      create  public/javascripts/effects.js
+      create  public/javascripts/dragdrop.js
+      create  public/javascripts/controls.js
+      create  public/javascripts/application.js
+      create  doc/README_FOR_APP
+      create  log/server.log
+      create  log/production.log
+      create  log/development.log
+      create  log/test.log
+[Trupti@Comp7 ROR]$ rake db:create
+rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake.rb:2377:in `raw_load_rakefile'
+(See full trace by running task with --trace)
+[Trupti@Comp7 ROR]$ rake db:create
+rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake.rb:2377:in `raw_load_rakefile'
+(See full trace by running task with --trace)
+[Trupti@Comp7 ROR]$ rake db:create
+rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake.rb:2377:in `raw_load_rakefile'
+(See full trace by running task with --trace)
+[Trupti@Comp7 ROR]$ cd company
+[Trupti@Comp7 company]$ rake db:create
+(in /home/Trupti/ROR/company)
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+[Trupti@Comp7 company]$ ruby script/generate scaffold 'student_info'
+      exists  app/models/
+      exists  app/controllers/
+      exists  app/helpers/
+      create  app/views/student_infos
+      exists  app/views/layouts/
+      exists  test/functional/
+      exists  test/unit/
+      create  test/unit/helpers/
+      exists  public/stylesheets/
+      create  app/views/student_infos/index.html.erb
+      create  app/views/student_infos/show.html.erb
+      create  app/views/student_infos/new.html.erb
+      create  app/views/student_infos/edit.html.erb
+      create  app/views/layouts/student_infos.html.erb
+      create  public/stylesheets/scaffold.css
+      create  app/controllers/student_infos_controller.rb
+      create  test/functional/student_infos_controller_test.rb
+      create  app/helpers/student_infos_helper.rb
+      create  test/unit/helpers/student_infos_helper_test.rb
+       route  map.resources :student_infos
+  dependency  model
+      exists    app/models/
+      exists    test/unit/
+      exists    test/fixtures/
+      create    app/models/student_info.rb
+      create    test/unit/student_info_test.rb
+      create    test/fixtures/student_infos.yml
+      create    db/migrate
+      create    db/migrate/20110526064356_create_student_infos.rb
+[Trupti@Comp7 company]$ ruby script/generate scaffold 'marks' rollno:integer sub1:integer sub2:integer
+     warning  Plural version of the model detected, using singularized version.  Override with --force-plural.
+      exists  app/models/
+      exists  app/controllers/
+      exists  app/helpers/
+      create  app/views/marks
+      exists  app/views/layouts/
+      exists  test/functional/
+      exists  test/unit/
+      exists  test/unit/helpers/
+      exists  public/stylesheets/
+      create  app/views/marks/index.html.erb
+      create  app/views/marks/show.html.erb
+      create  app/views/marks/new.html.erb
+      create  app/views/marks/edit.html.erb
+      create  app/views/layouts/marks.html.erb
+   identical  public/stylesheets/scaffold.css
+      create  app/controllers/marks_controller.rb
+      create  test/functional/marks_controller_test.rb
+      create  app/helpers/marks_helper.rb
+      create  test/unit/helpers/marks_helper_test.rb
+       route  map.resources :marks
+  dependency  model
+      exists    app/models/
+      exists    test/unit/
+      exists    test/fixtures/
+      create    app/models/mark.rb
+      create    test/unit/mark_test.rb
+      create    test/fixtures/marks.yml
+      exists    db/migrate
+      create    db/migrate/20110526064807_create_marks.rb
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+==  CreateStudentInfos: migrating =============================================
+-- create_table(:student_infos)
+   -> 0.0262s
+==  CreateStudentInfos: migrated (0.0264s) ====================================
+
+==  CreateMarks: migrating ====================================================
+-- create_table(:marks)
+   -> 0.0331s
+==  CreateMarks: migrated (0.0334s) ===========================================
+
+[Trupti@Comp7 company]$ ruby script/server 
+=> Booting Mongrel
+=> Rails 2.3.5 application starting on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+Exiting
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/tcphack.rb:12:in `initialize_without_backlog': Address already in use - bind(2) (Errno::EADDRINUSE)
+	from /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/tcphack.rb:12:in `initialize'
+	from /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:93:in `new'
+	from /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:93:in `initialize'
+	from /usr/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:10:in `new'
+	from /usr/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:10:in `run'
+	from /usr/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+	from /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+	from /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from script/server:3
+[Trupti@Comp7 company]$ ruby script/server -p4000
+=> Booting Mongrel
+=> Rails 2.3.5 application starting on http://0.0.0.0:4000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+  SQL (0.3ms)   SET NAMES 'utf8'
+  SQL (0.2ms)   SET SQL_AUTO_IS_NULL=0
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-05-26 12:21:59) [GET]
+
+ActionController::RoutingError (No route matches "/show" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+^[[A^[[A^[[B^[[B^CExiting
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+[Trupti@Comp7 company]$ rake db:migrate VERSION:up = 1
+(in /home/Trupti/ROR/company)
+rake aborted!
+Don't know how to build task 'VERSION:up'
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rake db:migrate VERSION:up = 20110526064356
+(in /home/Trupti/ROR/company)
+rake aborted!
+Don't know how to build task 'VERSION:up'
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rake db:migrate:up VERSION = 20110526064356
+(in /home/Trupti/ROR/company)
+rake aborted!
+VERSION is required
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rake db:migrate:down VERSION = 20110526064356
+(in /home/Trupti/ROR/company)
+rake aborted!
+VERSION is required
+
+(See full trace by running task with --trace)
+[Trupti@Comp7 company]$ rake db:migrate
+(in /home/Trupti/ROR/company)
+[Trupti@Comp7 company]$ 
+

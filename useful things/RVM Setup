@@ -1,0 +1,85 @@
+Delete all gems and rails 
+
+  gem uninstall rails
+
+ try this:
+	gem cleanup -d
+	gem cleanup -v
+	
+	gem list | cut -d" " -f1 | xargs gem uninstall -aIx
+
+   gem list
+
+Deleting ruby
+
+option 1:
+ yum uninstall ruby or try with yum extender
+  
+option 2:
+  whereis ruby
+   
+  rm -rf /usr/local/lib/ruby
+
+  rm -rf /usr/lib/ruby
+
+  rm -f /usr/local/bin/ruby
+
+  rm -f /usr/bin/ruby
+
+  rm -f /usr/local/bin/irb
+
+  rm -f /usr/bin/irb
+
+  rm -f /usr/local/bin/gem
+
+  rm -f /usr/bin/gem
+
+
+
+
+Installing Ruby 1.8.7 using RVM
+
+rvm install 1.8.7
+
+rvm use 1.8.7
+
+ruby -v
+   
+      ruby 1.8.7..........
+
+which ruby
+
+Installing rails 2.3.8
+
+ gem install rails -v=2.3.8
+
+ 
+Installing Ruby 1.9.2 using RVM
+
+rvm install 1.9.2
+
+rvm use 1.9.2
+
+ruby -v
+   
+      ruby 1.9.2p0 (2010-08-18 revision 29036) [x86_64-darwin10.4.0]
+
+which ruby
+
+Install gems for Dashgo 2 
+Check Dashgo 2 code working or not
+
+Now Install rails 3.0.5
+
+ gem install rails -v=3.0.5
+ 
+command for rails 3 new application
+ rails new demoapp
+ change in application file 
+	remove 
+		gem 'sqlite'
+	add    
+		gem 'mysql'
+ bundle install
+
+

@@ -1,0 +1,109 @@
+  Feature: Add mechanical license
+   In order to License functionality 
+    
+   @javascript
+   Scenario: To check if Add mechanical license light box opens or not on click License button.
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+
+   @javascript
+   Scenario: To check if add existing publisher right panel opens or not when user click on add existing publisher link
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_existing_publisher"
+    Then I should see "add_existing_publisher_panel"
+
+   @javascript
+   Scenario: To check if add new publisher right panel opens or not when user click on add new publisher link
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_new_publisher"
+    Then I should see "add_new_publisher_panel"
+   
+   @javascript
+   Scenario: To check if add existing songwriter right panel opens or not when user click on add existing songwriter link
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_existing_songwriter"
+    Then I should see "add_existing_songwriter_panel"
+   
+
+   @javascript
+   Scenario: To check if add new songwriter right panel opens or not when user click on add new songwriter link
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_new_songwriter"
+    Then I should see "add_new_songwriter_panel"
+
+   @javascript
+   Scenario: To check publisher gets added into the publisher field of add mechanical licesnce
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_new_publisher"
+    Then I should see "add_new_publisher_panel"
+    And I fill in "abc" for "publisher"
+    And I press "save_button"
+    Then I should see "Publisher created successfully"
+    Then I should see "publisher_name"
+
+   @javascript
+   Scenario: To check songwriter gets added into the songwriter field of add mechanical licesnce
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_new_songwriter"
+    Then I should see "add_new_songwriter_panel"
+    And I fill in "xyz" for "songwriter"
+    And I press "save_button1"
+    Then I should see "Songwriter created successfully"
+    Then I should see "songwriter_name"
+   
+   @javascript
+    Scenario: To see creation of publisher
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_new_publisher"
+    Then I should see "add_new_publisher_panel"
+    And I fill in "" for "publisher"
+    And I press "save_button"  
+    Then I should see "Publisher can't be blank"
+    Then I should see "add_new_publisher_panel"
+
+   @javascript
+    Scenario: To see creation of songwriter
+    Given I am on the media page 
+    And I press "license button"
+    Then I should see "Add mechanical license"
+    And I press "add_new_songwriter"
+    Then I should see "add_new_songwriter_panel"
+    And I fill in "" for "songwriter"
+    And I press "save_button"  
+    Then I should see "songwriter can't be blank"
+   Then I should see "add_new_songwriter_panel"
+
+   @javascript
+    Scenario: To see creation of license
+     Given I am on the media page 
+     And I press "license button"
+     When I fill in the following:
+      | publisher_name | abc  |
+      | publisher_rate | 10 |
+      | songwriter_name  | xyz  |
+      | songwriter_rate  |  15 |
+    And I press "save_license"  
+    Then I should see "License created successfully"
+    Then I should see "media"
+
+  
+
+   
+
+
+   

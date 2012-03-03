@@ -1,0 +1,205 @@
+Changes between Rails-2 & Rails-3
+
+1) In Rails - 2, Instance variable are allowed as method argument & in looping structure. But in Rails-3, Instance variable are not allowed as method argument & in looping structure.
+
+2) Callbacks are changed.
+   Rails - 2 :- 
+      def after_destroy
+        some code
+      end
+   Rails - 3 :-
+      after_destroy do
+        some code
+      end
+
+3) New way of writing callbacks :-
+   after_destroy : some_method_name()
+   def some_method_name()
+     some code
+   end
+
+4) Notifier syntax changed :-
+   RAILS-2 :- DspMailer.deliver_notification(dsp::DSP_EMAIL[RAILS_ENV.to_sym], message)
+   RAILS-3 :- DspMailer.notification(dsp::DSP_EMAIL[Rails.env.to_sym], message).deliver
+
+   RAILS-2 :- 
+              mail = Notifier.create_notify_user(album.artist.name, 'gagan.shah@cipher-tech.com', album.title, dsp_name, album.upc)
+              Notifier.deliver(mail)
+   RAILS-3 :- 
+              mail = Notifier.notify_user(album.artist.name, 'benp@dashgo.com', album.title, dsp_name, album.upc)
+              mail.deliver
+
+5) Changes in Ajax Calling
+
+6) Previously if we write any HTML tags in string, it will directly print HTML tags. But in Rails-3, we have to use "<b>gagan</b>".html_safe method.
+
+7) RAILS_ROOT is changed to Rails.root.to_s & RAILS_ENV is changed to Rails.env
+
+8) To count hash length, previously we are using 'length' method, now we have to use 'count' mthod.
+
+9) difference in directory structure:
+  Rails3:
+create  
+      create  README
+      create  Rakefile
+      create  config.ru
+      create  .gitignore
+      create  Gemfile
+      create  app
+      create  app/assets/images/rails.png
+      create  app/assets/javascripts/application.js
+      create  app/assets/stylesheets/application.css
+      create  app/controllers/application_controller.rb
+      create  app/helpers/application_helper.rb
+      create  app/mailers
+      create  app/models
+      create  app/views/layouts/application.html.erb
+      create  app/mailers/.gitkeep
+      create  app/models/.gitkeep
+      create  config
+      create  config/routes.rb
+      create  config/application.rb
+      create  config/environment.rb
+      create  config/environments
+      create  config/environments/development.rb
+      create  config/environments/production.rb
+      create  config/environments/test.rb
+      create  config/initializers
+      create  config/initializers/backtrace_silencers.rb
+      create  config/initializers/inflections.rb
+      create  config/initializers/mime_types.rb
+      create  config/initializers/secret_token.rb
+      create  config/initializers/session_store.rb
+      create  config/initializers/wrap_parameters.rb
+      create  config/locales
+      create  config/locales/en.yml
+      create  config/boot.rb
+      create  config/database.yml
+      create  db
+      create  db/seeds.rb
+      create  doc
+      create  doc/README_FOR_APP
+      create  lib
+      create  lib/tasks
+      create  lib/tasks/.gitkeep
+      create  lib/assets
+      create  lib/assets/.gitkeep
+      create  log
+      create  log/.gitkeep
+      create  public
+      create  public/404.html
+      create  public/422.html
+      create  public/500.html
+      create  public/favicon.ico
+      create  public/index.html
+      create  public/robots.txt
+      create  script
+      create  script/rails
+      create  test/fixtures
+      create  test/fixtures/.gitkeep
+      create  test/functional
+      create  test/functional/.gitkeep
+      create  test/integration
+      create  test/integration/.gitkeep
+      create  test/unit
+      create  test/unit/.gitkeep
+      create  test/performance/browsing_test.rb
+      create  test/test_helper.rb
+      create  tmp/cache
+      create  tmp/cache/assets
+      create  vendor/assets/stylesheets
+      create  vendor/assets/stylesheets/.gitkeep
+      create  vendor/plugins
+      create  vendor/plugins/.gitkeep
+
+Rails2:
+
+create  
+      create  app/controllers
+      create  app/helpers
+      create  app/models
+      create  app/views/layouts
+      create  config/environments
+      create  config/initializers
+      create  config/locales
+      create  db
+      create  doc
+      create  lib
+      create  lib/tasks
+      create  log
+      create  public/images
+      create  public/javascripts
+      create  public/stylesheets
+      create  script/performance
+      create  test/fixtures
+      create  test/functional
+      create  test/integration
+      create  test/performance
+      create  test/unit
+      create  vendor
+      create  vendor/plugins
+      create  tmp/sessions
+      create  tmp/sockets
+      create  tmp/cache
+      create  tmp/pids
+      create  Rakefile
+      create  README
+      create  app/controllers/application_controller.rb
+      create  app/helpers/application_helper.rb
+      create  config/database.yml
+      create  config/routes.rb
+      create  config/locales/en.yml
+      create  db/seeds.rb
+      create  config/initializers/backtrace_silencers.rb
+      create  config/initializers/inflections.rb
+      create  config/initializers/mime_types.rb
+      create  config/initializers/new_rails_defaults.rb
+      create  config/initializers/session_store.rb
+      create  config/initializers/cookie_verification_secret.rb
+      create  config/environment.rb
+      create  config/boot.rb
+      create  config/environments/production.rb
+      create  config/environments/development.rb
+      create  config/environments/test.rb
+      create  script/about
+      create  script/console
+      create  script/dbconsole
+      create  script/destroy
+      create  script/generate
+      create  script/runner
+      create  script/server
+      create  script/plugin
+      create  script/performance/benchmarker
+      create  script/performance/profiler
+      create  test/test_helper.rb
+      create  test/performance/browsing_test.rb
+      create  public/404.html
+      create  public/422.html
+      create  public/500.html
+      create  public/index.html
+      create  public/favicon.ico
+      create  public/robots.txt
+      create  public/images/rails.png
+      create  public/javascripts/prototype.js
+      create  public/javascripts/effects.js
+      create  public/javascripts/dragdrop.js
+      create  public/javascripts/controls.js
+      create  public/javascripts/application.js
+      create  doc/README_FOR_APP
+      create  log/server.log
+      create  log/production.log
+      create  log/development.log
+      create  log/test.log
+
+10) Lambda :-
+  Ruby 1.8.7 :- c = lambda {|a,b| a*b }
+  Ruby 1.9.2 :- c = ->(a,b){ a*b }
+
+11)Implicit Call :-
+  Ruby 1.8.7 :- 
+    c = lambda {|a,b| a*b }
+    c.call(3,4)
+
+  Ruby 1.9.2 :- 
+    c = lambda {|a,b| a*b }
+    c.(3,4)

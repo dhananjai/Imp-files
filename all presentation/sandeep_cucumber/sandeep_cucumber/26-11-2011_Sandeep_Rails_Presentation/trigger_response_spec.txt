@@ -1,0 +1,14 @@
+describe TriggerResponse do
+
+  before(:each) do
+    @response = TriggerResponse.new(id = 1, response = "this is test response", response_by_id = 1)
+  end
+
+  it "should be invalid without a response" do
+    @response.response = nil
+    @response.should_not be_valid
+    @response.response = 'test response'
+    @response.should be_valid
+  end
+
+end
