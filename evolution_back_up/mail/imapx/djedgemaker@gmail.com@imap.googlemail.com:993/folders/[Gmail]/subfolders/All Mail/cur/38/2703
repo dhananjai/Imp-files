@@ -1,0 +1,51 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.85.193 with SMTP id p1cs73279vcl;
+        Sat, 5 Feb 2011 03:28:30 -0800 (PST)
+Received: by 10.216.145.135 with SMTP id p7mr329768wej.38.1296905309880;
+        Sat, 05 Feb 2011 03:28:29 -0800 (PST)
+Return-Path: <SRS0=G1VcfCbE=VC=nokia.com=noreply@smtp1.lhr.hosting-ops.com>
+Received: from smtp1.lhr.hosting-ops.com (smtp1.lhr.hosting-ops.com [131.228.17.185])
+        by mx.google.com with ESMTPS id z43si3036181weq.101.2011.02.05.03.28.29
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Sat, 05 Feb 2011 03:28:29 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of SRS0=G1VcfCbE=VC=nokia.com=noreply@smtp1.lhr.hosting-ops.com designates 131.228.17.185 as permitted sender) client-ip=131.228.17.185;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of SRS0=G1VcfCbE=VC=nokia.com=noreply@smtp1.lhr.hosting-ops.com designates 131.228.17.185 as permitted sender) smtp.mail=SRS0=G1VcfCbE=VC=nokia.com=noreply@smtp1.lhr.hosting-ops.com
+Received: from lhrnms-0054-fe.pr.nmsg.s.nokia.com ([10.218.6.225])
+	by smtp1.lhr.hosting-ops.com (8.13.8/8.13.8) with ESMTP id p15BSTSr004734
+	for <djedgemaker@gmail.com>; Sat, 5 Feb 2011 11:28:29 GMT
+Date: Sat, 5 Feb 2011 11:28:29 +0000 (GMT)
+From: Nokia Messaging Team <noreply@nokia.com>
+To: djedgemaker@gmail.com
+Message-ID: <18892901.3472769.1296905309422.JavaMail.root@lhrnms-0054-fe.pr.nmsg.s.nokia.com>
+Subject: Important information about your Nokia Messaging account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3472767_4080093.1296905309419"
+
+------=_Part_3472767_4080093.1296905309419
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Thank you for activating your Nokia Messaging account! With this service, you can enjoy automatic delivery of your personal emails to your Nokia phone.
+
+This email message contains important information about the service.
+
+Costs of services:
+
+The purchase of your Nokia phone includes a subscription to Nokia Messaging. Please be aware that data traffic will be charged according to your current operator service plan and might not be included in your flat data rate plan. Please contact your operator to know how much you will be charged.
+
+Enjoy your mobile email!
+
+
+Sincerely,
+Nokia Messaging team
+
+*** This email was generated automatically. Please do not reply to it. ***
+
+
+------=_Part_3472767_4080093.1296905309419
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Thank you for activating your Nokia Messaging account! With this service, you can enjoy automatic delivery of your personal emails to your Nokia phone.</p><p>This email message contains important information about the service.</p><p><b><i>Costs of services:</i></b></p><p>The purchase of your Nokia phone includes a subscription to Nokia Messaging. Please be aware that data traffic will be charged according to your current operator service plan and might not be included in your flat data rate plan. Please contact your operator to know how much you will be charged.</p><p>Enjoy your mobile email!</p><p><br/>Sincerely,<br/>Nokia Messaging team</p><p>*** This email was generated automatically. Please do not reply to it. ***</p>
+------=_Part_3472767_4080093.1296905309419--

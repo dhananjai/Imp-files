@@ -1,0 +1,181 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.229.87.70 with SMTP id v6cs93472qcl;
+        Wed, 2 Mar 2011 20:04:18 -0800 (PST)
+Received: by 10.42.213.194 with SMTP id gx2mr960261icb.27.1299125057711;
+        Wed, 02 Mar 2011 20:04:17 -0800 (PST)
+Return-Path: <info@hi5.com>
+Received: from oak1mail003-mx82.oak1.external.hi5.com (oak1mail003-mx82.oak1.external.hi5.com [66.218.171.82])
+        by mx.google.com with ESMTP id vh9si1454487icb.60.2011.03.02.20.04.17;
+        Wed, 02 Mar 2011 20:04:17 -0800 (PST)
+Received-SPF: pass (google.com: domain of info@hi5.com designates 66.218.171.82 as permitted sender) client-ip=66.218.171.82;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of info@hi5.com designates 66.218.171.82 as permitted sender) smtp.mail=info@hi5.com; dkim=pass header.i=info@hi5.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=hi5.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; i=info@hi5.com;
+ bh=Nra0kTFtTwhJwogaYRA9Rgg7PE0=;
+ b=ersn5dT95j/Ll/GOt6vhzxn9HFYfnEf7EsrItuAtNSS5rEOlr8MtTF/q2Cd1IS9XwcxrkVIsWN2e
+   sPrRzk07zDSFw4GnlVhR5whfRhHjaUpMBYZ14CItdUHdb9487Aq3
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=hi5.com;
+ b=R6a5n8mjEvejcKGnjXWtU4gJXadXkMkI3wiyJJ1tYiWY5/RTA13yFiZncgnrg8siSzA6ZHkKNV7N
+   kZ9nhyk8Maz7CoPuK7O7P3bdNOTUIxCGubTE2TvPTbd5fCWKXKum;
+Received: from snv1servpo003.snv1.internal.hi5.com (172.16.12.244) by oak1mail003-mx82.oak1.external.hi5.com (PowerMTA(TM) v3.5r15) id hds9k40nj0k9 for <djedgemaker@gmail.com>; Wed, 2 Mar 2011 20:04:13 -0800 (envelope-from <info@hi5.com>)
+Date: Wed, 2 Mar 2011 20:03:58 -0800 (PST)
+From: hi5 <info@hi5.com>
+To: djedgemaker@gmail.com
+Message-ID: <1522193713.34234.1299125038622.JavaMail.web@snv1servpo003.snv1.internal.hi5.com>
+Subject: saket chandrakar added you as a friend on hi5...
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+x-mail-type: 7013
+x-generating-machine: oak1job001
+x-postoffice: snv1servpo003.snv1.internal.hi5.com
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+ <head>
+ <title></title>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+ </head>
+ <body>
+ <table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"border:1px solid #666666;">
+ <style>
+ .fsug {float:left; font: 12px Verdana, Arial, Helvetica, sans-serif; margi=
+n-right: 10px; text-align:center; width:100px; }
+ .fsug a {font: 10px Arial, Helvetica, sans-serif; font-weight: bold; color=
+: #085098; display:block; margin:5px auto; padding:0; text-align:center; wi=
+dth:100%; }
+ </style>
+ <tr valign=3D"top" style=3D"font-family: Verdana; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 11px; line-height: normal=
+; font-size-adjust: none; font-stretch: normal; color: rgb(33, 33, 33); tex=
+t-align: left; ">
+  <td style=3D"padding: 10px 20px; ">
+  <div style=3D"margin:0; padding:0;">
+  <p style=3D"margin:0; padding:10px 0;">Hi dhananjai,</p>
+  <p style=3D"margin:0; padding:5px 0 0;">We wanted to remind you that sake=
+t chandrakar recently added you as a friend on hi5, in case you forgot.  Cl=
+ick the link below to respond to this friend request:</p>
+  <p style=3D"margin:0; padding:10px 0; font-size:14px; "><a href=3D"http:/=
+/www.hi5.com/friend/viewFriendRequests.do?loginid=3D&amp;smid=3DbWVzc2FnZUl=
+kPVA2cDdLM29VekxaSVJQT08xcWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3Viam=
+VjdENvZGU9ZnJpZW5kUmVxdWVzdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1N=
+TUxMzkzMCZ0b0FkZHJlc3M9ZGplZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwu=
+Y29tJmRhdGVTZW50PTIwMTEwMzAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3V=
+udHJ5PUlOJnRvVGltZXpvbmU9NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMj=
+IzJmZyb21JZD0tMSZPTERfU01JRD1fNzAxM18.&amp;loginToken=3D-911243497571489463=
+6&amp;email=3Ddjedgemaker@gmail.com">http://www.hi5.com/friend/viewFriendRe=
+quests.do</a></p>
+  <ul style=3D"list-style:none; margin:0; padding:0; float:left;">
+   <li class=3D"fsug" style=3D"float:left"><a href=3D"http://www.hi5.com/fr=
+iend/viewFriendRequests.do?loginid=3D&amp;smid=3DbWVzc2FnZUlkPVA2cDdLM29Vek=
+xaSVJQT08xcWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3ViamVjdENvZGU9ZnJpZ=
+W5kUmVxdWVzdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1NTUxMzkzMCZ0b0Fk=
+ZHJlc3M9ZGplZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwuY29tJmRhdGVTZW5=
+0PTIwMTEwMzAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3VudHJ5PUlOJnRvVG=
+ltZXpvbmU9NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMjIzJmZyb21JZD0tM=
+SZPTERfU01JRD1fNzAxM18.&amp;loginToken=3D-9112434975714894636&amp;email=3Dd=
+jedgemaker@gmail.com" ><img src=3D"http://photos4.hi5.com/0137/215/839/IoZI=
+1B215839-01.jpg" width=3D"100"/></a><div align=3D"center"><a href=3D"http:/=
+/www.hi5.com/friend/viewFriendRequests.do?loginid=3D&amp;smid=3DbWVzc2FnZUl=
+kPVA2cDdLM29VekxaSVJQT08xcWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3Viam=
+VjdENvZGU9ZnJpZW5kUmVxdWVzdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1N=
+TUxMzkzMCZ0b0FkZHJlc3M9ZGplZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwu=
+Y29tJmRhdGVTZW50PTIwMTEwMzAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3V=
+udHJ5PUlOJnRvVGltZXpvbmU9NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMj=
+IzJmZyb21JZD0tMSZPTERfU01JRD1fNzAxM18.">saket</a></div><br/></li>
+  =20
+  </ul>
+  <br>
+  <div style=3D"clear:both">
+  <p style=3D"clear:both;padding:15px 0 0; ">Thanks for being a part of hi5=
+!<br>The hi5 Team</p>
+  <span style=3D"font-size: 10px;">
+  If you do not wish to receive these emails, click the link below
+  <a href=3D?smid=3DbWVzc2FnZUlkPVA2cDdLM29VekxaSVJQT08xcWNuMjA0NDkxNDgzNiZ=
+0eXBlPTcwMTMmc3ViVHlwZT0mc3ViamVjdENvZGU9ZnJpZW5kUmVxdWVzdFN1YmplY3RMaW5lQy=
+Zmcm9tSGFzUGhvdG89MCZ0b0lkPTU1NTUxMzkzMCZ0b0FkZHJlc3M9ZGplZGdlbWFrZXIlNDBnb=
+WFpbC5jb20mdG9Eb21haW49Z21haWwuY29tJmRhdGVTZW50PTIwMTEwMzAyJmxvY2FsVGltZVNl=
+bnQ9OSZjb250YWluc0FkPTAmdG9Db3VudHJ5PUlOJnRvVGltZXpvbmU9NSZ0b0xhbmd1YWdlPWV=
+uJnRvTGFzdElwPTExMy4xOS4xMjguMjIzJmZyb21JZD0tMSZPTERfU01JRD1fNzAxM18.&login=
+Token=3D-9112434975714894636&email=3Ddjedgemaker@gmail.com></a>
+  </span>
+  <p style=3D"border-top:1px solid #ccc; margin:0; padding:10px 0; clear:bo=
+th; font-style:italic">hi5 respects your privacy.  If you have any concerns=
+ about your privacy, please view our <a href=3D"http://www.hi5.com/friend/d=
+isplayPrivacy.do?loginid=3D&amp;smid=3DbWVzc2FnZUlkPVA2cDdLM29VekxaSVJQT08x=
+cWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3ViamVjdENvZGU9ZnJpZW5kUmVxdWV=
+zdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1NTUxMzkzMCZ0b0FkZHJlc3M9ZG=
+plZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwuY29tJmRhdGVTZW50PTIwMTEwM=
+zAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3VudHJ5PUlOJnRvVGltZXpvbmU9=
+NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMjIzJmZyb21JZD0tMSZPTERfU01=
+JRD1fNzAxM18." style=3D"color: rgb(8, 80, 152); text-decoration: none;">pri=
+vacy page</a>. If you forget your password, you can reset it by <a href=3D"=
+http://www.hi5.com/friend/forgotPassword.do?loginid=3D&amp;smid=3DbWVzc2FnZ=
+UlkPVA2cDdLM29VekxaSVJQT08xcWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3Vi=
+amVjdENvZGU9ZnJpZW5kUmVxdWVzdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU=
+1NTUxMzkzMCZ0b0FkZHJlc3M9ZGplZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haW=
+wuY29tJmRhdGVTZW50PTIwMTEwMzAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db=
+3VudHJ5PUlOJnRvVGltZXpvbmU9NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjgu=
+MjIzJmZyb21JZD0tMSZPTERfU01JRD1fNzAxM18." style=3D"color: rgb(8, 80, 152); =
+text-decoration: none;">clicking here</a>.</p>
+  </div>
+  </div>
+  </td>
+ </tr>
+ </table>
+ <table width=3D"600">
+   <tr>
+   <td width=3D"600" style=3D"font: 12px Verdana; color: #212121;">
+   <div align=3D"center" style=3D"margin: 10px 0;">
+   <div style=3D"border: 1px solid #CCC">
+   <a href=3D"http://www.kqzyfj.com/click-3845711-10695872?SID=3DC129912570=
+13ZuoR-v8ACSuqwyucVCA1yRwFeVGqtNzoviwtELfrzLHKA.."> <img src=3D"http://www.=
+ftjcfx.com/image-3845711-10695872" width=3D"336" height=3D"280" alt=3D"" bo=
+rder=3D"0"/></a>
+   </div>
+   </div>
+   </td>
+   </tr>
+  <tr>
+  <td style=3D"text-align: center; font: 10px Verdana; color: #a7a7a7; padd=
+ing-left: 10px;">
+  <span style=3D"color: #333;">--------------------------------------------=
+----------</span><br/>
+  Copyright - hi5 Networks, Inc. All rights reserved.<br/>
+  55 Second Street, Suite 400, San Francisco, CA 94105<br/>
+  <a href=3D"http://www.hi5.com/friend/displayPrivacy.do?email=3Ddjedgemake=
+r@gmail.com&smid=3DbWVzc2FnZUlkPVA2cDdLM29VekxaSVJQT08xcWNuMjA0NDkxNDgzNiZ0=
+eXBlPTcwMTMmc3ViVHlwZT0mc3ViamVjdENvZGU9ZnJpZW5kUmVxdWVzdFN1YmplY3RMaW5lQyZ=
+mcm9tSGFzUGhvdG89MCZ0b0lkPTU1NTUxMzkzMCZ0b0FkZHJlc3M9ZGplZGdlbWFrZXIlNDBnbW=
+FpbC5jb20mdG9Eb21haW49Z21haWwuY29tJmRhdGVTZW50PTIwMTEwMzAyJmxvY2FsVGltZVNlb=
+nQ9OSZjb250YWluc0FkPTAmdG9Db3VudHJ5PUlOJnRvVGltZXpvbmU9NSZ0b0xhbmd1YWdlPWVu=
+JnRvTGFzdElwPTExMy4xOS4xMjguMjIzJmZyb21JZD0tMSZPTERfU01JRD1fNzAxM18.">Priva=
+cy Policy</a> | <a href=3D"http://www.hi5.com/friend/displayBlockInvite.do?=
+email=3Ddjedgemaker@gmail.com&smid=3DbWVzc2FnZUlkPVA2cDdLM29VekxaSVJQT08xcW=
+NuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3ViamVjdENvZGU9ZnJpZW5kUmVxdWVzd=
+FN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1NTUxMzkzMCZ0b0FkZHJlc3M9ZGpl=
+ZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwuY29tJmRhdGVTZW50PTIwMTEwMzA=
+yJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3VudHJ5PUlOJnRvVGltZXpvbmU9NS=
+Z0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMjIzJmZyb21JZD0tMSZPTERfU01JR=
+D1fNzAxM18.">Unsubscribe</a> | <a href=3D"http://www.hi5.com/friend/display=
+TOS.do?email=3Ddjedgemaker@gmail.com&smid=3DbWVzc2FnZUlkPVA2cDdLM29VekxaSVJ=
+QT08xcWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3ViamVjdENvZGU9ZnJpZW5kUm=
+VxdWVzdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1NTUxMzkzMCZ0b0FkZHJlc=
+3M9ZGplZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwuY29tJmRhdGVTZW50PTIw=
+MTEwMzAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3VudHJ5PUlOJnRvVGltZXp=
+vbmU9NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMjIzJmZyb21JZD0tMSZPTE=
+RfU01JRD1fNzAxM18.">Terms of Service</a>
+  <img src=3D"http://www.hi5.com/friend/to.do?loginid=3D&smid=3DbWVzc2FnZUl=
+kPVA2cDdLM29VekxaSVJQT08xcWNuMjA0NDkxNDgzNiZ0eXBlPTcwMTMmc3ViVHlwZT0mc3Viam=
+VjdENvZGU9ZnJpZW5kUmVxdWVzdFN1YmplY3RMaW5lQyZmcm9tSGFzUGhvdG89MCZ0b0lkPTU1N=
+TUxMzkzMCZ0b0FkZHJlc3M9ZGplZGdlbWFrZXIlNDBnbWFpbC5jb20mdG9Eb21haW49Z21haWwu=
+Y29tJmRhdGVTZW50PTIwMTEwMzAyJmxvY2FsVGltZVNlbnQ9OSZjb250YWluc0FkPTAmdG9Db3V=
+udHJ5PUlOJnRvVGltZXpvbmU9NSZ0b0xhbmd1YWdlPWVuJnRvTGFzdElwPTExMy4xOS4xMjguMj=
+IzJmZyb21JZD0tMSZPTERfU01JRD1fNzAxM18." align=3D"absmiddle" border=3D"0" he=
+ight=3D"20" width=3D"1">
+  </td>
+  </tr>
+ </table>
+ </body>
+</html>

@@ -1,0 +1,84 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.1.76 with SMTP id 12cs111790vce;
+        Tue, 4 Oct 2011 12:34:28 -0700 (PDT)
+Received: by 10.68.7.132 with SMTP id j4mr11906837pba.102.1317756867363;
+        Tue, 04 Oct 2011 12:34:27 -0700 (PDT)
+Return-Path: <s-ueEjRbt1V5Lv1RP-WRPtUYLLEBLBbQ0B55eyYD21V3pFKDEsjZWJff@bounce.linkedin.com>
+Received: from mailb-aa.linkedin.com (mailb-aa.linkedin.com. [69.28.147.146])
+        by mx.google.com with ESMTP id e9si19261516pbo.87.2011.10.04.12.34.26;
+        Tue, 04 Oct 2011 12:34:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of s-ueEjRbt1V5Lv1RP-WRPtUYLLEBLBbQ0B55eyYD21V3pFKDEsjZWJff@bounce.linkedin.com designates 69.28.147.146 as permitted sender) client-ip=69.28.147.146;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of s-ueEjRbt1V5Lv1RP-WRPtUYLLEBLBbQ0B55eyYD21V3pFKDEsjZWJff@bounce.linkedin.com designates 69.28.147.146 as permitted sender) smtp.mail=s-ueEjRbt1V5Lv1RP-WRPtUYLLEBLBbQ0B55eyYD21V3pFKDEsjZWJff@bounce.linkedin.com; dkim=pass header.i=@linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=eAjbmNrdOTvGp1MfrDLOMgQZV89QAOfd9TMxp7NAo4RobSySzpYU51yttcjAWj/T
+	l+ex8zFd3A6ndZKhXKAnE1854H35+3OWk8Mb9hUSFSaeZSxwv7k4R7UGxS+FV08h
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1317756864;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=mydwsKChpHYoDb2619LD9Cg0RDY=;
+	b=ys2ueXE4bSmZ1TBxuZS6jVk/CbP8NWKGj50Rq/GI0l4TPHEY7Q6+kvgdCKwTol05
+	zmhTQuQG5KIJUdealnsBrfKrlGZagYK9nhJ9L/af2p/48w9rhEX/JJPtGF8ogMDU;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Tue, 4 Oct 2011 19:33:44 +0000 (UTC)
+From: "Prakash Nishad (LinkedIn Invitations)" <invitations@linkedin.com>
+To: Dhananjai Verma <djedgemaker@gmail.com>
+Message-ID: <226911141.417529.1317756824596.JavaMail.app@ela4-app0056.prod>
+Subject: Reminder about your invitation from Prakash Nishad
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_417528_1155151071.1317756824594"
+X-LinkedIn-Template: inv_exp_member_01
+X-LinkedIn-Class: INVITE-MBR
+X-LinkedIn-fbl: s-ueEjRbt1V5Lv1RP-WRPtUYLLEBLBbQ0B55eyYD21V3pFKDEsjZWJff
+
+------=_Part_417528_1155151071.1317756824594
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+LinkedIn
+------------
+This invitation is awaiting your response:
+ From Prakash Nishad 
+ 
+-- 
+(c) 2011, LinkedIn Corporation
+------=_Part_417528_1155151071.1317756824594
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+  <body>
+    
+
+
+
+    
+      
+      
+      
+
+<table border="0" width="550" cellpadding="0" cellspacing="0" style="max-width:550px; border-top:4px solid #39C; font: 12px arial, sans-serif; margin: 0 auto;"><tr><td>  
+  <h1 style="color: #000; font: bold 23px arial; margin:5px 0;" >LinkedIn</h1>
+
+   <h2 style="margin:0; padding:0; font:17px arial; color:#069;">REMINDER</h2>
+   <p style="margin: 5px 0;font-size:12px"><strong>This pending invitation is awaiting your response:</strong></p>
+     
+           <span style="color:#999999;">&#8226;</span>&nbsp;
+           <a href="http://www.linkedin.com/e/-e35eni-gtdae1ao-11/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/blk/I210872561_10/30NnP4Sdj8Te30NcAALqnpPbOYWrSlI/EML-bt1-rem-inv_svi/?hs=false&amp;tok=3wr_h2QTBR7QY1" style="color:#0066CC;"> From <strong>Prakash Nishad</strong> </a>
+     <br>
+
+   <br>
+
+   <p style="color:#999999;font-size:10px;margin: 10px 0;">Don't want to receive email notifications? <a href="https://www.linkedin.com/e/-e35eni-gtdae1ao-11/qnXiBTQ9qMsWOWM72ZqVLkcrBj4Z2RfMJA/prv/?hs=false&amp;tok=1h-HA9bihR7QY1" style="color:#0066CC;">Adjust your message settings.</a></p>
+
+
+    
+      <p style="width: 550px; margin: 3px auto; font: 10px arial, sans-serif; color: #999;">
+&#169; 2011, LinkedIn Corporation    </p>
+</body>
+</html>
+------=_Part_417528_1155151071.1317756824594--

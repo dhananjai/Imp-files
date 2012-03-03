@@ -1,0 +1,246 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.75.79 with SMTP id x15cs60560vcj;
+        Sun, 5 Jun 2011 11:29:37 -0700 (PDT)
+Return-Path: <innovations88@gmail.com>
+Received-SPF: pass (google.com: domain of innovations88@gmail.com designates 10.220.48.193 as permitted sender) client-ip=10.220.48.193;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of innovations88@gmail.com designates 10.220.48.193 as permitted sender) smtp.mail=innovations88@gmail.com; dkim=pass header.i=innovations88@gmail.com
+Received: from mr.google.com ([10.220.48.193])
+        by 10.220.48.193 with SMTP id s1mr81290vcf.42.1307298577078 (num_hops = 1);
+        Sun, 05 Jun 2011 11:29:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=+mM6Km3DbZVTKyPl6Ub3PIwMEfMmZ6kUmfKF09NtsDs=;
+        b=rflHnMSKi5lvU5RLX6Nyjx/tBDGLxaKfTiAe0WiUuhi5vrihjaqEUJy5yX33rLMYDy
+         C+fuZn00wf81FW4Y6ZEGLGqFizuvGq8On0D0BdIJeooAf/tVJy96cg7cUYC0T8z3LL7S
+         xlE2FTTTSjrEqT672WvNo/8GmFluiAvdWpVDI=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=jgV7/qKw5BihNRKTms3Qs39YnkL1bxIjkADWNfU7uPO+xzl7mQTFo1btuRg04cBcpH
+         IepF47N3keDDnbGANPB6h6oV8JMvJuw3rheN2VO9AJ4TzPjofID0ztB1Ljax6GbKiR1I
+         vRu97/OS0Xd2oDtgY4RRSBXmDT5DIf9tA5690=
+MIME-Version: 1.0
+Received: by 10.220.48.193 with SMTP id s1mr81290vcf.42.1307298577072; Sun, 05
+ Jun 2011 11:29:37 -0700 (PDT)
+Received: by 10.220.179.68 with HTTP; Sun, 5 Jun 2011 11:29:37 -0700 (PDT)
+Date: Sun, 5 Jun 2011 23:59:37 +0530
+Message-ID: <BANLkTinXrYzkBVPPeX=_as6DOGzT5ykSRA@mail.gmail.com>
+Subject: Tips for Technical Interview :
+From: shashank diwan <innovations88@gmail.com>
+To: shraddhaathwani <shraddhaathwani@gmail.com>, monika.yaaadav@gmail.com, 
+	djedgemaker@gmail.com
+Content-Type: multipart/alternative; boundary=0016e646158e4d437604a4fb2b16
+
+--0016e646158e4d437604a4fb2b16
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Here is our List of Tips for Scoring well in Technical Interviews
+
+1.) Knowledge of programming is very important. Sometimes at your interview
+you will be given a programming =93quiz=94 where you will have to answer a =
+short
+test on a language such as Java, for example:
+
+   - =93What is the most basic element of a java program?=94 i.e. a class
+   - =93What do RMI / JDBC / RPC stand for? What are they used for?=94
+   - =93Explain what an interface is in Java, and what it is used for.=94
+
+Revision of Computer Programming I and II modules would be perfect material
+to prepare for this.
+
+2.) You could also be asked to do a problem solving exercise where you=92ll=
+ be
+given a problem and you have to write out a solution on a whiteboard or on
+paper and show the interview panel your answer. The key to doing this
+successfully is not to panic and to make sure the panel know your logic
+behind how you come to your solution.
+
+Another recommendation would be for students to practice their problem
+solving skills even in pseudo code as the other key part of an interview
+could consist of a problem which required a solution to be drawn out on a
+white board. This sounds like quite a daunting prospect but as long as you
+talk the interviewers through what you are thinking and do not rush it all
+will be good.
+
+3.) It is important that you appear outgoing and friendly and stress
+team-working skills and give a history of group projects completed at
+Queen's.4.) You might also be asked general questions such as:
+
+
+   - =93How do you cope with difficult workloads?=94
+   - =93Name a difficult situation you've experienced and how you cope with
+   it.=94
+   - =93How do you resolve a difference of opinion with a superior?=94
+
+5.) Browse throw some of the site listing Technical interview Question and
+answers like http://www.techinterviews.com/ or http://www.geekinterview.com=
+/
+
+6.) Testing questions:
+
+You have a whiteboard, and are given a question along the lines of
+
+"You have a method that checks if a triangle is scalene. It takes as
+parameters three integers representing the sizes of the sides. What inputs
+would you use as tests for this method?"
+
+So you've to write down what inputs you would try to determine if the metho=
+d
+worked 100% correctly, and for each state what output you would expect. So
+you have to put in sizes that are valid, sizes where the triangle is
+equilateral, sizes where it can not be a triangle (e.g. 5000, 1, 1),
+negative integers.
+
+7.) Programming Questions:
+
+You could be given a matrix (2d array) of letters, and had to write on the
+whiteboard, as close to java as possible, a method that would search throug=
+h
+that matrix for a given word.
+
+e.g.    Search for DOG in the following
+
+|REGGDA|
+|HUDOGC|
+|PQOKCX|
+|GFOMPO|
+|POIREJ|
+
+So you are writing a method like findWord (char[][] letterMatrix, String
+wordToFind) { ...
+
+Another question might be to write a method that checked if a word was a
+palindrome.
+
+8.) If you don=92t know the answer to a question, don=92t try and bluff you=
+r way
+through it because you=92ll be caught out in the end. Admit that you don=92=
+t
+know or that you haven=92t covered it yet in your course, it=92s alright to=
+ not
+know the answer to everything.
+
+9.) At the end of your interview it helps to ask questions and to seem
+genuinely interested in working at the company. Of course, don=92t act
+interested if you=92re not actually interested! There=92s no point trying t=
+o get
+a place in a job you won=92t enjoy and somebody else would have benefited
+from. Research the company beforehand and have a list of questions you woul=
+d
+like answered.
+
+   - What languages they used?
+   - What IDE's they used?
+   - What sort of work I should be expecting?
+   - What the social life was like at the company?
+
+All the Best to all you guys there. We hope these tips will help you in
+Interview.
+
+--0016e646158e4d437604a4fb2b16
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"gmail_quote"><br><h2></h2>
+        <div style=3D"margin:0pt 1em 0.75em 7pt;float:right">
+         =20
+          <ins style=3D"border:medium none;margin:0pt;padding:0pt;display:i=
+nline-table;min-height:600px;width:120px"><ins style=3D"border:medium none;=
+margin:0pt;padding:0pt;display:block;min-height:600px;width:120px"></ins></=
+ins>
+        </div>
+        <p>Here is our List of Tips for Scoring well in Technical Interview=
+s</p>
+        <p>1.)
+Knowledge of programming is very important. Sometimes at your interview
+you will be given a programming =93quiz=94 where you will have to answer a
+short test on a language such as Java, for example:</p>
+        <ul><li>=93What is the most basic element of a java  program?=94 i.=
+e. a class</li><li>=93What do RMI / JDBC / RPC stand for? What are  they us=
+ed for?=94</li><li>=93Explain what an interface is in Java, and  what it is=
+ used for.=94</li>
+
+</ul>
+        Revision of Computer  Programming I and II modules would be perfect=
+ material to prepare for this.
+       =20
+        <p>2.)
+You could also be asked to do a problem solving exercise where you=92ll
+be given a problem and you have to write out a solution on a whiteboard
+or on paper and show the interview panel your answer. The key to doing
+this successfully is not to panic and to make sure the panel know your
+logic behind how you come to your solution.</p>
+        <p>Another
+recommendation would be for students to practice their problem solving
+skills even in pseudo code as the other key part of an interview could
+consist of a problem which required a solution to be drawn out on a
+white board. This sounds like quite a daunting prospect but as long as
+you talk the interviewers through what you are thinking and do not rush
+it all will be good.</p>
+        <p>3.) It is important that you
+appear outgoing and friendly and stress team-working skills and give a
+history of group projects completed at Queen&#39;s.4.) You  might also be a=
+sked general questions such as: </p>
+        <p>
+          </p><ul><li>=93How do you cope with difficult workloads?=94</li><=
+li>=93Name a difficult situation you&#39;ve  experienced and how you cope w=
+ith it.=94</li><li>=93How do you resolve a difference of opinion  with a su=
+perior?=94</li>
+
+</ul>
+          5.) Browse throw some of the site listing Technical interview Que=
+stion and answers like <a href=3D"http://www.techinterviews.com/" target=3D=
+"_blank">http://www.techinterviews.com/</a> or <a href=3D"http://www.geekin=
+terview.com/" target=3D"_blank">http://www.geekinterview.com/</a>=20
+        <p>6.) Testing questions:</p>
+        <p>You  have a whiteboard, and are given a question along the lines=
+ of<br>
+          <br>
+&quot;You have a method that checks if a triangle is scalene. It takes as
+parameters three integers representing the sizes of the sides. What
+inputs would you use as tests for this method?&quot;</p>
+        <p>So
+you&#39;ve to write down what inputs you would try to determine if the
+method worked 100% correctly, and for each state what output you would
+expect. So you have to put in sizes that are valid, sizes where the
+triangle is equilateral, sizes where it can not be a triangle (e.g.
+5000, 1, 1), negative integers.</p>
+        <p>7.) Programming  Questions:</p>
+        <p>You
+could be given a matrix (2d array) of letters, and had to write on the
+whiteboard, as close to java as possible, a method that would search
+through that matrix for a given word.</p>
+        <p>e.g.=A0=A0=A0 Search for DOG in the following</p>
+        <p>|REGGDA|<br>
+          |HUDOGC|<br>
+          |PQOKCX|<br>
+          |GFOMPO|<br>
+          |POIREJ|</p>
+        <p>So  you are writing a method like findWord (char[][] letterMatri=
+x, String <br>
+          wordToFind)  { ...</p>
+        <p>Another  question might be to write a method that checked if a w=
+ord was a palindrome.</p>
+        <p>8.)
+If you don=92t know the answer to a question, don=92t try and bluff your
+way through it because you=92ll be caught out in the end. Admit that you
+don=92t know or that you haven=92t covered it yet in your course, it=92s
+alright to not know the answer to everything.</p>
+        <p>9.) At
+the end of your interview it helps to ask questions and to seem
+genuinely interested in working at the company. Of course, don=92t act
+interested if you=92re not actually interested! There=92s no point trying
+to get a place in a job you won=92t enjoy and somebody else would have
+benefited from. Research the company beforehand and have a list of
+questions you would like answered.</p>
+        <ul><li>What languages they used?</li><li>What IDE&#39;s they used?=
+ </li><li>What sort of work I should be expecting?</li><li>What the social =
+life was like at the company?</li></ul><p>All the Best to all you guys ther=
+e. We hope these tips will help you in Interview. </p>
+
+</div><br>
+
+--0016e646158e4d437604a4fb2b16--

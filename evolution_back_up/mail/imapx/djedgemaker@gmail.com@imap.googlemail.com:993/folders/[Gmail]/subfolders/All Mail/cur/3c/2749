@@ -1,0 +1,74 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.117.79 with SMTP id p15cs107725vcq;
+        Sun, 13 Feb 2011 09:32:12 -0800 (PST)
+Received: by 10.236.110.172 with SMTP id u32mr5033295yhg.63.1297618332392;
+        Sun, 13 Feb 2011 09:32:12 -0800 (PST)
+Return-Path: <ecards-djedgemaker=gmail.com@123greetings.com>
+Received: from javelin1.123greetings.com (javelin1.123greetings.com [72.233.20.51])
+        by mx.google.com with ESMTP id 63si3110948yhl.22.2011.02.13.09.32.12;
+        Sun, 13 Feb 2011 09:32:12 -0800 (PST)
+Received-SPF: pass (google.com: domain of ecards-djedgemaker=gmail.com@123greetings.com designates 72.233.20.51 as permitted sender) client-ip=72.233.20.51;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of ecards-djedgemaker=gmail.com@123greetings.com designates 72.233.20.51 as permitted sender) smtp.mail=ecards-djedgemaker=gmail.com@123greetings.com; dkim=pass (test mode) header.i=ecards@123greetings.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=s1024; d=123greetings.com;
+ h=MIME-Version:Content-Transfer-Encoding:Content-Type:Date:From:To:Subject:Message-ID; i=ecards@123greetings.com;
+ bh=py1oyJ268evSkxoehwf4WSU764g=;
+ b=raVWQhqs/Z2IKVJdkYeGBoy84sXoFxkwkFnUSFqgTxs3DF4jjbsQcCQqxQpWZDnbr0YBW3UiEYdJ
+   00V/SNpHmoTzM9TAt9fTDqRdvFU/Yx0okFATzd0aSLV6joKgH0K46HOxz18UGfc0fYcU24eYc/A9
+   874Vy9W5eyLzI3H4Ejs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=s1024; d=123greetings.com;
+ b=AJQof9fSah+8cEQ3fUWev5w8lUNW/mqWcGNS8M4UGUNkX6chTvh2GCHm/BCqRFiUtBzySVO+51Xv
+   X9F/H8ITzenOGXzAhGmUEivCs1Hh8lT7K32RL2rBmPHhmwDVPniHjNuDShczyDcLp3vYkmGOGIuf
+   vZ0IsuNBv1FYaJ14BAo=;
+Received: by javelin1.123greetings.com (PowerMTA(TM) v3.5r15) id hb0apm0v75gi for <djedgemaker@gmail.com>; Sun, 13 Feb 2011 09:32:10 -0800 (envelope-from <ecards-djedgemaker=gmail.com@123greetings.com>)
+MIME-Version: 1.0
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+Content-Type: text/plain
+X-Mailer: MIME::Lite 3.023 (F2.74; T1.26; A2.04; B3.07; Q3.07)
+Date: Sun, 13 Feb 2011 09:32:11 -0800
+From: 123Greetings.com <ecards@123greetings.com>
+To: djedgemaker@gmail.com
+Subject: ecard sent to rashu1290@gmail.com
+X-Card-No: 0261331150923165453
+X-Type: Sender Notification
+X-Source-Ip: 113.19.129.222
+Errors-To: ecards@123greetings.com
+Message-ID: <0.0.4.3BE.1CBCBA3F1F4A938.0@javelin1.123greetings.com>
+
+WW91ciBlY2FyZCAoMDI2MTMzMTE1MDkyMzE2NTQ1MzcpIGhhcyBiZWVuIHNlbnQgdG8gcmFzaG1p
+IFtyYXNodTEyOTBAZ21haWwuY29tXSBvbiAxMy1GZWItMjAxMQoKV2UnbGwgc2VuZCB5b3UgYW4g
+ZW1haWwgbWVzc2FnZSB3aGVuIHJhc2h1MTI5MEBnbWFpbC5jb20gaGFzIHNlZW4geW91ciBlY2Fy
+ZC4KClZpZXcgYSBjb3B5IG9mIHlvdXIgZWNhcmQgYXQ6IApodHRwOi8vd3d3LjEyM2dyZWV0aW5n
+cy5jb20vc2VuZC92aWV3LzAyNjEzMzExNTA5MjMxNjU0NTM3CgpVc2luZyBvdXIgbmV3bHkgbGF1
+bmNoZWQgMTIzR3JlZXRpbmdzIEludml0ZXMsIHlvdSBjYW4gbm93IGNyZWF0ZSBhbmQgc2VuZCBp
+bnZpdGF0aW9ucywgdHJhY2sgUlNWUCBhbmQgZWRpdCBvciBkZWxldGUgeW91ciBldmVudHMuIFRv
+IGtub3cgbW9yZSBjbGljayBvbiB0aGUgbGluayBiZWxvdyBvciBjb3B5ICYgcGFzdGUgaXQgaW50
+byB5b3VyIGJyb3dzZXIncyBhZGRyZXNzIGJhci4KaHR0cDovL3d3dy4xMjNncmVldGluZ3MuY29t
+L2ludml0ZXMvY3JlYXRlL21zZy0xNgoKWW91IGNhbiB1c2UgdGhlIHNhbWUgbG9naW4gY3JlZGVu
+dGlhbHMgdG8gZXhwbG9yZSBtb3JlIHdpdGggMTIzR3JlZXRpbmdzIENvbm5lY3Q6CgotU3RvcmUg
+dW5saW1pdGVkIGNvbnRhY3RzLgotR2V0IGJpcnRoZGF5IGFuZCBldmVudCByZW1pbmRlcnMuCi1T
+aGFyZSBhY3Rpdml0eSBmZWVkcyBhbmQgc3RheSBjb25uZWN0ZWQuCi1UcmFjayB0aGUgZGVsaXZl
+cnkgb2YgeW91ciBlY2FyZCwgc3RlcC1ieS1zdGVwLgotRWRpdCB0aGUgZWNhcmQsIGV2ZW4gaWYg
+dGhlIGVjYXJkIGhhcyBiZWVuIHNlbnQuCi1EZWxldGUgdGhlIGVjYXJkLCBldmVuIGlmIHRoZSBl
+Y2FyZCBoYXMgYmVlbiBzZW50LiAKCkNsaWNrIG9uIHRoZSBsaW5rIGJlbG93IG9yIGNvcHkgJiBw
+YXN0ZSBpdCBpbnRvIHlvdXIgYnJvd3NlcidzIGFkZHJlc3MgYmFyLgpodHRwOi8vd3d3LjEyM2dy
+ZWV0aW5ncy5jb20vY29ubmVjdC90cmFjay9tc2ctNAoKSWYgeW91IGhhdmUgYW55IHF1ZXJ5IGFi
+b3V0IHlvdXIgZWNhcmQgJiBpdHMgZGVsaXZlcnkgb3IgbmVlZCBhbnkgb3RoZXIgYXNzaXN0YW5j
+ZSwgCnBsZWFzZSB2aXNpdCBvdXIgSGVscC8gRkFRIHNlY3Rpb24gYXQ6IGh0dHA6Ly9oZWxwLjEy
+M2dyZWV0aW5ncy5jb20vIAoKVGhhbmsgeW91IGZvciBjaG9vc2luZyAxMjNHcmVldGluZ3MuY29t
+CgpZb3VyIGZyaWVuZHMgYXQgMTIzR3JlZXRpbmdzLmNvbQpodHRwOi8vd3d3LjEyM2dyZWV0aW5n
+cy5jb20KCldlIHJlc3BlY3QgeW91ciBwcml2YWN5LiBZb3Ugd2lsbCBub3QgYmUgcmVjZWl2aW5n
+IGFueSBwcm9tb3Rpb25hbCBlbWFpbHMgZnJvbSB1cyAKYmVjYXVzZSBvZiB0aGlzIGVjYXJkLiBU
+byB2aWV3IG91ciBwcml2YWN5IHBvbGljeSwgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3c6Cmh0dHA6
+Ly9pbmZvLjEyM2dyZWV0aW5ncy5jb20vY29tcGFueS9wcml2YWN5X3BvbGljeS5odG1sCgpOb3Rl
+OiBUaGlzIGlzIGFuIGF1dG8gZ2VuZXJhdGVkIG1haWwuIFBsZWFzZSBkbyBub3QgcmVwbHkuCgpJ
+ZiB5b3UgaGF2ZSBhbnkgb3RoZXIgcHJvYmxlbSBwbGVhc2UgY29udGFjdCB1cyBieSBjbGlja2lu
+ZyBvbiB0aGUgZm9sbG93aW5nIGxpbms6Cmh0dHA6Ly9oZWxwLjEyM2dyZWV0aW5ncy5jb20vY29u
+dGFjdF91cy5odG1sCgpUaGlzIGVtYWlsIHdhcyBzZW50IGJ5IDEyM0dyZWV0aW5ncy5jb20sIElu
+Yy4sIDE2NzQgQnJvYWR3YXksIE5ldyBZb3JrLCBOWSAxMDAxOS4KCgoqKioqKioqKioqKioqKioq
+KioqKioqKiBTUE9OU09SIE1FU1NBR0UgKioqKioqKioqKioqKioqKioqKioqKgoKTm93IGF2YWls
+IHRoZSBkdWFsIGJlbmVmaXRzIG9mIGhlYWx0aCAmIHNhdmluZ3MuIApHZXQgdGhlIG1vc3QgY29t
+cHJlaGVuc2l2ZSBoZWFsdGggaW5zdXJhbmNlIHBsYW4gbm93LgoKaHR0cDovL2hpdHJrLmNvbS9j
+Z2ktYmluL2NsaWNrLnBsP2NpZD0xMjE2N0cmbGlkPTExMDAxJnVpZD0yCgoqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCQkK
+

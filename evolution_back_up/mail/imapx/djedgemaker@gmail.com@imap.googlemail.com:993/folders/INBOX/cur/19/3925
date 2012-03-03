@@ -1,0 +1,153 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.1.76 with SMTP id 12cs49177vce;
+        Tue, 11 Oct 2011 07:27:35 -0700 (PDT)
+Received: by 10.68.35.232 with SMTP id l8mr45781552pbj.75.1318343248409;
+        Tue, 11 Oct 2011 07:27:28 -0700 (PDT)
+Return-Path: <notification+kjdmk357uh5i@facebookmail.com>
+Received: from mx-out.facebook.com (outmail013.snc7.facebook.com. [69.171.232.147])
+        by mx.google.com with ESMTP id jj9si25669537pbc.55.2011.10.11.07.27.26;
+        Tue, 11 Oct 2011 07:27:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+kjdmk357uh5i@facebookmail.com designates 69.171.232.147 as permitted sender) client-ip=69.171.232.147;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of notification+kjdmk357uh5i@facebookmail.com designates 69.171.232.147 as permitted sender) smtp.mail=notification+kjdmk357uh5i@facebookmail.com; dkim=pass header.i=@facebookmail.com
+Return-Path: <notification+kjdmk357uh5i@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=facebookmail.com; s=s1024-2011-q2; c=relaxed/simple;
+	q=dns/txt; i=@facebookmail.com; t=1318343246;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=tanWDibL4iUaxmdMKNpIoqCA9R0Zlut3AEpF0fAY/+Y=;
+	b=HPlRt6/snQlBHNp40J/rNxqEaWaA7LWRoxfT7w+mcqHqsjapZIUq7VJ2jbm5rW3R
+	6LKzQnpTVVipkaIx7ToV6Qfq1KyTMMZaQ1GFeH47zQsUDD+nMSrPvAZNNvKXPlrD
+	Z760NIvcbCoQFEkYU0VjRdCJ6+DLAtN9gvPGAsnLGeI=;
+Received: from [10.60.119.55] ([10.60.119.55:53968])
+	by smout011.snc7.facebook.com (envelope-from <notification+kjdmk357uh5i@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id FE/52-23622-E42549E4; Tue, 11 Oct 2011 07:27:26 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Tue, 11 Oct 2011 07:27:26 -0700
+To: "15 no. bus" <255377947811575@groups.facebook.com>
+From: "Vikas Kumar Kaushal" <notification+kjdmk357uh5i@facebookmail.com>
+Reply-to: Reply to Comment <g+43tzdxe000zg3ryh7lr002ywwenj0ny002iiv0cgp2v1wc46@groups.facebook.com>
+Subject: [15 no. bus] New video
+Message-ID: <d66ed51598d12016a6bb0f23e3b32486@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+X-Facebook-Notify: group_activity; mailid=4fe4f7cG5af345c71ebfGad7172G96
+List-Id: <255377947811575.groups.facebook.com>
+List-Unsubscribe: <mailto:unsub+group_activity@unsubscribe.facebook.com>
+Errors-To: notification+kjdmk357uh5i@facebookmail.com
+X-FACEBOOK-PRIORITY: 0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d66ed51598d12016a6bb0f23e3b32486"
+
+
+--b1_d66ed51598d12016a6bb0f23e3b32486
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Vikas Kumar Kaushal posted in 15 no. bus.
+
+
+
+To comment on this post, reply to this email or visit:
+
+
+http://www.facebook.com/n/?groups%2F255377947811575%2F&id=3D30161584652111=
+8&mid=3D4fe4f7cG5af345c71ebfGad7172G96&bcode=3DjFFgIyqN&n_m=3Ddjedgemaker%=
+40gmail.com
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Reply to this email to add a comment. Change your notification =
+settings:=20
+http://www.facebook.com/n/?groups%2F255377947811575%2F&view=3Dnotification=
+s&mid=3D4fe4f7cG5af345c71ebfGad7172G96&bcode=3DjFFgIyqN&n_m=3Ddjedgemaker%=
+40gmail.com
+
+
+--b1_d66ed51598d12016a6bb0f23e3b32486
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><style type=3D"text/css">a.thumb:link, a.thumb:visited =
+{border:1px #CCCCCC solid !important;}a.thumb:active, a.thumb:hover =
+{border:1px #3B5998 solid =
+!important;}</style><title>Facebook</title></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table width=3D"98%" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"8"><tr><td =
+bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"500"><tr><td colspan=3D"2" =
+style=3D"padding:10px 0 0 =
+10px;color:#000000;font-size:11px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;" valign=3D"top"><table =
+width=3D"100%" style=3D"color:#000000;font-size:11px;"><tr><td =
+width=3D"100%" valign=3D"top" align=3D"left" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;color:#000000;font-size:11px;"><di=
+v style=3D"width:100%;color:#666666;padding:0 0 7px =
+0;border-bottom:#E9E9E9 1px solid;">Vikas Kumar Kaushal <a =
+href=3D"http://www.facebook.com/n/?groups%2F255377947811575%2F&amp;id=3D30=
+1615846521118&amp;mid=3D4fe4f7cG5af345c71ebfGad7172G96&amp;bcode=3DjFFgIyq=
+N&amp;n_m=3Ddjedgemaker%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:underline;">posted in 15 no. =
+bus</a>.</div><div style=3D"margin-bottom:15px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width:100%;padding-top:7px;"><tr><td =
+valign=3D"top" style=3D"padding:3px 5px 5px 0px;width:57px;"><a =
+href=3D"http://www.facebook.com/n/?profile.php&amp;id=3D100002169416068&am=
+p;mid=3D4fe4f7cG5af345c71ebfGad7172G96&amp;bcode=3DjFFgIyqN&amp;n_m=3Ddjed=
+gemaker%40gmail.com" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"http://profile.ak.fbcdn.net/hprofile-ak-snc4/187122_100002169416068=
+_954158_q.jpg" alt=3D"" style=3D"border: 0; height:50px; width:50px; " =
+/></a></td><td valign=3D"top" align=3D"left" style=3D"padding:5px 5px 5px =
+0;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width:100%;padding-bottom:5px;"><tr><td =
+style=3D"font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-s=
+erif;color:#000000;font-size:11px;"><a =
+style=3D"color:#3b5998;text-decoration:none;font-weight:bold;" =
+href=3D"http://www.facebook.com/n/?profile.php&amp;id=3D100002169416068&am=
+p;mid=3D4fe4f7cG5af345c71ebfGad7172G96&amp;bcode=3DjFFgIyqN&amp;n_m=3Ddjed=
+gemaker%40gmail.com">Vikas Kumar Kaushal</a></td><td style=3D"text-align:r=
+ight;color:#999999;padding-right:5px;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:11px;"> 7:57pm Oct =
+11 </td></tr></table><div style=3D"width:458px;word-wrap:break-word;paddin=
+g-bottom:7px;color:#000000;font-size:11px;"></div><div =
+style=3D"padding:10px 0;color:#000000;font-size:11px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" =
+style=3D"padding-right: 10px;font-size: 0px;"><a href=3D"http://www.facebo=
+ok.com/n/?photo.php&amp;v=3D140443846050869&amp;mid=3D4&amp;n_m=3Ddjedgema=
+ker%40gmail.com" class=3D"thumb" =
+style=3D"color:#3b5998;text-decoration:none;"><img class=3D"img" =
+src=3D"http://vthumb.ak.fbcdn.net/hvthumb-ak-snc6/244508_140444896050764_1=
+40443846050869_49793_1315_t.jpg" style=3D"width: 130px;" width=3D"130px;" =
+alt=3D"" /></a></td><td valign=3D"top"><a href=3D"http://www.facebook.com/=
+n/?photo.php&amp;v=3D140443846050869&amp;mid=3D4&amp;n_m=3Ddjedgemaker%40g=
+mail.com" =
+style=3D"color:#3b5998;text-decoration:none;font-weight:bold;">teri =
+meri.......great animation...........must watch it.....</a><div =
+class=3D"fcg">lina mhatare</div></td></tr></table></div></td></tr></table>=
+</div></td></tr></table><span style=3D""><img src=3D"http://www.facebook.c=
+om/email_open_log_pic.php?mid=3D4fe4f7cG5af345c71ebfGad7172G96" =
+style=3D"border:0;width:1px;height:1px;" /><bgsound src=3D"http://www.face=
+book.com/email_open_log_pic.php?mid=3D4fe4f7cG5af345c71ebfGad7172G96&s=3Da=
+" volume=3D"-10000"/></span><br /></td></tr><tr><td colspan=3D"2" =
+style=3D"color:#666666;padding:10px 5px 15px 10px;border-top:#E9E9E9 1px =
+solid;line-height: 18px;font-size: 12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><a href=3D"http://www.facebook.c=
+om/n/?groups%2F255377947811575%2F&amp;id=3D301615846521118&amp;mid=3D4fe4f=
+7cG5af345c71ebfGad7172G96&amp;bcode=3DjFFgIyqN&amp;n_m=3Ddjedgemaker%40gma=
+il.com" style=3D"color: #3b5998; text-decoration: none;">View Post on =
+Facebook</a> &middot; <a href=3D"http://www.facebook.com/n/?groups%2F25537=
+7947811575%2F&amp;view=3Dnotifications&amp;mid=3D4fe4f7cG5af345c71ebfGad71=
+72G96&amp;bcode=3DjFFgIyqN&amp;n_m=3Ddjedgemaker%40gmail.com" =
+style=3D"color: #3b5998; text-decoration: none;">Edit Email Settings</a> =
+&middot; Reply to this email to add a comment.<br =
+/></td></tr></table></td></tr></table></body></html>
+
+
+
+--b1_d66ed51598d12016a6bb0f23e3b32486--
+

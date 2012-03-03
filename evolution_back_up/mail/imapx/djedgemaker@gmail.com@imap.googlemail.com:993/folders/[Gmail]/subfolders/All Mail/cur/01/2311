@@ -1,0 +1,897 @@
+Delivered-To: djedgemaker@gmail.com
+Received: by 10.220.84.7 with SMTP id h7cs187276vcl;
+        Wed, 13 Oct 2010 05:39:15 -0700 (PDT)
+Return-Path: <s.g.vineetha@gmail.com>
+Received-SPF: pass (google.com: domain of s.g.vineetha@gmail.com designates 10.42.19.196 as permitted sender) client-ip=10.42.19.196;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of s.g.vineetha@gmail.com designates 10.42.19.196 as permitted sender) smtp.mail=s.g.vineetha@gmail.com; dkim=pass header.i=s.g.vineetha@gmail.com
+Received: from mr.google.com ([10.42.19.196])
+        by 10.42.19.196 with SMTP id d4mr3747035icb.114.1286973554457 (num_hops = 1);
+        Wed, 13 Oct 2010 05:39:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type;
+        bh=d/l8SpBNpj+7sCYMtczivYn7nba3beG/eYB5hLxdiQY=;
+        b=ar6KSnPMh4OR963wc/RpWK81Zw3pXNs8YIhceUp0taEno784JfFQ8ETDROD9haM30L
+         HeoI9A+5JYMxPFClX3ZHm9tIvUAjblC585VPHiyYAVzocf/DeiYIGf5E1VulDgDkxU/k
+         7NKAiW9VKe+bXckuzq2lWJybf3zR+Db4GrTM8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=rBvKNEug9S4ArzsGt0PvqWvoEvGBZCAP/x8tMiBDrVKPOcSQEkHh5ls4n5tez+JqBD
+         hNgDbK+TsOqYbD2kzZ5Q5pUJPssLZDYxI4URFmbiZBYDG5RTcjOcnKiKCkHDFE052TxD
+         tVGK9IC6fMUM4+jmHr972wR/aVwyJuK1fubWc=
+MIME-Version: 1.0
+Received: by 10.42.19.196 with SMTP id d4mr3747035icb.114.1286973554449; Wed,
+ 13 Oct 2010 05:39:14 -0700 (PDT)
+Received: by 10.220.186.202 with HTTP; Wed, 13 Oct 2010 05:39:14 -0700 (PDT)
+In-Reply-To: <2374EC220375FB48B2C20F9136BAEB6B0A8C4AB8A4@INFHYDEXMB.corp.infotech-enterprises.com>
+References: <001f01cb6aa3$02f909c0$08eb1d40$@com>
+	<BF5DDAB2C7E34EFD9D3033B7D1E73983@utc.com>
+	<2374EC220375FB48B2C20F9136BAEB6B0A8C4AB8A4@INFHYDEXMB.corp.infotech-enterprises.com>
+Date: Wed, 13 Oct 2010 18:09:14 +0530
+Message-ID: <AANLkTi=d6UunCNcS2S+XAfVCu_FqZG_GwjtqHqt1Wi98@mail.gmail.com>
+Subject: Fwd: FW: HaI
+From: suru gowri Vineetha <s.g.vineetha@gmail.com>
+To: "$oN@m zindagi......??????" <agrawalsonam8@gmail.com>, 
+	"Deepak Rathore now at BANGALORE......." <rockyban2006@gmail.com>, dhananjai verma <djedgemaker@gmail.com>, 
+	NITESH DEWANGAN <dwngnnitesh@gmail.com>, "*@!$h~ R@jpuT*~" <rajput.aishwary@gmail.com>, 
+	joel samuel <joelsam39@gmail.com>, chaithu kumar <chaythu.c@gmail.com>, 
+	Naveen Manda <naveen6562m@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf3040ee4a8c5c9304927ee1ad
+
+--20cf3040ee4a8c5c9304927ee1ad
+Content-Type: text/plain; charset=ISO-8859-1
+
+---------- Forwarded message ----------
+From: Santosh Madipadige <Santosh.Madipadige@infotech-enterprises.com>
+Date: Wed, Oct 13, 2010 at 12:48 PM
+Subject: FW: HaI
+To:
+
+
+
+ Thanks & Regards
+Santosh Kumar M
+Infotech - ACE Consultant
+UTC Fire & Security India Ltd.
+Mahape, Navi Mumbai
+400710, INDIA
+Mob: 09221044594
+09849919117
+
+
+ ------------------------------
+*From:* Vishal [vishalsm@infotechsw.com]
+*Sent:* Wednesday, October 13, 2010 12:23 PM
+*To:* 'Bhaskar A'; avaneeshm@infotechsw.com; 'Sunil Atmakuri';
+chaitanyavk@infotechsw.com; 'chandrashekarcv'; chetang@infotechsw.com;
+'Rajesh Dommeti'; Dhanunjaya Adalapuram; jayatejanv@infotechsw.com; Kiran
+Biduru; pankajshah@infotechsw.com; prathimab@infotechsw.com;
+prasadnv@infotechsw.com; rohitkumargp@infotechsw.com;
+rajeswarap@infotechsw.com; shashishankar@infotechsw.com; 'Satish RK';
+sravanip@infotechsw.com; sheetala@infotechsw.com; senthils@infotechsw.com;
+Santosh Madipadige; srinivasaraor@infotechsw.com;
+Srinivas.Chinthapally@Honeywell.com; thulasimanig@infotechsw.com; Udaya
+Chakkirala; venkatasaig@infotechsw.com; Vineeth Ramappa; 'Vikranth Damera'
+*Subject:* RE: HaI
+
+
+
+
+ ------------------------------
+
+*From:* Bhaskar A [mailto:bhaskara@infotechsw.com]
+*Sent:* Wednesday, October 13, 2010 12:21 PM
+*To:* avaneeshm@infotechsw.com; 'Sunil Atmakuri'; chaitanyavk@infotechsw.com;
+'chandrashekarcv'; chetang@infotechsw.com; 'Rajesh Dommeti';
+Dhanunjaya.Adalapuram@infotech-enterprises.com; jayatejanv@infotechsw.com;
+'Kiran Biduru'; pankajshah@infotechsw.com; prathimab@infotechsw.com;
+prasadnv@infotechsw.com; rohitkumargp@infotechsw.com;
+rajeswarap@infotechsw.com; shashishankar@infotechsw.com; 'Satish RK';
+sravanip@infotechsw.com; sheetala@infotechsw.com; senthils@infotechsw.com;
+'Santosh Madipadige'; srinivasaraor@infotechsw.com;
+Srinivas.Chinthapally@Honeywell.com; thulasimanig@infotechsw.com; 'Udaya
+Chakkirala'; venkatasaig@infotechsw.com;
+vineeth.ramappa@infotech-enterprises.com; 'Vikranth Damera';
+vishalsm@infotechsw.com
+*Subject:* HaI
+
+
+
+
+
+
+
+*This October has 5 Fridays, 5 Saturdays and 5 Sundays, all in one month.
+It happens once in 823 years.*  *These are money bags.**  Pass them to 8
+good people and money will appear in 4** **days.  Based on Chinese Fengshui,
+whoever stops this will experience none.*
+  *October 2010 *
+
+
+
+
+
+*Sunday*
+
+*Monday*
+
+*Tuesday*
+
+*Wednesday*
+
+*Thursday*
+
+*Friday*
+
+*Saturday*
+
+
+
+
+
+*               *
+
+
+
+
+
+*1 <http://www.freeprintablecalendar.net/october/1/2010.aspx>*
+
+*2 <http://www.freeprintablecalendar.net/october/2/2010.aspx>*
+
+*3 <http://www.freeprintablecalendar.net/october/3/2010.aspx>*
+
+*4 <http://www.freeprintablecalendar.net/october/4/2010.aspx>*
+
+*5 <http://www.freeprintablecalendar.net/october/5/2010.aspx>*
+
+*6 <http://www.freeprintablecalendar.net/october/6/2010.aspx>*
+
+*7 <http://www.freeprintablecalendar.net/october/7/2010.aspx>*
+
+*8 <http://www.freeprintablecalendar.net/october/8/2010.aspx>*
+
+*9 <http://www.freeprintablecalendar.net/october/9/2010.aspx>*
+
+*10 <http://www.freeprintablecalendar.net/october/10/2010.aspx>*
+
+*11 <http://www.freeprintablecalendar.net/october/11/2010.aspx>*
+
+*12 <http://www.freeprintablecalendar.net/october/12/2010.aspx>*
+
+*13 <http://www.freeprintablecalendar.net/october/13/2010.aspx>*
+
+*14 <http://www.freeprintablecalendar.net/october/14/2010.aspx>*
+
+*15 <http://www.freeprintablecalendar.net/october/15/2010.aspx>*
+
+*16 <http://www.freeprintablecalendar.net/october/16/2010.aspx>*
+
+*17 <http://www.freeprintablecalendar.net/october/17/2010.aspx>*
+
+*18 <http://www.freeprintablecalendar.net/october/18/2010.aspx>*
+
+*19 <http://www.freeprintablecalendar.net/october/19/2010.aspx>*
+
+*20 <http://www.freeprintablecalendar.net/october/20/2010.aspx>*
+
+*21 <http://www.freeprintablecalendar.net/october/21/2010.aspx>*
+
+*22 <http://www.freeprintablecalendar.net/october/22/2010.aspx> *
+
+*23 <http://www.freeprintablecalendar.net/october/23/2010.aspx>*
+
+*24 <http://www.freeprintablecalendar.net/october/24/2010.aspx>*
+
+*25 <http://www.freeprintablecalendar.net/october/25/2010.aspx>*
+
+*26 <http://www.freeprintablecalendar.net/october/26/2010.aspx>*
+
+*27 <http://www.freeprintablecalendar.net/october/27/2010.aspx>*
+
+*28 <http://www.freeprintablecalendar.net/october/28/2010.aspx>*
+
+*29 <http://www.freeprintablecalendar.net/october/29/2010.aspx>*
+
+*30 <http://www.freeprintablecalendar.net/october/30/2010.aspx>*
+
+*31 Halloween <http://www.freeprintablecalendar.net/october/31/2010.aspx>*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+DISCLAIMER:
+
+This email may contain confidential information and is intended only for the
+use of the specific individual(s) to which it is addressed. If you are not
+the intended recipient of this email, you are hereby notified that any
+unauthorized use, dissemination or copying of this email or the information
+contained in it or attached to it is strictly prohibited. If you received
+this message in error, please immediately notify the sender at Infotech or
+Mail.Admin@infotech-enterprises.com and delete the original message.
+
+--20cf3040ee4a8c5c9304927ee1ad
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br><br>
+<div class=3D"gmail_quote">---------- Forwarded message ----------<br>From:=
+ <b class=3D"gmail_sendername">Santosh Madipadige</b> <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:Santosh.Madipadige@infotech-enterprises.com">Santosh.Mad=
+ipadige@infotech-enterprises.com</a>&gt;</span><br>
+Date: Wed, Oct 13, 2010 at 12:48 PM<br>Subject: FW: HaI<br>To: <br><br><br>
+<div lang=3D"EN-US" vlink=3D"purple" link=3D"blue">
+<div dir=3D"ltr"><font color=3D"#000000" size=3D"2" face=3D"Tahoma"></font>=
+=A0</div>
+<div>
+<div><font size=3D"2" face=3D"Tahoma">Thanks &amp; Regards</font></div>
+<div><font size=3D"2" face=3D"Tahoma">Santosh Kumar M</font></div>
+<div><font size=3D"2" face=3D"tahoma">Infotech - ACE Consultant </font></di=
+v>
+<div><font size=3D"2" face=3D"tahoma">UTC Fire &amp; Security India Ltd.</f=
+ont></div>
+<div><font size=3D"2" face=3D"tahoma">Mahape, Navi Mumbai</font></div>
+<div><font size=3D"2" face=3D"tahoma">400710, INDIA</font></div>
+<div><font size=3D"2" face=3D"tahoma">Mob: 09221044594</font></div>
+<div><font size=3D"2" face=3D"tahoma">09849919117</font></div>
+<div><font size=3D"2" face=3D"tahoma"><font color=3D"#3f52b8"></font></font=
+>=A0</div>
+<div><font color=3D"#3f52b8" size=3D"2" face=3D"tahoma"></font>=A0</div></d=
+iv>
+<div style=3D"DIRECTION: ltr">
+<hr>
+<font size=3D"2" face=3D"Tahoma"><b>From:</b> Vishal [<a href=3D"mailto:vis=
+halsm@infotechsw.com" target=3D"_blank">vishalsm@infotechsw.com</a>]<br><b>=
+Sent:</b> Wednesday, October 13, 2010 12:23 PM<br><b>To:</b> &#39;Bhaskar A=
+&#39;; <a href=3D"mailto:avaneeshm@infotechsw.com" target=3D"_blank">avanee=
+shm@infotechsw.com</a>; &#39;Sunil Atmakuri&#39;; <a href=3D"mailto:chaitan=
+yavk@infotechsw.com" target=3D"_blank">chaitanyavk@infotechsw.com</a>; &#39=
+;chandrashekarcv&#39;; <a href=3D"mailto:chetang@infotechsw.com" target=3D"=
+_blank">chetang@infotechsw.com</a>; &#39;Rajesh Dommeti&#39;; Dhanunjaya Ad=
+alapuram; <a href=3D"mailto:jayatejanv@infotechsw.com" target=3D"_blank">ja=
+yatejanv@infotechsw.com</a>; Kiran Biduru; <a href=3D"mailto:pankajshah@inf=
+otechsw.com" target=3D"_blank">pankajshah@infotechsw.com</a>; <a href=3D"ma=
+ilto:prathimab@infotechsw.com" target=3D"_blank">prathimab@infotechsw.com</=
+a>; <a href=3D"mailto:prasadnv@infotechsw.com" target=3D"_blank">prasadnv@i=
+nfotechsw.com</a>; <a href=3D"mailto:rohitkumargp@infotechsw.com" target=3D=
+"_blank">rohitkumargp@infotechsw.com</a>; <a href=3D"mailto:rajeswarap@info=
+techsw.com" target=3D"_blank">rajeswarap@infotechsw.com</a>; <a href=3D"mai=
+lto:shashishankar@infotechsw.com" target=3D"_blank">shashishankar@infotechs=
+w.com</a>; &#39;Satish RK&#39;; <a href=3D"mailto:sravanip@infotechsw.com" =
+target=3D"_blank">sravanip@infotechsw.com</a>; <a href=3D"mailto:sheetala@i=
+nfotechsw.com" target=3D"_blank">sheetala@infotechsw.com</a>; <a href=3D"ma=
+ilto:senthils@infotechsw.com" target=3D"_blank">senthils@infotechsw.com</a>=
+; Santosh Madipadige; <a href=3D"mailto:srinivasaraor@infotechsw.com" targe=
+t=3D"_blank">srinivasaraor@infotechsw.com</a>; Srinivas.Chinthapally@Honeyw=
+ell.com; <a href=3D"mailto:thulasimanig@infotechsw.com" target=3D"_blank">t=
+hulasimanig@infotechsw.com</a>; Udaya Chakkirala; <a href=3D"mailto:venkata=
+saig@infotechsw.com" target=3D"_blank">venkatasaig@infotechsw.com</a>; Vine=
+eth Ramappa; &#39;Vikranth Damera&#39;<br>
+<b>Subject:</b> RE: HaI<br></font><br></div>
+<div></div>
+<div>
+<div>
+<p class=3D"MsoNormal"><font color=3D"navy" size=3D"2" face=3D"Arial"><span=
+ style=3D"FONT-FAMILY: Arial; COLOR: navy; FONT-SIZE: 10pt"></span></font>=
+=A0</p>
+<p class=3D"MsoNormal"><font color=3D"navy" size=3D"2" face=3D"Arial"><span=
+ style=3D"FONT-FAMILY: Arial; COLOR: navy; FONT-SIZE: 10pt"></span></font>=
+=A0</p>
+<div>
+<div style=3D"TEXT-ALIGN: center" class=3D"MsoNormal" align=3D"center"><fon=
+t size=3D"3" face=3D"Times New Roman"><span style=3D"FONT-SIZE: 12pt">
+<hr align=3D"center" size=3D"2" width=3D"100%">
+</span></font></div>
+<p class=3D"MsoNormal"><b><font size=3D"2" face=3D"Tahoma"><span style=3D"F=
+ONT-FAMILY: Tahoma; FONT-SIZE: 10pt; FONT-WEIGHT: bold">From:</span></font>=
+</b><font size=3D"2" face=3D"Tahoma"><span style=3D"FONT-FAMILY: Tahoma; FO=
+NT-SIZE: 10pt"> Bhaskar A [mailto:<a href=3D"mailto:bhaskara@infotechsw.com=
+" target=3D"_blank">bhaskara@infotechsw.com</a>] <br>
+<b><span style=3D"FONT-WEIGHT: bold">Sent:</span></b> Wednesday, October 13=
+, 2010 12:21 PM<br><b><span style=3D"FONT-WEIGHT: bold">To:</span></b> <a h=
+ref=3D"mailto:avaneeshm@infotechsw.com" target=3D"_blank">avaneeshm@infotec=
+hsw.com</a>; &#39;Sunil Atmakuri&#39;; <a href=3D"mailto:chaitanyavk@infote=
+chsw.com" target=3D"_blank">chaitanyavk@infotechsw.com</a>; &#39;chandrashe=
+karcv&#39;; <a href=3D"mailto:chetang@infotechsw.com" target=3D"_blank">che=
+tang@infotechsw.com</a>; &#39;Rajesh Dommeti&#39;; <a href=3D"mailto:Dhanun=
+jaya.Adalapuram@infotech-enterprises.com" target=3D"_blank">Dhanunjaya.Adal=
+apuram@infotech-enterprises.com</a>; <a href=3D"mailto:jayatejanv@infotechs=
+w.com" target=3D"_blank">jayatejanv@infotechsw.com</a>; &#39;Kiran Biduru&#=
+39;; <a href=3D"mailto:pankajshah@infotechsw.com" target=3D"_blank">pankajs=
+hah@infotechsw.com</a>; <a href=3D"mailto:prathimab@infotechsw.com" target=
+=3D"_blank">prathimab@infotechsw.com</a>; <a href=3D"mailto:prasadnv@infote=
+chsw.com" target=3D"_blank">prasadnv@infotechsw.com</a>; <a href=3D"mailto:=
+rohitkumargp@infotechsw.com" target=3D"_blank">rohitkumargp@infotechsw.com<=
+/a>; <a href=3D"mailto:rajeswarap@infotechsw.com" target=3D"_blank">rajeswa=
+rap@infotechsw.com</a>; <a href=3D"mailto:shashishankar@infotechsw.com" tar=
+get=3D"_blank">shashishankar@infotechsw.com</a>; &#39;Satish RK&#39;; <a hr=
+ef=3D"mailto:sravanip@infotechsw.com" target=3D"_blank">sravanip@infotechsw=
+.com</a>; <a href=3D"mailto:sheetala@infotechsw.com" target=3D"_blank">shee=
+tala@infotechsw.com</a>; <a href=3D"mailto:senthils@infotechsw.com" target=
+=3D"_blank">senthils@infotechsw.com</a>; &#39;Santosh Madipadige&#39;; <a h=
+ref=3D"mailto:srinivasaraor@infotechsw.com" target=3D"_blank">srinivasaraor=
+@infotechsw.com</a>; Srinivas.Chinthapally@Honeywell.com; <a href=3D"mailto=
+:thulasimanig@infotechsw.com" target=3D"_blank">thulasimanig@infotechsw.com=
+</a>; &#39;Udaya Chakkirala&#39;; <a href=3D"mailto:venkatasaig@infotechsw.=
+com" target=3D"_blank">venkatasaig@infotechsw.com</a>; <a href=3D"mailto:vi=
+neeth.ramappa@infotech-enterprises.com" target=3D"_blank">vineeth.ramappa@i=
+nfotech-enterprises.com</a>; &#39;Vikranth Damera&#39;; <a href=3D"mailto:v=
+ishalsm@infotechsw.com" target=3D"_blank">vishalsm@infotechsw.com</a><br>
+<b><span style=3D"FONT-WEIGHT: bold">Subject:</span></b> HaI</span></font><=
+/p></div>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in" valign=3D"top">
+<p><em><i><font color=3D"#3366ff" size=3D"5" face=3D"Chasm"><span style=3D"=
+FONT-FAMILY: Chasm; COLOR: #3366ff; FONT-SIZE: 18pt">This October has 5 Fri=
+days, 5 Saturdays and 5 Sundays, all in one month.=A0 It happens once in 82=
+3 years.</span></font></i></em><font color=3D"#3366ff" size=3D"5" face=3D"C=
+hasm"><span style=3D"FONT-FAMILY: Chasm; COLOR: #3366ff; FONT-SIZE: 18pt">=
+=A0 </span></font><strong><b><i><u><font color=3D"#c00000" size=3D"5" face=
+=3D"Chasm"><span style=3D"FONT-STYLE: italic; FONT-FAMILY: Chasm; COLOR: #c=
+00000; FONT-SIZE: 18pt">These are money bags.</span></font></u></i></b></st=
+rong><em><i><font color=3D"#3366ff" size=3D"5" face=3D"Chasm"><span style=
+=3D"FONT-FAMILY: Chasm; COLOR: #3366ff; FONT-SIZE: 18pt">=A0 Pass them to 8=
+ good people and money will appear in 4</span></font></i></em><em><i><font =
+color=3D"black" size=3D"5" face=3D"Chasm"><span style=3D"FONT-FAMILY: Chasm=
+; COLOR: black; FONT-SIZE: 18pt"> </span></font></i></em><em><i><font color=
+=3D"#3366ff" size=3D"5" face=3D"Chasm"><span style=3D"FONT-FAMILY: Chasm; C=
+OLOR: #3366ff; FONT-SIZE: 18pt">days.=A0 Based on Chinese Fengshui, whoever=
+ stops this will experience none.</span></font></i></em></p>
+
+<table style=3D"WIDTH: 38.3%" border=3D"0" cellspacing=3D"3" cellpadding=3D=
+"0" width=3D"38%">
+<tbody>
+<tr style=3D"MIN-HEIGHT: 23.25pt">
+<td style=3D"PADDING-BOTTOM: 0.75pt; MIN-HEIGHT: 23.25pt; PADDING-LEFT: 0.7=
+5pt; PADDING-RIGHT: 0.75pt; PADDING-TOP: 0.75pt">
+<h1 style=3D"TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=3D"center"><b><=
+font color=3D"#c00000" size=3D"6" face=3D"Times New Roman"><span style=3D"C=
+OLOR: #c00000; FONT-SIZE: 24pt">October 2010 </span></font></b></h1></td>
+<td style=3D"PADDING-BOTTOM: 0.75pt; MIN-HEIGHT: 23.25pt; PADDING-LEFT: 0.7=
+5pt; WIDTH: 24.12%; PADDING-RIGHT: 0.75pt; PADDING-TOP: 0.75pt" width=3D"24=
+%">
+<p style=3D"TEXT-ALIGN: right" align=3D"right"><font size=3D"3" face=3D"Tim=
+es New Roman"><span style=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td></t=
+r></tbody></table>
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"FONT-SIZE: 12pt=
+"></span></font>=A0</p>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr style=3D"MIN-HEIGHT: 2.25pt">
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 38.75p=
+t; PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; B=
+ORDER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" widt=
+h=3D"52">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Sunday</span></fo=
+nt></b></p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 38pt; =
+PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; BORD=
+ER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" width=
+=3D"51">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Monday</span></fo=
+nt></b></p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 39.5pt=
+; PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; BO=
+RDER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" width=
+=3D"53">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Tuesday</span></f=
+ont></b></p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 54.5pt=
+; PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; BO=
+RDER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" width=
+=3D"73">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Wednesday</span><=
+/font></b></p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 42.5pt=
+; PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; BO=
+RDER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" width=
+=3D"57">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Thursday</span></=
+font></b></p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 29.75p=
+t; PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; B=
+ORDER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" widt=
+h=3D"40">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Friday</span></fo=
+nt></b></p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 1.5pt; MIN-HEIGHT: 2.25pt; PADDING-LEFT: 0in; WIDTH: 41.75p=
+t; PADDING-RIGHT: 0in; BACKGROUND: moccasin; BORDER-TOP: black 1pt solid; B=
+ORDER-RIGHT: black 1pt solid; PADDING-TOP: 1.5pt" bgcolor=3D"moccasin" widt=
+h=3D"56">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Saturday</span></=
+font></b></p></td></tr>
+<tr style=3D"MIN-HEIGHT: 9pt">
+<td style=3D"BORDER-BOTTOM: #cccccc 1pt solid; BORDER-LEFT: #cccccc 1pt sol=
+id; PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 3=
+8.75pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: #=
+cccccc 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"52">
+
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"FONT-SIZE: 12pt=
+"></span></font>=A0</p></td>
+<td style=3D"BORDER-BOTTOM: #cccccc 1pt solid; BORDER-LEFT: #cccccc 1pt sol=
+id; PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 3=
+8pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: #ccc=
+ccc 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"51">
+
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"FONT-SIZE: 12pt=
+"></span></font>=A0</p></td>
+<td style=3D"BORDER-BOTTOM: #cccccc 1pt solid; BORDER-LEFT: #cccccc 1pt sol=
+id; PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 3=
+9.5pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: #c=
+ccccc 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"53">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0</span></font></b></p></td>
+<td style=3D"BORDER-BOTTOM: #cccccc 1pt solid; BORDER-LEFT: #cccccc 1pt sol=
+id; PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 5=
+4.5pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: #c=
+ccccc 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"73">
+
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"FONT-SIZE: 12pt=
+"></span></font>=A0</p></td>
+<td style=3D"BORDER-BOTTOM: #cccccc 1pt solid; BORDER-LEFT: #cccccc 1pt sol=
+id; PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 4=
+2.5pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: #c=
+ccccc 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"57">
+
+<p><font size=3D"3" face=3D"Times New Roman"><span style=3D"FONT-SIZE: 12pt=
+"></span></font>=A0</p></td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 29.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"40">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/1/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 41.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"56">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/2/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2<=
+/span></font></a></span></font></b></p>
+</td></tr>
+<tr style=3D"MIN-HEIGHT: 9pt">
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"52">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/3/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">3<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38pt;=
+ PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1p=
+t solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"51">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/4/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">4<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 39.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"53">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/5/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">5<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 54.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"73">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/6/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">6<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 42.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"57">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/7/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">7<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 29.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"40">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/8/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">8<=
+/span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 41.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"56">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/9/2010.aspx" target=3D"_blank"><font=
+ color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">9<=
+/span></font></a></span></font></b></p>
+</td></tr>
+<tr style=3D"MIN-HEIGHT: 9pt">
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"52">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/10/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+0</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38pt;=
+ PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1p=
+t solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"51">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/11/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+1</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 39.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"53">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/12/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+2</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 54.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"73">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/13/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+3</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 42.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"57">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/14/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+4</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 29.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"40">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/15/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+5</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 41.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"56">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/16/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+6</span></font></a></span></font></b></p>
+</td></tr>
+<tr style=3D"MIN-HEIGHT: 9pt">
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"52">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/17/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+7</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38pt;=
+ PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1p=
+t solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"51">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/18/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+8</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 39.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"53">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/19/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">1=
+9</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 54.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"73">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/20/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+0</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 42.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"57">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/21/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+1</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 29.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"40">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/22/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+2</span></font></a>=A0</span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 41.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"56">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/23/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+3</span></font></a></span></font></b></p>
+</td></tr>
+<tr style=3D"MIN-HEIGHT: 9pt">
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"52">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/24/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+4</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38pt;=
+ PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1p=
+t solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"51">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/25/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+5</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 39.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"53">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/26/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+6</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 54.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"73">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/27/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+7</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 42.5p=
+t; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black =
+1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"57">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/28/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+8</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 29.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"40">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/29/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">2=
+9</span></font></a></span></font></b></p>
+</td>
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 41.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"56">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/30/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">3=
+0</span></font></a></span></font></b></p>
+</td></tr>
+<tr style=3D"MIN-HEIGHT: 9pt">
+<td style=3D"BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; =
+PADDING-BOTTOM: 2.25pt; MIN-HEIGHT: 9pt; PADDING-LEFT: 2.25pt; WIDTH: 38.75=
+pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black=
+ 1pt solid; PADDING-TOP: 2.25pt" valign=3D"top" width=3D"52">
+
+<p><b><font color=3D"#c00000" size=3D"2" face=3D"Times New Roman"><span sty=
+le=3D"COLOR: #c00000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a href=3D"http:/=
+/www.freeprintablecalendar.net/october/31/2010.aspx" target=3D"_blank"><fon=
+t color=3D"#c00000"><span style=3D"COLOR: #c00000; TEXT-DECORATION: none">3=
+1 </span></font><font color=3D"#c00000" size=3D"1"><span style=3D"COLOR: #c=
+00000; FONT-SIZE: 7pt; TEXT-DECORATION: none">Halloween </span></font></a><=
+/span></font></b></p>
+</td>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in">
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in">
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in">
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in">
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in">
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td>
+<td style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PA=
+DDING-TOP: 0in">
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td></tr></tbody></table>
+<p class=3D"MsoNormal"><font color=3D"black" size=3D"4" face=3D"Arial"><spa=
+n style=3D"FONT-FAMILY: Arial; COLOR: black; FONT-SIZE: 14pt"><br>=A0</span=
+></font></p>
+<p style=3D"LINE-HEIGHT: 115%"><font size=3D"3" face=3D"Times New Roman"><s=
+pan style=3D"LINE-HEIGHT: 115%; FONT-SIZE: 12pt"></span></font>=A0</p>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p>
+<p class=3D"MsoNormal"><font size=3D"3" face=3D"Times New Roman"><span styl=
+e=3D"FONT-SIZE: 12pt"></span></font>=A0</p></td></tr></tbody></table>
+<p class=3D"MsoNormal"><font size=3D"2" face=3D"Calibri"><span style=3D"FON=
+T-FAMILY: Calibri; FONT-SIZE: 11pt"></span></font>=A0</p></div></div><br>
+<hr>
+<font color=3D"gray" size=3D"1" face=3D"Arial">DISCLAIMER:<br><br>This emai=
+l may contain confidential information and is intended only for the use of =
+the specific individual(s) to which it is addressed. If you are not the int=
+ended recipient of this email, you are hereby notified that any unauthorize=
+d use, dissemination or copying of this email or the information contained =
+in it or attached to it is strictly prohibited. If you received this messag=
+e in error, please immediately notify the sender at Infotech or <a href=3D"=
+mailto:Mail.Admin@infotech-enterprises.com" target=3D"_blank">Mail.Admin@in=
+fotech-enterprises.com</a> and delete the original message.<br>
+</font></div></div><br>
+
+--20cf3040ee4a8c5c9304927ee1ad--
